@@ -57,3 +57,16 @@ vim → git's default editor for commit messages. Modal: keystrokes are
   succeeded, only the message step failed. Merge state persists; finishing
   it is just git commit -m. Failure messages often describe a smaller
   problem than they look like.
+
+raw_description convention → verbatim, including platform boilerplate,
+  duplicated condition/size fields, and spec data (measurements,
+  composition). Raw data files stay raw; stripping is a code step, not a
+  collection step. Exception: collapse runs of whitespace to single
+  spaces — those are a copy-paste artifact, not content.
+
+Listing fields are redundant by design → Vestiaire repeats condition and
+  size inside the description body as well as in structured fields. Means
+  the model will see the condition label twice, which may make extraction
+  look better than it would on a platform that doesn't duplicate. Worth
+  checking whether other platforms do this before treating any accuracy
+  number as comparable across sources.
