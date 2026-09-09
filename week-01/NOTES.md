@@ -70,3 +70,13 @@ Listing fields are redundant by design → Vestiaire repeats condition and
   look better than it would on a platform that doesn't duplicate. Worth
   checking whether other platforms do this before treating any accuracy
   number as comparable across sources.
+
+Friday, Sept 4, 2026
+Numbers export went to iCloud, not the repo → macOS "Desktop & Documents
+  in iCloud" makes ~/Documents an iCloud location. Numbers defaulted its
+  export there, silently creating a parallel resale-stack/week-01/data/
+  path. The overwrite prompt was real — but for the wrong file. Lesson:
+  an overwrite confirmation only proves a file with that name existed
+  where you're saving, not that you're saving in the right place. Verify
+  with a timestamp check, not the dialog.
+
