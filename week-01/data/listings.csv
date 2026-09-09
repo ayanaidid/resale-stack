@@ -1,2 +1,1506 @@
-listing_id,source_platform,source_url,captured_at,raw_title,raw_description,original_price,listed_price,stated_condition,seller_reputation,image_urls,notes
-L001,Vestiaire Collective,https://www.vestiairecollective.com/women-clothing/skirts/courreges/white-cotton-courreges-skirt-68783323.shtml,2026-09-04,Courreges Coated Cotton Mini Skirt in White,"Courreges Coated Cotton Mini Skirt in White. Features a mid rise. Button and zipper fastening. Courreges logo embroidered at the hip. Coated cotton exterior. Cupro lining. Straight hem. This item has been inspected and authenticated by Vestiaire Collective Experts and is ready to ship. Never worn, with tag. Size 34 FR. Measurements; Waist 13in, Hips 17in, Length 14in. Composition; 88% Cotton, 10% Polyurethane, 2% Elastane. Lining: 100% Cupro. Made in Portugal.",252,239,"Never worn, with tag",Expert Seller,"https://images.vestiairecollective.com/images/resized/w=1246,q=75,f=auto,/produit/white-cotton-courreges-skirt-68783323-1_1.jpg|https://images.vestiairecollective.com/images/resized/w=1246,q=75,f=auto,/produit/white-cotton-courreges-skirt-68783323-2_1.jpg|https://images.vestiairecollective.com/images/resized/w=1246,q=75,f=auto,/produit/white-cotton-courreges-skirt-68783323-3_1.jpg",condition and size duplicated inside description body; platform authentication boilerplate included per verbatim convention
+listing_id,source_platform,source_url,captured_at,raw_title,raw_description,MSRP_price,original_price,listed_price,stated_condition,seller_reputation,image_urls,notes
+L001,Vestiaire Collective,https://www.vestiairecollective.com/women-clothing/skirts/courreges/white-cotton-courreges-skirt-68783323.shtml,2026-09-04,Courreges Coated Cotton Mini Skirt in White,"Courreges Coated Cotton Mini Skirt in White. Features a mid rise. Button and zipper fastening. Courreges logo embroidered at the hip. Coated cotton exterior. Cupro lining. Straight hem. This item has been inspected and authenticated by Vestiaire Collective Experts and is ready to ship. Never worn, with tag. Size 34 FR. Measurements; Waist 13in, Hips 17in, Length 14in. Composition; 88% Cotton, 10% Polyurethane, 2% Elastane. Lining: 100% Cupro. Made in Portugal.",,252.00,239.00,"Never worn, with tag",Expert Seller,"https://images.vestiairecollective.com/images/resized/w=1246,q=75,f=auto,/produit/white-cotton-courreges-skirt-68783323-1_1.jpg|https://images.vestiairecollective.com/images/resized/w=1246,q=75,f=auto,/produit/white-cotton-courreges-skirt-68783323-2_1.jpg|https://images.vestiairecollective.com/images/resized/w=1246,q=75,f=auto,/produit/white-cotton-courreges-skirt-68783323-3_1.jpg",condition and size duplicated inside description body; platform authentication boilerplate included per verbatim convention
+L002,The RealReal,https://www.therealreal.com/products/women/clothing/dresses/staud-polka-dot-print-long-dress-wbj6a,2026-09-09,Staud Polka Dot Print Long Dress,"Staud Dress; Black; Polka Dot Print; Cutout & Mesh Accents; Sleeveless with Mock Neck; Concealed Zip Closure at Back
+ Fit: Dresses by Staud typically fit true to size. Bust 30”; Waist 24.5”; Hip 32”; Length 61.75”; Gender Women; Fabric 67% Rayon, 29% Nylon, 4% Elastane; Combo 100% Polyamide
+ Item # WSTFG119642",325.00,165.00,156.75,Excellent,,https://product-images.therealreal.com/WSTFG119642_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WSTFG119642_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WSTFG119642_3_enlarged.jpg?auto=webp&width=1920,"TRR structures measurements as separate fields rather than prose — same pattern as condition labels."""
+L003,The RealReal,https://www.therealreal.com/products/women/clothing/dresses/sandy-liang-silk-midi-length-dress-w64wu,2026-09-09,Sandy Liang Silk Midi Length Dress,"Sandy Liang Silk Dress; Blue & White; Printed; Ruffle Embellishment; Long Sleeve with Mock Neck; Sash-Tie Closure at Front
+  Fit: Dresses by Sandy Liang typically fit true to size.
+ Bust
+ 25.25""
+ Waist
+ 22.75""
+ Hip
+ 32.25""
+ Length
+ 44""
+ Gender
+ Women
+ Fabric
+ 100% Silk; Lining 100% Polyester
+ Item #
+ SDY27471",480.00,355.00,284.00,Very Good,,https://product-images.therealreal.com/SDY27471_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/SDY27471_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/SDY27471_3_enlarged.jpg?auto=webp&width=1920,
+L004,The RealReal,https://www.therealreal.com/products/women/clothing/skirts/dries-van-noten-floral-print-long-skirt-wg7o6,2026-09-09,Dries Van Noten Floral Print Long Skirt,"Dries Van Noten Skirt
+  Purple
+  Floral Print
+  Zip & Button Closure
+  Fit: Skirts by Dries Van Noten typically fit true to size.
+ Waist
+ 27.75""
+ Hip
+ 39""
+ Length
+ 38.5""
+ Gender
+ Women
+ Fabric
+ 50% Cotton, 50% Linen
+ Item #
+ DRI193609",,,925.00,Excellent,,https://product-images.therealreal.com/DRI193609_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/DRI193609_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/DRI193609_3_enlarged.jpg?auto=webp&width=1920,
+L005,Poshmark,https://poshmark.com/listing/Johnny-Was-Sofiya-Primula-Burnout-Silk-Tunic-Dress-Blue-Floral-sz-Medium-NEW-6a957cad839f7a7a2e71b790,2026-09-09,Johnny Was Sofiya Primula Burnout Silk Tunic Dress Blue Floral sz Medium NEW,"Size
+M
+Condition
+New With Tags
+Color
+Blue
+Red
+Category
+Women
+Dresses
+Mini
+Brand
+Johnny Was
+Bright blue tunic dress with vibrant floral and paisley print. Multicolored pattern with red, pink, green and yellow accents. Tie neckline and 3/4 sleeves with embroidered cuff detail. Lightweight and easy to wear. Bold, bohemian look.
+
+Bust: 40”
+Length:36”
+Sleeve Length:17”
+
+Tag Size:medium
+Condition:new
+Material:82% Rayon/18% Silk
+
+Sku:1023",388.00,,178.00,New with tags,,https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a957cad839f7a7a2e71b790/l_wp_6a957cb04985e89c9473db98.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a957cad839f7a7a2e71b790/l_wp_6a957cb14941b51c6432faee.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a957cad839f7a7a2e71b790/l_wp_6a957cb28974d0ad90d96f72.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a957cad839f7a7a2e71b790/l_wp_6a957cb405ce5716084db88e.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a957cad839f7a7a2e71b790/l_wp_6a957cb54fcf261bd713b4e4.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a957cad839f7a7a2e71b790/l_wp_6a957cb6b9dd70aef0b1c144.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a957cad839f7a7a2e71b790/l_wp_6a957cb856502b89acc1d463.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a957cad839f7a7a2e71b790/l_wp_6a957cb9ad242aa02ce0843f.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a957cad839f7a7a2e71b790/l_wp_6a957cba221dcb65e5fdc85a.webp,all poshmark listings have MSRP and listing price
+L006,Poshmark,https://poshmark.com/listing/Chanel-Brown-Tweed-Skirt-679519c715460044be476074,2026-09-09,Chanel Brown Tweed Skity,"Size
+FR 40
+Color
+Brown
+Category
+Women
+Skirts
+Midi
+Brand
+CHANEL
+Elegant Chanel tweed skirt. Features button details. Perfect for any occasion. Waist 29.5”. Hip 40.5”","2,500.00",,750.00,,,https://di2ponv0v5otw.cloudfront.net/posts/2025/01/25/679519c715460044be476074/l_67951a561df63662d164b9c2.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2025/01/25/679519c715460044be476074/l_67951a675af6e624d7769a74.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2025/01/25/679519c715460044be476074/l_67951a76c4b73a9ce9a2e964.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2025/01/25/679519c715460044be476074/l_wp_679519d70e5172664a6b1a64.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/01/25/679519c715460044be476074/l_wp_679519d81546006caf476160.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/01/25/679519c715460044be476074/l_wp_679519d9c9af8c803b1965da.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/01/25/679519c715460044be476074/l_wp_679519da07ac557d82b9fae0.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/01/25/679519c715460044be476074/l_wp_679519dbd399ff6db93d51b8.webp,there was no condition listed here -- poshmark doesn't require a condition listed for a post
+L007,eBay,https://www.ebay.com/itm/237040896776?itmmeta=01M23F4CQ477EW97MWAPF5S634&hash=item3730bd0b08:g:BWwAAeSwJ91qRO4L&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4LupkOyEMOEU1z1iR7dZ05p%2FjuOK6Mv%2BOA9gmbhPbbIjPcK8U8%2FHJ%2FvPP9FhKlJgiWXIgsnFqFb%2Fmflheyi%2BqlwIoksmMwRqF%2FzM5KzjeUphq5KcK7EQVW5As2I5lKFLXLlifQmc4uDQ8psR3HwreG1Reb22N4zZf2C%2BufFgMGK270BA%2BtRDItfr8ZBcW7%2FqXGN1EIWVg3cr7h4zmEsEt--Qsz611e%2BfY0E2eEoLMmzBZre%2FkURyPsMQEmEOgGPKWhFjF6kyRS04W483%2Bro23aLXZ%7Ctkp%3ABFBM7MuR75Bo,2026-09-09,NEW $248 CITIZENS OF HUMANITY ZURIE STRAIGHT LEG JEANS IN SUTHERLAND SIZE 27,"Color wash is ""sutherland"". a dark blue with fade and whiskering details.
+Retails for $248!!! 😲
+
+SAMPLE. Being a SAMPLE the standard cloth/fabric tags are not attached (has garment operator tag). SAMPLES may have slight variances (more often not) such as inseam length, color, and fade details. Please see entire description including additional details, and all pictures, thank you!
+
+New without tag with possible irregularities (or variances). There appears to be color wash irregularities on both side seams. We are not certain if these faint lighter lines are intentional or color mishap. Either way, these jeans look super cool and will continue to fade over time! Please see pictures, thank you. Open to reasonable offers.
+
+The Zurie features a relaxed, straight-leg fit and a flattering high rise, styled in a gorgeous Sutherland color wash. These are seriously THE perfect go-to jeans for an easy, everyday look!
+
+Additional details:
+Five pocket styling
+Front zipper fly fastening
+Waist measures approximately 14.5"" across (flat surface)
+Front Rise 11.0""
+Inseam is 31.0""
+Fabric tag is not attached and we don't know the content; has light/minimal stretch.
+Machine washable.
+
+Fabric and seams may be lightly dusty (not stained) from warehouse storage but nothing overt to note.
+
+Condition
+New with imperfections
+Seller Notes
+“Please see description and pictures, thank you!!! 🙂”
+Pattern
+Solid
+Closure
+Zip
+Size
+27
+Waist Size
+27 in
+Garment Care
+Machine Washable
+Color
+Blue
+Fabric Type
+Denim
+Brand
+Citizens of Humanity
+Fit
+Regular
+Size Type
+Regular
+Department
+Women
+Type
+Jeans
+Pocket Type
+5-Pocket Design
+Style
+Straight
+Season
+Fall, Spring, Summer, Winter
+Country of Origin
+United States",248.00,,128.00,New with imperfections,,https://i.ebayimg.com/images/g/BWwAAeSwJ91qRO4L/s-l1600.webp|https://i.ebayimg.com/images/g/DPAAAeSwwz5qRO4M/s-l1600.webp|https://i.ebayimg.com/images/g/5WsAAeSwmo9qRO4Q/s-l1600.webp|https://i.ebayimg.com/images/g/6CgAAeSwyUdqRO4Q/s-l1600.webp|https://i.ebayimg.com/images/g/G9oAAeSwtqBqRO4M/s-l1600.webp,
+L008,Vinted,https://www.vinted.com/items/9943995726-free-people-sherpa-lined-denim-jacket?homepage_session_id=9a083ae2-78d8-4559-b03b-ec47bb05bb26,2026-09-09,Free People Sherpa Lined Denim Jacket,"I love this jacket. I just never wore it. It’s very warm. It runs true to size. The denim is super soft. The Sherpa is kind of thick so it leaves it a little bit puffy looking. The whole thing is Sherpa aligned, except for the insides of the arms. I took a picture with it buttoned up just so I could show you that the buttons are functional. Brand Free People 
+Size
+L / US 12-14
+Condition
+Very good
+Material
+Denim
+Color
+Light blue
+Uploaded
+31 min ago",,,89.95,Very Good,Frequent Uploads,https://images1.vinted.net/t/06_00f12_ag4pbrPhWcGCeoEkdzJy2mWr/f800/a842b1ec.webp?s=ce8ddacaa3859d8c85ee9444c63658439d443f10|https://images1.vinted.net/t/06_021d3_CxzG5RhrDFQNhZcYEoaK8Qc6/f800/fc5b4028.webp?s=03fe47ce0a3aa804f25853061b692afe81dc2bfb|https://images1.vinted.net/t/06_00893_kHovTtszD7UeaVihmQMMFEEZ/f800/90071a88.webp?s=5504ee1acd778468c67f21388d9744e2b25cd9c4|https://images1.vinted.net/t/06_02461_8Tad9ZPskUP4obZifodpLtAg/f800/e261eb85.webp?s=b766360a2360b449cc9b80150f2c7447be5eba1f|https://images1.vinted.net/t/02_011ec_qxiWYdv2kszp22aJyuMCzhkN/f800/e592020c.webp?s=a12a0c828824e24768173c5ddd29c64792f4172a|https://images1.vinted.net/t/02_01dd2_E66EGdPNsVwB9HsyrVagmW6e/f800/5d6c4d2e.webp?s=0f07ffea3bccb6dccbec2f501c149f8215eea81e|https://images1.vinted.net/t/02_00a50_45m83Pbko29bWEvYfd4td86U/f800/c2008a30.webp?s=099269a60d06a6e43060b71b144ef6c39ced4442|https://images1.vinted.net/t/04_01674_38tF5mswAeBEHSkam9p3RLJ3/f800/660fe967.webp?s=418ab267665b21ec3f49c56c1502ddfeb54276b9|https://images1.vinted.net/t/05_0211d_FnMmVcekBCvSrM22WHD3Duo2/f800/91ed5fa3.webp?s=0a503ce12b3fca85bbd6177d4e0b5817a0979b69|https://images1.vinted.net/t/02_022c3_CYANJb8EES2v89AsHfe4LQ6D/f800/112c52c3.webp?s=2b30868c5d75c2ee891da4e6dc1a91efb8582772|,allows for many more photos and includes the seller's listing price and then the official price buyers see is listing + shipping
+L009,Vinted,https://www.vinted.com/items/9944417319-beaded-dress?homepage_session_id=f1b98e8a-252e-45e9-b6ea-21848ac28803,2026-09-09,Beaded Dress,"Hand beaded dress! Lime green. Size S. Brand Divali  Size
+S / US 4-6
+Condition
+Good
+Color
+Green
+Uploaded
+7 min ago",,,16.45,Good,"Frequent Uploads
+Speedy Shipping",https://images1.vinted.net/t/01_001af_R1qrmvxooGmPeaC2St5d7qCK/f800/3d83eae7.webp?s=2a1e8972b938d81d00b663cf049b1ce7cf97617c|https://images1.vinted.net/t/06_00f7b_tsn3en1U3q36TP3YKr9fBxSM/f800/94ce79f3.webp?s=32f24aa4189e2a2dabb6e6513a5cc584548401aa|https://images1.vinted.net/t/02_005a8_2yTwcSjXZg3U4LZgvVMRb9iZ/f800/66d8e4b7.webp?s=cee0b531e642e8a07bb261a7a26985c400c62e5e|https://images1.vinted.net/t/05_01247_WsuCf57iT8wRjexzxpouzkjF/f800/4cfe162f.webp?s=ca5e5cb2891ad7cf92202ba910ed5f73ceeb95fb|https://images1.vinted.net/t/01_01fd8_B2ZZ5chYtvHcbDqSyKb81TNY/f800/161f4cf6.webp?s=2267c4bbf57380a32e0bbe23d88a66656ee84b43|https://images1.vinted.net/t/02_00bc4_bvLBcJV2mkAPHCLnEYDcBTjc/f800/9057433c.webp?s=e010b56c80c35a64061212cfbf7807e77c9b2959|,"vinted seller reputations are badges they earn to show buyers then ship quickly, are on the platform often, etc. -- they have a lot of time based metrics included in the listings"
+L010,Vinted,https://www.vinted.com/items/9859313744-burberry-trench-coat-us-size-6?referrer=catalog,2026-09-09,Burberry Trench Coat US size 6,"BrandBurberry
+Size
+S / US 4-6
+Condition
+Very good
+Material
+Cotton
+Color
+Brown, Beige
+Uploaded
+a week ago
+Burberry Heritage Trench Coat in beautiful chestnut brown color and classic check lining. Size US 4 UK 6 IT 38. INCLUDES ORIGINAL GARMENT BAG; original price $2,850 from 2023 Collection",,,"1,050.70",Very Good,"Frequent Uploads
+",https://images1.vinted.net/t/05_0076b_y3K5TVER7xmzNFL3fv8qrVyj/f800/112a29f4.webp?s=c30ecacedea2cf972e196b43dd256ab6c5da85d4|https://images1.vinted.net/t/05_02379_NtkzWJBpaBA4NarFKk4F8WUh/f800/562c6da9.webp?s=5a40980b237873e9a83eeeeb35839dda017e8214|https://images1.vinted.net/t/02_01413_heAbL8mNoYBNFSokq7tdCMrk/f800/ce4088ce.webp?s=d6ec6271592e2750281dbf0cb285b11c599f837f|https://images1.vinted.net/t/05_0152e_d9QQicHKsDyhTVL3hzsoViuc/f800/26c9d8da.webp?s=50e0961ece0598b245baefcbcca4942b406e8483|https://images1.vinted.net/t/01_00415_QsaLNZFAVTvGvUrxJ4r51Wfr/f800/c35053d4.webp?s=63f03ebcff0851d896c81adf21456281f68b2548|https://images1.vinted.net/t/01_009d4_RzbnVGwM1UMBvDDLRATUE8XF/f800/837f454f.webp?s=bce45f000f244dc2d7b0858c1f9083d56a758fa4|https://images1.vinted.net/t/03_00546_JV7TvBAA4ZAwcbfVZYYsc29V/f800/30fc7707.webp?s=7bd6765465c86281eff65fcf4f3cf9a9b84e27cd|https://images1.vinted.net/t/05_009d4_V4JjHGEGMDWs3W8KuRMwtNGx/f800/cfb90793.webp?s=387a585f9ac25b2bae8a1579d27fcb19c0594211|https://images1.vinted.net/t/06_00413_qb2iAcRMbNwRQPfpi4r8Thev/f800/bb21f775.webp?s=bcbb8efe2dcd27ef61caebb15a081e7317f0d1c4|,
+L011,Poshmark,https://poshmark.com/listing/Sea-New-York-Patrizia-lace-blouse-6a72a61a88849aecef7a61d2,2026-09-09,Sea New York Patrizia lace blouse,"Size
+2
+Condition
+Good
+Color
+White
+Category
+Women
+Tops
+Blouses
+Brand
+Sea
+Style Tags
+Victorian
+Lace
+Ruffle
+Sea New York Patrizia lace blouse. White lace long sleeve top. Size 2. Open back. In great condition. Shell: 100% cotton. Lining: 100% cotton. Intricate Victorian-inspired cutwork, a high mock neck, and dramatic ruffled shoulder details.
+Bust:32”
+Front length: 23”
+Waist: 26”",,,185.00,Good,Posh Ambassador,https://di2ponv0v5otw.cloudfront.net/posts/2026/08/04/6a72a61a88849aecef7a61d2/l_wp_6a72a6812326c8c4ede74c68.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/04/6a72a61a88849aecef7a61d2/l_wp_6a72a681dbd8f0c6da397a59.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/04/6a72a61a88849aecef7a61d2/l_wp_6a72a6c92981afa0cb1b2fe3.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/04/6a72a61a88849aecef7a61d2/l_wp_6a72a6ca49e17bc726b3c2b1.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/04/6a72a61a88849aecef7a61d2/l_wp_6a72a683a9a4483d1ba1f040.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/04/6a72a61a88849aecef7a61d2/l_wp_6a72a68632f9348c3f7c175b.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/04/6a72a61a88849aecef7a61d2/l_wp_6a72a688f59cc4a6668d597c.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/04/6a72a61a88849aecef7a61d2/l_wp_6a72a6c724d2e7ac417f3856.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/04/6a72a61a88849aecef7a61d2/l_wp_6a72a6c82c9e4422d82108eb.webp,poshmark gives an ambassador role to certain sellers that provides unqiue benefits -- on listings their denoted with a gold star icon next to their handle
+L012,ThreadUp,https://www.thredup.com/product/women-polyester-abercrombie-and-fitch-green-jacket/235682684?query_id=1210709939174850560&result_id=1210709939673972736,2026-09-09,"Abercrombie & Fitch
+Size L
+Jacket","Condition
+excellent
+Practically new: shows no obvious signs of being worn or washed. Our standards
+
+Item details
+#235682684
+83% polyester, 17% cotton
+Trenchcoat, green
+Size & fit
+Size L Size guide
+Item measurements are not available. See mannequin measurements
+Eco impact
+Buying outerwear secondhand and wearing it 10 times saves the equivalent of:",,,34.99,Excellent,,https://cf-assets-thredup.thredup.com/assets/961925877/retina.jpg|https://cf-assets-thredup.thredup.com/assets/961925914/retina.jpg|https://cf-assets-thredup.thredup.com/assets/961925965/retina.jpg|https://cf-assets-thredup.thredup.com/assets/961925943/retina.jpg|https://cf-assets-thredup.thredup.com/assets/961892949/retina.jpg|https://cf-assets-thredup.thredup.com/assets/961892950/retina.jpg|https://cf-assets-thredup.thredup.com/assets/5408/retina.jpg,"like the realreal, threadup does the listings themselves so they're all standardized; they also include mannekin measurements in images & 360 view"
+L013,eBay,https://www.ebay.com/itm/366655437752?itmmeta=01M23GE2Z772ZYZCRAX30TRWQS&hash=item555e5dfbb8:g:0dwAAeSwgCRqdAv4&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4Luph%2BFt1GrR0V%2B0YzaTlk49I838%2BQZFpGhvNbI6wYnT9Y65mO8zcmUYiIVYmtmxk5Iph5CUDdH%2B8sOGB8Op0S4NEaQfg7MiVeP9czVqDsyzlDYOANf4yI7%2Fv1oYBf%2FVr8Ky%2BxKkUzBSmtRgsWd5qG13%2BPJxV9Dt64JFQXBk5xqkvG5SLvk2U48lI5V9ZV3IoK7IK2v3ZypF6POG%2BRg3xy6zo%2B63UjmOGEu6Nl4%2B1NEYkt2D4b81DxkMXrqsmGcqgJz%2BwCIvOjIFTkcQ2xgH2anbW%7Ctkp%3ABk9SR-6vuPCQaA&var=636319003889,2026-09-09,Realisation The Cora In Mirage Dress,"Condition
+New without tags
+Seller Notes
+“New without tags/Never worn”
+Neckline
+Halter
+Closure
+Pullover
+Occasion
+Business, Casual, Formal, Holy Communion, Party/Cocktail, Travel, Wedding, Workwear
+Fabric Type
+Woven
+Accents
+None
+Dress Length
+Long
+Vintage
+No
+Personalize
+No
+Department
+Women
+Style
+Bodycon, Sundress
+Features
+Lightweight
+Season
+Fall, Spring, Summer
+Handmade
+No
+Pattern
+Striped
+Sleeve Length
+Sleeveless
+Character
+Barbie, Belle, Daisy, Fairy, Jazz
+Garment Care
+Dry Clean Only
+Color
+Multicolor
+Material
+100% Silk
+Brand
+Realisation Par
+Size Type
+Regular
+Theme
+Art, Beach, Bohemian, Christmas, City, Classic, Clubwear, College, Colorful, Designer, Flower, Hawaiian, Hippie, Holiday, Italian, Korean, London, Movie, Nature
+Country/Region of Manufacture
+China
+Country of Origin
+China
+Realisation Par The Cora Mirage Dress
+ 
+Brand new without tag
+ 
+Size  :   XS, S, M, L
+ 
+Material  :  100%Silk
+ 
+Measurements ( CM )
+ 
+XS  :  Bust 70  Waist 64  Length 153
+ 
+S    :  Bust 74  Waist 68  Length 154
+ 
+M   :  Bust 78  Waist 72  Length 155
+ 
+L    :  Bust 82  Waist 76  Length 156
+ 
+ 
+ 
+Details  :  Cowl neck midi dress. Sheer silk georgette with separate mini under slip. 
+ 
+Non adjustable straps.
+ 
+ 
+ 
+ 
+ 
+Please do not hesitate to contact me for available size or color. Any problem with goods please feel free 
+ 
+to contact before leaving negative feedback. Thank you for your support.",,,169.00,"New without tags
+Never worn",99.7%,https://i.ebayimg.com/images/g/0dwAAeSwgCRqdAv4/s-l1600.webp|https://i.ebayimg.com/images/g/M~kAAeSwEbBqdAv3/s-l1600.webp|https://i.ebayimg.com/images/g/B30AAeSw6XlqdAv4/s-l1600.webp|https://i.ebayimg.com/images/g/KN0AAeSwihxqdAv4/s-l1600.webp|https://i.ebayimg.com/images/g/qd8AAeSwqXxqeo-C/s-l1600.webp|https://i.ebayimg.com/images/g/EXwAAeSw0Kxqeo-D/s-l1600.webp|https://i.ebayimg.com/images/g/R8gAAeSwn~xqeo-D/s-l1600.webp|https://i.ebayimg.com/images/g/dMUAAeSwxxdqeo-D/s-l1600.webp|https://i.ebayimg.com/images/g/f0IAAeSwhyNqeo-L/s-l1600.webp|,"ebays sellers have % ratings to show how positive buyers' experiences with them were previously; the % is based on 4 critera = accurate description, reasonable shipping costs, shipping speed, communication and those scores are averaged over the last 12 months to create the feedback percentage"
+L014,ThreadUp,https://www.thredup.com/product/women-cotton-asos-black-active-pants/235769126?query_id=1210709939174850560&result_id=1210709939673972736,2026-09-09,"ASOS
+Size 26 waist
+Active pants","Condition
+very good
+No major flaws. Inspection shows: minor wear on fabric. Our standards
+
+Item details
+#235769126
+73% cotton, 25% polyester, 2% elastane
+Heart print, black, skinny leg cut, high rise waist
+Size & fit
+Size 26 waist Size guide
+This brand uses a non-standard sizing scale. Refer to their size chart for the best fit.
+Measured at 27.75"" inseam, 25"" waist, 13.25"" rise (approx.) Details
+Eco impact
+Buying active pants secondhand and wearing them 10 times saves the equivalent of:
+
+
+138.78
+glasses of drinking water
+
+127.71
+hours of an LED lightbulb
+
+0.74
+miles of driving emissions",48.00,,23.99,Very Good,,https://cf-assets-thredup.thredup.com/assets/962637165/retina.jpg|https://cf-assets-thredup.thredup.com/assets/962637209/retina.jpg|https://cf-assets-thredup.thredup.com/assets/962637267/retina.jpg|https://cf-assets-thredup.thredup.com/assets/962637240/retina.jpg|https://cf-assets-thredup.thredup.com/assets/962422640/retina.jpg|https://cf-assets-thredup.thredup.com/assets/5412/retina.jpg,threadup provides great measurement images to increase buying confidence 
+L015,eBay,https://www.ebay.com/itm/407182972885?itmmeta=01M23H0GMA401BW36583RXQNMY&hash=item5ecdff17d5:g:46IAAeSwJm1qlbVA&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4LurU58hgfrIP%2B3Wv9LmxYJdTH4j056tNsMfsa499y0yclkr7I4mSAiLH4lnVm5KSEupVo0F6uYJQ6BECz812Mg02Fz456xOi%2BRkMjWQmtH%2FsiyVGMtLGRD5z5tbuj9%2BdraKEUt2351i%2FKNs%2FoVyJyj5DSAyIZmk%2BxTfub9chpVF4w9C5jNiPjn6cnXIxkckN5QsoXZ2kHjxgTo0bSbEm6F3snAoPRA8lnA6zUBEfYrSs9gE9%2FSNyF8xIdZdSmAvvP7RxYwb17D%2BNGxgOoNwqnjk7%7Ctkp%3ABk9SR7iKgvGQaA&var=677353719957,2026-09-09,The Endery Bauhaus Short Sleeve Sweater Tee in Rhodolite,"Condition
+New with tags: This item is brand new and has never been worn. It still has the original tags and/or original packaging. See all condition definitionsopens in a new window or tab
+Brand
+The Endery
+Size Type
+The Endery Bauhaus Short Sleeve Sweater Tee in Rhodolite
+Color
+ENDSS25/STABAUHA-CO4-N-XXL
+Department
+Sweaters
+Type
+Sweaters
+Country of Origin
+China
+The Endery's signature Bauhaus Tee—crafted from deadstock Pima cotton and designed with a bold jacquard knit. Lightweight, breathable, and easy to style, it’s a wardrobe essential.
+
+• Slightly cropped and boxy body
+
+• 100% Cotton
+
+• Artisan made in Peru with Fair Trade practices to maintain ethical and responsible integrity
+
+• Designed for a relaxed, oversized fit. Stick with your usual size for the intended look, size up for an even roomier fit, or size down for a tighter fit.",,168.00,142.80,New with tags,99.8%,https://i.ebayimg.com/images/g/46IAAeSwJm1qlbVA/s-l1600.webp|https://i.ebayimg.com/images/g/0HoAAeSw69pqlbVA/s-l1600.webp|https://i.ebayimg.com/images/g/eJkAAeSwGDJqlbVA/s-l1600.webp|https://i.ebayimg.com/images/g/RtAAAeSwA-tqlbVA/s-l1600.webp|https://i.ebayimg.com/images/g/fqYAAeSwq2JqlbVA/s-l1600.webp|https://i.ebayimg.com/images/g/eKsAAeSw6o5qlbVA/s-l1600.webp|https://i.ebayimg.com/images/g/0CwAAeSwZERqlbU~/s-l1600.webp,
+L016,The RealReal,https://www.therealreal.com/products/women/shoes/pumps/fendi-zucca-ff-logo-leather-slingback-pumps-w5nxs,2026-09-09,Fendi Zucca FF Logo Leather Slingback Pumps,"Fendi Leather Slingback Pumps
+Green
+Animal Print
+Zucca FF Logo
+Semi-Pointed Toes
+Straps & Buckle Closure at Sides
+Includes Box & Dust Bag
+Fit: Pumps by Fendi typically run small, consider taking a half size up.
+Heels
+3""
+Platforms
+0.25""
+Gender
+Women
+Item #
+FEN449595",890.00,495.00,470.25,Excellent,,https://product-images.therealreal.com/FEN449595_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/FEN449595_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/FEN449595_3_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/FEN449595_4_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/FEN449595_5_enlarged.jpg?auto=webp&width=1920,there were more than 3 photos for this shoe's listing
+L017,The RealReal,https://www.therealreal.com/products/women/shoes/flats/soeur-leather-flats-wgouh,2026-09-09,"Soeur
+
+Leather Flats
+
+Women's Size: 11","Soeur Leather Flats
+Green
+Semi-Pointed Toes
+Includes Box & Dust Bag
+Unfortunately, due to restrictions, this item may not be eligible for shipping in all areas.
+Platforms
+0.5""
+Gender
+Women
+Item #
+WSEOU23785",,,295.00,Very Good,,https://product-images.therealreal.com/WSEOU23785_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WSEOU23785_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WSEOU23785_3_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WSEOU23785_4_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WSEOU23785_5_enlarged.jpg?auto=webp&width=1920,
+L018,The RealReal,https://www.therealreal.com/products/women/shoes/sneakers/new-balance-x-miu-miu-530-sl-athletic-sneakers-wgbjg,2026-09-09,"New Balance x Miu Miu
+
+530 SL Athletic Sneakers
+
+Women's Size: 7.5","New Balance x Miu Miu 530 SL Low Top Athletic Sneakers
+Brown Leather
+Round-Toes
+Lace-Up Closure at Uppers
+Platforms
+0.5""
+Gender
+Women
+Item #
+WNBMM20839","1,490.00",,"1,195.00",Good,,https://product-images.therealreal.com/WNBMM20839_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WNBMM20839_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WNBMM20839_3_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WNBMM20839_4_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/WNBMM20839_5_enlarged.jpg?auto=webp&width=1920,
+L019,Poshmark,https://poshmark.com/listing/Laredo-Womens-Brown-and-Blue-Heeled-Boots-Sz-65-6a86fb26d47f7e9017469a1d,2026-09-09,Laredo Women's Brown and Blue Heeled Boots Sz 6.5,"Size
+6.5 M
+Color
+Brown
+Blue
+Category
+Women
+Shoes
+Heeled Boots
+Brand
+Laredo
+Stylish heeled boots with brown leather and blue embroidered design. Perfect for a chic look.
+Women’s Laredo, leather upper cowboy boots
+In good condition, some marking on the leather see photos see all photos
+Heels and inside in good shape
+Ships from non-smoking non-pet household
+Size 6 1/2
+Open to reasonable offers !",,,71.00,Good,Posh Ambassador II,https://di2ponv0v5otw.cloudfront.net/posts/2026/08/20/6a86fb26d47f7e9017469a1d/l_wp_6a86fb26d47f7e9017469a1e.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/20/6a86fb26d47f7e9017469a1d/l_wp_6a86fb27d47f7e9017469a6c.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/20/6a86fb26d47f7e9017469a1d/l_wp_6a86fb28d47f7e9017469ab0.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/20/6a86fb26d47f7e9017469a1d/l_wp_6a86fb28d47f7e9017469ae2.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/20/6a86fb26d47f7e9017469a1d/l_wp_6a86fb28d47f7e9017469b38.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/20/6a86fb26d47f7e9017469a1d/l_wp_6a86fb29d47f7e9017469b75.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/20/6a86fb26d47f7e9017469a1d/l_wp_6a86fb29d47f7e9017469bc9.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/20/6a86fb26d47f7e9017469a1d/l_wp_6a86fb2ad47f7e9017469c28.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/20/6a86fb26d47f7e9017469a1d/l_wp_6a86fb2bd47f7e9017469c6b.webp,the condition was informally listed in the description self-described by the seller
+L020,Poshmark,https://poshmark.com/listing/Merrell-Shiloh-Peak-Boots-Womens-8-Black-Leather-Moto-Buckle-Mid-Calf-J69924-6a85e82ffa6ace5debda8d0b,2026-09-09,Merrell Shiloh Peak Boots Women's 8 Black Leather Moto Buckle Mid Calf,"Size
+8
+Condition
+Good
+Color
+Black
+Category
+Women
+Shoes
+Lace Up Boots
+Brand
+Merrell
+Merrell Shiloh Peak Boots Women's 8 Black Leather Moto Bike Buckle Harness Mid Calf J69924
+
+Product Detail
+
+* Brand: Merrell
+* Department: Women's
+* Color: Black
+* Type: Shoes
+
+- Pre-owned Shoes
+
+- Shipped with USPS Mail.",,,64.00,Good,,https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e82f17a3c420edb6af5c.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e830e625d29f173dee88.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e82febb1a58b2b099842.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e82f28951f1665bb8b87.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e82f6c3583d693704871.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e82f70333fe6bc9f0bd8.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e830221dcbb9f3236c3f.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e82f7e297bd883b838c9.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e830e625d296e03dee83.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e8308925d34f6616204b.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e8304941b532fcdc3b6f.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e830946da284831f8923.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e82f13a64777d5539804.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e8309709886bdba85fed.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/19/6a85e82ffa6ace5debda8d0b/l_wp_6a85e830e912b35ce6022e18.webp,similarly all conditions are self-reported by sellers for poshmark and the peer-to-peer sites often have many more photos to assess the items then the sites that do listing for you like the realreal and threadup
+L021,Poshmark,https://poshmark.com/listing/Stylish-Black-and-White-HighTop-Sneakers-67af00b3c4b73abcb21ae5cb,2026-09-09,Stylish Black and White High-Top Sneakers,"Size
+6
+Condition
+New With Tags
+Color
+Black
+Silver
+Category
+Women
+Shoes
+Sneakers
+Brand
+Gianni Bini
+Style Tags
+High Top Sneakers
+Casual
+Activewear
+Trendy high-top sneakers with sparkling details. Black and silver design. Perfect for casual wear.",,118.00,32.00,New with tags,Posh Ambassador,https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af01640c0a3f295e4d4b7f.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af00b5ed3f4a12ff47b067.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af0164c9af8c30160a775a.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af016687aeb66eab9ff0dc.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af0169f9927c55bec044c0.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af016acf86b11865010fa2.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af016b6ccbb61cd53298ff.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af016cf9927c8ec1c044c9.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af016d20684715944ec998.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af016e2d829a98a00b5b8a.webp|https://di2ponv0v5otw.cloudfront.net/posts/2025/02/14/67af00b3c4b73abcb21ae5cb/l_wp_67af016e147b982f93a3bb9b.webp,this one had a red star next to it vs. the gold star which I see indicates a difference in posh ambassador levels -- there is the red just post ambassador and the gold posh ambassador II
+L022,Vinted,https://www.vinted.com/items/9916194184-mary-jane-shoes?referrer=catalog,2026-09-09,Mary Jane shoes,"Brand& Other Stories
+Size
+6.5
+Condition
+New with tags
+Color
+Cream
+Uploaded
+2 days ago
+Cream converse dupes",,,17.50,New with tags,Frequent Uploads,https://images1.vinted.net/t/05_00cd4_eEiem3Boq3pLTBzsiQXaqq4x/f800/d3835915.webp?s=a9dcf7473fee07c16d4d2f286659c759db4ce2c0|https://images1.vinted.net/t/01_006c3_SRAfDNPWx9dQ3FPJWKRAarHo/f800/6035b2a8.webp?s=2d947d6fef1f60ba80971c4adcd5cc4ec974146e|https://images1.vinted.net/t/01_02575_x8e3Rmtb39GE1C87TgGoYgaL/f800/8e770348.webp?s=22170cd46d69f4f6c2493e029c410754b517b25a|https://images1.vinted.net/t/02_0186e_t2tVghUo3gWjuyXx643gvrXS/f800/d871a64b.webp?s=33a84323c8f8d2e0b60e37c724671200e0f7f1e0|https://images1.vinted.net/t/01_0049c_ywLuXdkW1vJcDQz95r9u9mjG/f800/520c1638.webp?s=bf010956cea62b131ccd903f365a50096669a7e1|https://images1.vinted.net/t/02_02367_W3ojksL3rPFfWAeqi4PMZD3V/f800/cf2463a1.webp?s=b22b1b7c70fb265a71724a3e0f9d170229423e01|,"frequently uploads means ""Regularly lists 5 or more items."""
+L023,Vinted,https://www.vinted.com/items/9947138185-brooks-tennis-shoes-womens-size-10-wide-hot-pink-amd-gray?referrer=catalog,2026-09-09,Brooks Tennis Shoes - Women's size 10 WIDE - Hot Pink amd Gray,"BrandBrooks
+Size
+10
+Condition
+Satisfactory
+Color
+Pink, Gray
+Uploaded
+9 min ago
+These shoes have been worn a bit and I tried to get pictures of the imperfections, but there is still a lot of wear left in them.
+
+They are a women's size 10 wide.",,,13.30,Satisfactory,"Frequent Uploads
+Speedy Shipping",https://images1.vinted.net/t/05_003ec_QzvV9si1a5DeByBPp49cunzt/f800/18db333a.webp?s=c558035663f1061895b3f234a70148eb1bc94e43|https://images1.vinted.net/t/05_01dc3_uiqESqmMuznDpTThhcWtUysg/f800/c916b367.webp?s=db432c51ef248da0323f259ba31d3bc04ae89d1b|https://images1.vinted.net/t/02_0217a_A9oo3nRwFmJ5eq42BK7VFfrY/f800/a6f95ed2.webp?s=d3df40618243accfc4e95b0856c8d5542566aa62|https://images1.vinted.net/t/06_02342_o7jsJQZZJuLqVMnqxe5gLsBm/f800/6df97bda.webp?s=de47b69b77348a4511513db7935d4d60a907641d|https://images1.vinted.net/t/01_01592_NWJBJydBWH92F35Su6YHPRq5/f800/781281f5.webp?s=1eedc71b63890ea47b43cd34a1203513524168eb|https://images1.vinted.net/t/05_0077d_pSzm6tXVKeR2uqKbXUpiPMCY/f800/2bc86931.webp?s=3964dbc5ea35b4ea706694e1a54b39c26d42ddea|https://images1.vinted.net/t/01_02108_yLAJBGrbCUWnutwyY3eu4bfj/f800/b04326b5.webp?s=974a08db5330a51e2aa2d341b76b5a4e09a34d41|,"""Satisfactory: A well-used item that shows clear signs of wear and imperfections, but still works as intended"" -- vinted's own description and its other condition definitions are:
+
+
+New: A brand-new, unused, and unopened item in its original condition, with all its original packaging and accessories
+
+Like new: A brand-new, unused item in its original condition, either opened or without its original packaging
+
+Very good: A gently-used item in excellent condition, with minor imperfections that don't affect its overall appearance or use
+
+Good: A regularly-used item in good condition that shows wear, but still works well for its intended purpose
+
+Satisfactory: A well-used item that shows clear signs of wear and imperfections, but still works as intended
+
+Needs repair (only applicable for electronic devices): An item that no longer works as intended, with broken or missing parts
+
+and ""speedy shipping"" status = ""Sends items promptly — usually within the next 24 hours."""
+L024,Vinted,https://www.vinted.com/items/9946964377-burgundy-suede-size-7-boots?referrer=catalog,2026-09-09,Burgundy suede size 7 boots,"Size
+7
+Condition
+Very good
+Material
+Suede
+Color
+Burgundy, Brown
+Uploaded
+28 min ago
+These beautiful slightly worn 3"" heel, like new Burgundy boots feel good on. Man made material in women's size 7.",,,21.70,Very Good,,https://images1.vinted.net/t/01_006fb_1zZRAHtLxmWQtNVgvXU45ytd/f800/996ca588.webp?s=b2d61b14acbb0df0537caea2b93a8af06f773e75|https://images1.vinted.net/t/02_01736_QE5pJ51Yuztra7ZgEGBW4Tt9/f800/d572bfcd.webp?s=1034adda109b2210f555c2e567d9093ccdedc700|https://images1.vinted.net/t/02_00d95_3A27XTDTZJDet96dGX3hULbn/f800/2e6314b6.webp?s=085c18d0487aaf626eff056fc83c7d2df1351f3c|https://images1.vinted.net/t/06_01e8a_zCKDwVJkc7M9Ziy8w2uP6k1n/f800/d2f4b299.webp?s=bee6c6f6e6e8a14be5e841bf22deaaf705f616b8|https://images1.vinted.net/t/05_00886_oAFQpqepH6pWkZQAxvj1WJQU/f800/c3d931a6.webp?s=24650165f27aefe28789506cd31ee65652f134e3|https://images1.vinted.net/t/01_0140e_Znie1jYMFNmyLmx7Q6Exuok6/f800/64c34ea9.webp?s=ac2b9fa394a10dbae3590230d6a37a8c94d2ab13|https://images1.vinted.net/t/02_01446_YUtegzspjtSZszhJGe8UvUqo/f800/8ed8632c.webp?s=74963d049c4439dff99d2268595b5b082ba5d792|https://images1.vinted.net/t/04_0061c_PGzf1vQPed84dre6vHCE75RN/f800/3dbccb19.webp?s=8e1b97c40e38fcc8db1149ebccd7bc3c173ff768|https://images1.vinted.net/t/04_00c84_vR8va5x5Pdz76Rhn5VrrBK4h/f800/8f20fab7.webp?s=909fa9de0ea34c3223f08af133932a49fe316e38|,lots of blurry photos here that you wouldn't find on threadup or the realreal because they are listed professionally versus peer-to-peer has the risk of blurry photography
+L025,eBay,https://www.ebay.com/itm/820107625506?itmmeta=01M23XSMETFBAS3M51NT6BXZ36&hash=itembef2394422:g:AcYAAeSwyBRqob5V&itmprp=enc%3AAQALAAAAwDKQclQvzFwZQpmMrsO4LurTBnlgCXoFMG28XIWXaVJBMaaRpVmkHE7e%2FHX29RL4iYFcbvIzhOzqgW1SD75XNzFwAZgRbShEctpqwiIRxJFtaNOY%2FJEE%2BiVj7X98Tv6IdCy0S26PTQ5Z%2BhbRYhQJj7Ju%2F86xz0Ecs%2FnzZPf%2FYt4aBmUCIV7yqJB6xnaOeJEc0v%2FPSlFmimcyQnrrtGBaMVHQdUDfbA8OWjl1DI87SD83A%2FCKDrApz8kgAU85RPTAug%3D%3D%7Ctkp%3ABk9SR9bH5v2QaA,2026-09-09,THE ROW Park Leather Loafers Pumps EU36.5,"Condition
+Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the condition
+Type
+Flat
+Brand
+THE ROW
+Department
+Women
+US Shoe Size
+6.5
+EU Shoe Size
+36.5
+Color
+Black
+Style
+Loafer
+Upper Material
+Leather
+Country of Origin
+Italy
+
+Size: EU36.5
+
+Only worn once.
+
+Please look at all the photos for details.",,,800.00,Pre-owned - Excellent,,https://i.ebayimg.com/images/g/~Z8AAeSwG~Zqob52/s-l1600.webp|https://i.ebayimg.com/images/g/-xgAAeSwzf9qob5B/s-l1600.webp|https://i.ebayimg.com/images/g/BUUAAeSwHkNqob5q/s-l1600.webp|https://i.ebayimg.com/images/g/~Z8AAeSwG~Zqob52/s-l1600.webp|https://i.ebayimg.com/images/g/~skAAeSwKCpqob5D/s-l1600.webp|https://i.ebayimg.com/images/g/AcYAAeSwyBRqob5V/s-l1600.webp,"Pre-owned - Excellent = This item has been previously worn; however, it is in excellent condition. Any signs of use should be shown and described in the seller’s listing.
+
+this is also an authenticated item --> Shop with confidence
+Authenticity Guarantee
+Your purchase is carefully inspected for authenticity and condition, backed by eBay Money Back Guarantee. "
+L026,eBay,https://www.ebay.com/itm/800633274460?itmmeta=01M23Y0BFDJ8BVK61TX8MCA7N7&hash=itemba6976405c:g:oYoAAeSwZU5qoKmH&itmprp=enc%3AAQALAAAAwDKQclQvzFwZQpmMrsO4LuoHgqYjg0%2BT2jjH0P6xnA%2FcElJ4pdXelkWyUPPpUhJjmN9vsuV0hoAB4mXB5GCnZPF8nMtEpl%2FSf4tAt7aYtiKdQ7%2F0eOAOf2kAv5%2BbUq7AwKupBe8TY4cLGMY52Wg1dRTXU11AGNJE%2BlmjkCvCMc0oDchzbTWbbsWHKIefQQWJj4yTw%2FmU6Sp6oXrCVVn6nKbOPqkdK0zfb%2FYsFcukLQn8kiQ0jqDQqGjL957RGBycEg%3D%3D%7Ctkp%3ABk9SR_y3gf6QaA,2026-09-09,Prada Women’s Burgundy Penny Loafers Size 38EU/ 7.5 Women’s Moccasins,"Condition
+Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs ... Read moreabout the condition
+Brand
+PRADA
+Department
+Women
+Type
+Flat
+US Shoe Size
+7.5
+Color
+Red
+Model
+Penny
+Style
+Loafer
+Upper Material
+Patent Leather
+
+The product is a pair of Prada Women’s Burgundy Penny Loafers in size 10. These stylish and elegant loafers are crafted from patent leather, featuring a classic red color that adds a pop of sophistication to any outfit. Perfect for a sleek and polished look, these loafers are a versatile addition to any woman's shoe collection.",,,95.00,Pre-Owned - Good,,https://i.ebayimg.com/images/g/oYoAAeSwZU5qoKmH/s-l1600.webp|https://i.ebayimg.com/images/g/qYQAAeSwibxqoKlz/s-l1600.webp|https://i.ebayimg.com/images/g/rFsAAeSwwyhqoKl8/s-l1600.webp|https://i.ebayimg.com/images/g/tbYAAeSwnzJqoKlz/s-l1600.webp|https://i.ebayimg.com/images/g/tOoAAeSwtuBqoKl3/s-l1600.webp|https://i.ebayimg.com/images/g/luUAAeSw3hBqoKl2/s-l1600.webp|https://i.ebayimg.com/images/g/QC0AAeSwDw1qoKl8/s-l1600.webp|https://i.ebayimg.com/images/g/gAAAAeSwv8BqoKmH/s-l1600.webp|,there is an entire sub category of pre-owned condition standards in addition to new standards
+L027,eBay,https://www.ebay.com/itm/398371986304?itmmeta=01M23Y85MG3ZQ5YFBMB4WPEYDW&hash=item5cc0d21b80:g:OJAAAeSwTy1qn5~P&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4Lur7f8Zj26sWz33WgIDkLQDTBio9mB5k%2Fh1C7PuJ5oWISDS1SnsSZcS%2FO6xQipJzo%2FrUw3Riu6DgIODkBr2%2FTYTmIqRLvcAtvXg9uBugfOgjeKnDhbZC8e5kDjLxe7bvLkT9kjCZO9uLmUKHthjxnL2yDLPX8WlZRqJ75VyoSWE8aTtnD4lAozVWuU5vWfvTEMbVXEHIfgGiuvdZskpbzRkjjwMIaEoq%2BVflusKSzXtGuIleOq7hhCtQAXoY%2F56bvswYHZfrVTSNJPuP87hYeLpi%7Ctkp%3ABk9SR8DaoP6QaA,2026-09-09,Rachel comey archival black leather cage strap fisherman sandal heel women’s 7.5,"Condition
+Pre-owned - Fair: This item has significantly visible imperfections and signs of use. All imperfections should be shown and described in the seller’s listing. See all condition definitionsopens in a new window or tab
+US Shoe Size
+7.5
+Lining Material
+Leather
+Color
+Black
+Vintage
+No
+Brand
+Rachel Comey
+Personalize
+No
+Department
+Women
+Type
+Heel
+Customized
+No
+Heel Style
+Block
+Outsole Material
+Leather
+Style
+Pump
+Upper Material
+Leather
+Insole Material
+Leather
+Season
+Summer, Spring, Fall, Winter
+
+Rachel comey archival black leather cage strap fisherman sandal heel women’s 7.5
+
+9.5” L
+Run slightly small and narrow, closer to a 7
+Entirely made of leather
+Velcro closure
+Some wear and scuffing-see all photos
+Very rare 2000s archival design
+Sold as is
+
+#rachelcomey #maryjane #buckle #archival #leather",,,119.00,Pre-Owned - Fair,97.7%,https://i.ebayimg.com/images/g/OJAAAeSwTy1qn5~P/s-l1600.webp|https://i.ebayimg.com/images/g/SawAAeSwBX5qn5~R/s-l1600.webp|https://i.ebayimg.com/images/g/J5gAAeSw2FFqn5~R/s-l1600.webp|https://i.ebayimg.com/images/g/S4gAAeSwZoJqn5~R/s-l1600.webp|https://i.ebayimg.com/images/g/JRAAAeSwpZdqn5~R/s-l1600.webp|https://i.ebayimg.com/images/g/Jm0AAeSwdntqn5~T/s-l1600.webp|https://i.ebayimg.com/images/g/I3oAAeSwXHtqn5~S/s-l1600.webp|https://i.ebayimg.com/images/g/V2QAAeSwnz9qn5~T/s-l1600.webp|,"Pre-owned - Fair
+
+This item has significantly visible imperfections and signs of use. All imperfections should be shown and described in the seller’s listing.
+
+ebay has really indepth condition standard descriptions: https://www.ebay.com/help/selling/listings/creating-managing-listings/item-conditions-category?id=4765"
+L028,Vestiaire Collective,https://www.vestiairecollective.com/women-shoes/flats/eugenia-kim/black-patent-leather-eugenia-kim-flats-70860497.shtml?personalized=1&sortBy=3&ts=1788986545747&_gl=1*6z4y11*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF#categoryParent=Shoes%233_gender=Women%231_localCountries=1,2026-09-09,Eugenia Kim Patent Leather flats,"Eugenia Kim “Matilda” Eelskin & Genuine Mink Fur Pointed Flats
+
+Without Original Box
+
+A rare footwear design from celebrated New York accessories designer Eugenia Kim, the Matilda flat combines exotic-textured eelskin with a plush genuine mink vamp for a striking mix of polish, softness and understated eccentricity.
+
+The sleek upper is crafted from glossy black eelskin, displaying the naturally distinctive narrow-grained texture and subtle tonal variation characteristic of the material. Rather than appearing like conventional smooth patent leather, the surface has an organic, lightly segmented character with visible stitched panel construction.
+
+Across the forefoot sits an oversized band of genuine mink fur in a sophisticated cool gray / taupe tone. The dense, exceptionally soft fur creates dramatic dimension while leaving the sharply tapered black toe exposed.
+
+The silhouette remains elegant and wearable, featuring a long pointed toe, very low stacked heel and streamlined low-cut profile. A warm tan leather interior adds a refined contrast to the black exterior.
+
+Details
+Designer: Eugenia Kim
+Model: Matilda
+Original MSRP: $895
+Condition: New Without Original Box
+Women's Size: 39 EU — label
+US Equivalent: 9 US Women's — Eugenia Kim size chart
+Upper: Genuine black eelskin
+Trim: Genuine mink fur
+Fur Color: Cool gray / taupe
+Interior: Tan leather
+Toe: Pointed
+Heel: Very low stacked heel
+Outsole: Black leather with protective heel/toe contact sections
+Made in Italy only if you want to include it after confirming the outsole stamp clearly states it
+
+The dramatic combination of eelskin, genuine mink and a razor-clean pointed silhouette makes the Matilda feel more like a collectible Eugenia Kim fashion piece than a conventional flat.
+
+Details
+Online since:2026-09-09
+Categories :Women
+Category:Shoes
+Sub-category:Flats
+Designer:Eugenia Kim
+Condition:Very good conditionMore info
+Material:Patent leather
+Colour:Black
+Size:39 EUsize guide
+Location:United States, from the seller _ToddOll
+Reference:70860497",,503.00,210.00,Very Good,Professional,"https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-eugenia-kim-flats-70860497-1_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-eugenia-kim-flats-70860497-2_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-eugenia-kim-flats-70860497-3_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-eugenia-kim-flats-70860497-4_2.jpg",Professional sellers on vestiaire need to show proof of registered business 
+L029,Vestiaire Collective,https://www.vestiairecollective.com/women-shoes/heels/dior/black-patent-leather-baby-d-dior-heels-70744414.shtml?_gl=1*1o5cs5l*_up*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF,2026-09-09,Dior Baby-d Patent leather heels Vintage,"Vintage Dior Monogram Charm Logo Quilted Patent Leather Pointy Toe Heels Black
+
+Good vintage condition! Size 39.5 = US 9.5.
+
+Details 
+Online since:2026-09-07
+Categories :Women
+Category:Shoes
+Sub-category:Heels
+Designer:Dior
+Model:Baby-D
+Condition:Very good conditionMore info
+Material:Patent leather
+Colour:Black
+Size:9.5 USsize guide
+Style:Vintage
+Location:United States, from the seller LK
+Reference:70744414",,,317.00,Very Good,,"https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-baby-d-dior-heels-70744414-1_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-baby-d-dior-heels-70744414-2_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-baby-d-dior-heels-70744414-3_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-baby-d-dior-heels-70744414-4_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-baby-d-dior-heels-70744414-5_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-baby-d-dior-heels-70744414-6_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-patent-leather-baby-d-dior-heels-70744414-7_2.jpg",photos show wear on the soles of these shoes; this has a vintage label 
+L030,Vestiaire Collective,https://www.vestiairecollective.com/women-shoes/trainers/nike/multicolour-fur-air-force-1-nike-trainers-69991629.shtml?_gl=1*1qm2shq*_up*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF,2026-09-09,Nike air force 1 trainers,"Nike Air Force 1 Shadow Colorblock Houndstooth Low Top Running Sneakers Shoes 10
+
+Size: 10
+Condition: Good
+
+Details
+Online since:2026-08-16
+Categories :Women
+Category:Shoes
+Sub-category:Trainers
+Designer:Nike
+Model:Air Force 1
+Condition:Very good conditionMore info
+Material:Fur
+Colour:Multicolour
+Size:10 USsize guide
+Location:United States, from the seller Brie
+Reference:69991629",,64.00,48.00,Very Good,,"https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/multicolour-fur-air-force-1-nike-trainers-69991629-1_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/multicolour-fur-air-force-1-nike-trainers-69991629-2_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/multicolour-fur-air-force-1-nike-trainers-69991629-3_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/multicolour-fur-air-force-1-nike-trainers-69991629-4_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/multicolour-fur-air-force-1-nike-trainers-69991629-5_2.jpg","the listing condition and then the condition shared in the details are different -- very good vs. good -- so vestiarie isn't policing discrepancies here
+
+interesting that the photos are showing a very worn item but the official listed condition is very good
+
+vestiaire's ""Very good"" condition is defined as = ""lightly used by very well maintained with no holes, pilling, or discoloration. slight wear from being used and/or has well-done alterations. no missing parts. note: we don't accept items with odors from smoke or prolonged storage"""
+L031,The RealReal,https://www.therealreal.com/products/women/handbags/shoulder-bags/balenciaga-suede-motocross-city-metallic-edge-wfksf,2026-09-09,Balenciaga Suede Motocross City Metallic Edge,"Balenciaga Shoulder Bag
+  From the Fall/Winter 2016 Collection by Demna Gvasalia
+  Green Suede
+  Gold-Tone Hardware
+  Rolled Handles & Single Shoulder Strap
+  Studded Accents & Single Exterior Pocket
+  Canvas Lining & Three Interior Pockets
+  Zip Closure at Top
+  Includes Dust Bag
+  Shoulder Strap Drop
+ 9.5""
+ Handle Drop
+ 5""
+ Height
+ 9""
+ Width
+ 13.5""
+ Depth
+ 3.5""
+ Gender
+ Women
+ Item #
+ BAL401651","4,590.00",,"1,545.00",Very Good,,https://product-images.therealreal.com/BAL401651_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/BAL401651_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/BAL401651_3_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/BAL401651_4_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/BAL401651_5_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/BAL401651_6_enlarged.jpg?auto=webp&width=1920,handbags have considerably more photos taken than clothing/shoes and more detailed descriptions
+L032,The RealReal,https://www.therealreal.com/products/women/handbags/totes/chanel-mini-deauville-shopping-bag-wbvfq,2026-09-09,"Chanel
+
+Mini Deauville Shopping Bag","Chanel Tote
+From the 2012-2013 Collection by Karl Lagerfeld
+Blue Denim
+Graphic Print
+Gold-Tone Hardware
+Handles & Chain-Link Shoulder Straps
+Canvas Lining & Three Interior Pockets
+Snap Closure at Top
+
+Shoulder Strap Drop
+11""
+Height
+12""
+Width
+11.25""
+Depth
+3.75""
+Gender
+Women
+Item #
+CHA1492657","2,400.00",,"1,145.00",As Is,,https://product-images.therealreal.com/CHA1492657_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CHA1492657_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CHA1492657_3_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CHA1492657_4_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CHA1492657_5_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CHA1492657_6_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CHA1492657_7_enlarged.jpg?auto=webp&width=1920,"This item is in ""As Is"" condition, meaning it shows extensive sign(s) of wear and may require repair. This item is final saleHole at base; tearing at shoulder strap grommets; heavy discoloration, spotting and residue at interior; heavy tearing at trim; moderate discoloration at exterior; shape has relaxed due to wear; moderate scratches at hardware."
+L033,The RealReal,https://www.therealreal.com/products/women/handbags/shoulder-bags/coach-leather-shoulder-bag-wf4ww,2026-09-09,"Coach
+
+Leather Shoulder Bag","Coach Shoulder Bag
+Black Leather
+Gold-Tone Hardware
+Handle & Single Adjustable Shoulder Strap
+Single Exterior Pocket
+Canvas Lining & Single Interior Pocket
+Turn-Lock Closure at Front
+
+Shoulder Strap Drop
+19""
+Height
+8.75""
+Width
+12.5""
+Depth
+4""
+Gender
+Women
+Item #
+CCH134149",500.00,,155.00,Fair,,https://product-images.therealreal.com/CCH134149_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CCH134149_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CCH134149_3_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CCH134149_4_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CCH134149_5_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/CCH134149_6_enlarged.jpg?auto=webp&width=1920,fair = Heavy scuffs throughout; minor scratches throughout; minor discoloration throughout; minor residue at interior
+L034,The RealReal,https://www.therealreal.com/products/women/handbags/shoulder-bags/strathberry-leather-shoulder-bag-w-tags-wfl8p,2026-09-09,Strathberry Leather Shoulder Bag w/ Tags,"Strathberry Shoulder Bag
+Red Leather
+Gold-Tone Hardware
+Handle & Single Adjustable Shoulder Strap
+Suede Lining
+Drawstring Closure at Top
+Includes Dust Bag
+
+Shoulder Strap Drop
+23""
+Height
+6""
+Width
+8.5""
+Depth
+3.5""
+Gender
+Women
+Item #
+STRAT23362",700.00,,485.00,Pristine,,https://product-images.therealreal.com/STRAT23362_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/STRAT23362_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/STRAT23362_3_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/STRAT23362_4_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/STRAT23362_5_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/STRAT23362_6_enlarged.jpg?auto=webp&width=1920,"has a ""smart investment"" tag = indicates this piece has proven it holds its value over time; uses ""no-brainer"" language
+
+pristine = No visible signs of wear"
+L035,Poshmark,https://poshmark.com/listing/JW-Pei-Half-Moon-Bag-6a982c66c5c2ed273c76d74a,2026-09-09,JW Pei | Half Moon Bag,"Size
+OS
+Color
+Black
+Gray
+Category
+Women
+Bags
+Shoulder Bags
+Brand
+JW PEI
+♡great condition
+♡zipper is a little difficult, but works fine",,99.00,84.00,Great Condition,Posh Ambassador II,https://di2ponv0v5otw.cloudfront.net/posts/2026/09/02/6a982c66c5c2ed273c76d74a/l_wp_6a982c6924cc87d01df3a4d0.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/02/6a982c66c5c2ed273c76d74a/l_wp_6a982c6bb3acde77f5cf0a65.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/02/6a982c66c5c2ed273c76d74a/l_wp_6a982c6df00c55c9fa4d4967.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/02/6a982c66c5c2ed273c76d74a/l_wp_6a982c6f7625b135522ba875.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/02/6a982c66c5c2ed273c76d74a/l_wp_6a982c701b53feacc3fd3fdb.webp,condition only listed in the description by the seller themselves
+L036,Poshmark,https://poshmark.com/listing/PRADA-Vintage-Tessuto-Quilted-Black-and-Gold-Nylon-Bag-6a9f53591ae1ad75e358b4d6,2026-09-09,PRADA Vintage Tessuto Quilted Black and Gold Nylon Bag,"Size
+OS
+Condition
+Good
+Color
+Black
+Gold
+Category
+Women
+Bags
+Crossbody Bags
+Brand
+Prada
+Condition: Used (Very good) with minimal wear and scratches on the gold hardware..
+
+Accessories: Clochette, Key, Padlock - Before purchasing, please refer to the images of the accessories included with the item We are open to offers! All the items in our closet are 100% authentic.
+
+Size Approx:
+H 5.51'' x W 9.84'' x D 4.72''",,,750.00,Good,Posh Ambassador,https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147d8adedd1c2a0e95548.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147d913a64705d7d5f6cf.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147d9970988488c7c9292.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147da31f0f6809ae76a0c.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147db221dcb692a72ba70.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147dc17a3c4429f377a86.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147ddde4883ce2b29e5c1.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147de70333fcc4a2adcbd.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147de8091ef2887536835.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147df24cc8719539f09f9.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147e083b26c3a4a1f780c.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f53591ae1ad75e358b4d6/l_wp_6aa147e07e297be071d25b4e.webp,
+L037,Poshmark,https://poshmark.com/listing/Balenciaga-The-City-Bag-Black-Leather-6aa1cabc38e54271ee9ff942,2026-09-09,Balenciaga The City Bag Black Leather,"Size
+OS
+Condition
+Like New
+Color
+Black
+Category
+Women
+Bags
+Shoulder Bags
+Brand
+Balenciaga
+Style Tags
+The City
+Black
+Balenciaga
+Balenciaga The City Bag Black Leather Authentic Guaranteed Fast Shipping and Carefully Packaged Includes a Certificate of Authenticity COA",,"4,399.00","3,999.00",Like New,,https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa1cabc38e54271ee9ff942/l_6aa1cabc38e54271ee9ff943.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa1cabc38e54271ee9ff942/l_6aa1cabc38e54271ee9ff949.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa1cabc38e54271ee9ff942/l_6aa1cabd38e54271ee9ff94a.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa1cabc38e54271ee9ff942/l_6aa1cabd38e54271ee9ff94b.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa1cabc38e54271ee9ff942/l_6aa1cabd38e54271ee9ff94c.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa1cabc38e54271ee9ff942/l_6aa1cabe38e54271ee9ff94d.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa1cabc38e54271ee9ff942/l_6aa1cabe38e54271ee9ff94e.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa1cabc38e54271ee9ff942/l_6aa1cabe38e54271ee9ff94f.jpg|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa1cabc38e54271ee9ff942/l_6aa1cabf38e54271ee9ff950.jpg,
+L038,Poshmark,https://poshmark.com/listing/Coach-Metallic-Bronze-Edie-Shoulder-Bag-6aa19be1c6a0b35d2ac0866a,2026-09-09,Coach Metallic Bronze Edie Shoulder Bag,"Size
+OS
+Condition
+Good
+Color
+Brown
+Category
+Women
+Bags
+Shoulder Bags
+Brand
+Coach
+Soft slouchy shoulder bag with a luxe metallic finish. Gold-tone hardware and subtle Coach logo. Single shoulder strap for easy wear. Sleek, versatile silhouette for daily use.",275.00,,70.00,Good,,https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa19be1c6a0b35d2ac0866a/l_wp_6aa19c0c4985e8bec889dc86.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa19be1c6a0b35d2ac0866a/l_wp_6aa19c1d32f934918cacbf7a.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa19be1c6a0b35d2ac0866a/l_wp_6aa19c0d221dcb6232290b31.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa19be1c6a0b35d2ac0866a/l_wp_6aa19c28946da2c91ebd3322.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa19be1c6a0b35d2ac0866a/l_wp_6aa19c0f41ae660e9dab0100.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa19be1c6a0b35d2ac0866a/l_wp_6aa19c10571a7ebe4cd51bfe.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa19be1c6a0b35d2ac0866a/l_wp_6aa19c3405ce5733e0d41ace.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa19be1c6a0b35d2ac0866a/l_wp_6aa19c44da3eeb954f21d454.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/09/09/6aa19be1c6a0b35d2ac0866a/l_wp_6aa19c1228951ff0732162af.webp,
+L039,eBay,https://www.ebay.com/itm/128066815177?itmmeta=01M240NWBWQQF68DE4TAG065Q5&hash=item1dd16084c9:g:5bQAAeSwFLNqnntQ&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4LuoQSOm%2FS%2FYtgJUOxBUpbvkgomagO0jTUWwz9SoAERIXCeBmKahORadq6ig%2FaF23QTs9xMAVwYNk0qVqg3ZIJYOuhViLFP1jLDanFqKEJADsyciD%2FKDxgGMdBmrJkLppmdK2D%2F6BT6DhP5nolRE1CwYJVReFKSS8HxG%2FtAzQHLGf41d1p%2FLdSYmwpuwEuBsxzIuyWLD3aSlfMZ34KAYK%2FLeOVkPFYpn122cQ%2FaAHl66O%2FWaShHA2zuaPx7Ld4NJ%2Buij4Bv%2FQNxahe2xIvuoVdzsr%7Ctkp%3ABk9SR67G14CRaA,2026-09-09,Auth LOUIS VUITTON Speedy 25 Monogram Handbag Monogram M41528 P-5161S809,"Condition
+Pre-owned - Good
+Seller Notes
+“Outside BC: Rubbing scratches on nume leather, Rubbing scratches on piping, Dirts on nume leather, Wrinkles on nume leather, Rubbing scratches on the corner(s), Stains on nume leather, Dirts on handle, Wrinkles on handle, Rubbing scratches on handle, Peeling off (plating), Crack on nume leather, Stains on handle, Rubbing scratches on monogram canvas, Peeling on handle, Peeling on leather edge(s), Inside B: Rubbing scratches, Dirts, Thread fraying, Others: There is NO Padlock, Key and Dust bag.Only the accessory in the photo will be sent.”Read Lessabout the seller notes
+Bag Width
+10 in
+Pattern
+Monogram
+Bag Height
+7.5in
+Product Name
+Speedy 25
+Hardware Color
+Gold
+MPN
+Does not apply
+Bag Depth
+6 in
+Model Number
+M41528
+Exterior Material
+Monogram Canvas
+Size (Mens)
+Does not apply
+Brand
+Louis Vuitton
+Line
+Monogram
+Department
+Women
+Type
+Handbag
+Exterior Color
+Brown
+Lining Color
+Brown
+Style
+Handbag
+Country of Origin
+France
+Product Line
+Louis Vuitton Speedy
+UPC
+Does Not Apply
+
+
+100% Authentic Item we provide! item is shipped from Japan!
+
+***Pictures were taken from the actual item.***
+
+***Please check the pictures carefully.***
+
+ (Actual Colors may slightly differ depending on your PC monitor and lighting environment)
+
+      
+Outside BC:  Rubbing scratches on nume leather, Rubbing scratches on piping, Dirts on nume leather, Wrinkles on nume leather, Rubbing scratches on the corner(s), Stains on nume leather, Dirts on handle, Wrinkles on handle, Rubbing scratches on handle, Peeling off (plating), Crack on nume leather, Stains on handle, Rubbing scratches on monogram canvas, Peeling on handle, Peeling on leather edge(s), 
+
+Inside BC:  Rubbing scratches, Dirts, Thread fraying, Peeling off Dirt on the Inside Pocket
+
+No offensive Odor Noticed
+
+Others: There is NO Padlock, Key and Dust bag.Only the accessory in the photo will be sent. 
+
+Accessories:External company shoulder strap
+Please note
+
+*※ It is very difficult to cover all minor defects.**
+
+**※ Please understand that senses of smell varies by person.Used items may have developed an unpleasant odor.**
+**※ The photos sometimes don't show the actual color depending on your PC monitor and lighting environment..**
+**※ The size is approximate.**
+**※Shape should only be judged when the bag is in use.The shape of a bag cannot be accurately assessed while the bag is empty.**
+
+Condition Rank
+
+N --Brand New
+
+S --Mint condition, Like new, but not perfect
+
+A --Very Good condition, with tiny scratches or/and stains.
+
+B --Good, some scratches,stains, and Used Feeling
+
+C --Fair, has been used feeling obviously , but still acceptable
+
+D --Poor, has damages, but still usable
+
+J --Junk items",,"1,080.00",626.40,Pre-Owned - Good,100%,https://i.ebayimg.com/images/g/CqQAAeSwWg9qnntP/s-l1600.webp|https://i.ebayimg.com/images/g/5bQAAeSwFLNqnntQ/s-l1600.webp|https://i.ebayimg.com/images/g/GT4AAeSwZQNqnntR/s-l1600.webp|https://i.ebayimg.com/images/g/ChgAAeSwXm5qnntP/s-l1600.webp|https://i.ebayimg.com/images/g/L6wAAeSwL3VqnntP/s-l1600.webp|https://i.ebayimg.com/images/g/PzIAAeSwVsxqnntQ/s-l1600.webp|https://i.ebayimg.com/images/g/760AAeSwUxNqnntQ/s-l1600.webp|https://i.ebayimg.com/images/g/R64AAeSwUkpqnntQ/s-l1600.webp|https://i.ebayimg.com/images/g/9uMAAeSwLrNqnntQ/s-l1600.webp|https://i.ebayimg.com/images/g/fwYAAeSwj2JqnntQ/s-l1600.webp|https://i.ebayimg.com/images/g/vUcAAeSwm5VqnntQ/s-l1600.webp|https://i.ebayimg.com/images/g/TVAAAeSwpN5qnntP/s-l1600.webp|https://i.ebayimg.com/images/g/BWkAAeSwyIRqnntR/s-l1600.webp|https://i.ebayimg.com/images/g/-IUAAeSwZERqnntP/s-l1600.webphttps://i.ebayimg.com/images/g/1A0AAeSwNoNqnnt1/s-l1600.webp|https://i.ebayimg.com/images/g/OxYAAeSwLKFqnnuL/s-l1600.webp|,includes an authenticity gurantee on the listing
+L040,eBay,https://www.ebay.com/itm/168569523990?itmmeta=01M240XV86E51X9JWMTBS7VBEH&hash=item273f86cf16:g:YSAAAeSwTclqlTqJ&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4LuoVc9eBXGCbrLht1LtNXaROUPARO8H0nOBp3SiAYNE8Y2H6xKDymcfZLtUpkVPbkOhYPL6nUWCjnuqb67Z49liVoynPRqzsCPc0tLYn68jAgOlBouRQqNJpkTAbuniMumAa4tzzxxtIgyTtUOr3UyjR7KmJfItFUmMCFIfWkSXTsjNEasDZ1Hm5xxceLZeg1LKJ2%2Bt9LzdNvO%2BBRW80VPlzbT1akJ8vPtkMExMSZS%2FnkTBbT37sCKBCSMRI5DwbvfDobrhEH1mqtMWdr8kRDyax%7Ctkp%3ABk9SR8q094CRaA,2026-09-09,15% OFF Prada Cleo Medium Black Polished Silver Triangle Logo Shoulder Bag,"Condition
+Pre-owned - Good
+Seller Notes
+“This item has been gently used but is in good condition. It might have a few signs of use, but all imperfections should be shown and described in the seller’s listing.”Read Lessabout the seller notes
+Model
+Prada Celo
+Pattern
+Solid
+Closure
+Zip
+Occasion
+Shoulder Bag
+Handle/Strap Color
+Black
+Handle Style
+Shoulder Strap
+Lining Material
+Fabric
+Hardware Color
+Silver
+Exterior Material
+Leather
+Brand
+PRADA
+Department
+Women
+Exterior Color
+Black
+Lining Color
+Black
+Style
+Shoulder Bag
+Theme
+Designer
+Handmade
+No
+Handle/Strap Material
+Leather
+Product Line
+PRADA Cleo
+Country of Origin
+Italy
+Notice
+No Returns or Exchanges for Non-Quality Issues
+Included Items
+No original dust bag and box
+UPC
+Does not apply",,,"1,496.00",Pre-Owned - Good,100.0%,https://i.ebayimg.com/images/g/YSAAAeSwTclqlTqJ/s-l1600.webp|https://i.ebayimg.com/images/g/wdUAAeSw5RdqlTqK/s-l1600.webp|https://i.ebayimg.com/images/g/Ud0AAeSwLrNqlTqL/s-l1600.webp|https://i.ebayimg.com/images/g/PEQAAeSwdABqlTqM/s-l1600.webp|https://i.ebayimg.com/images/g/jkMAAeSwEjtqlTqO/s-l1600.webp|https://i.ebayimg.com/images/g/jkMAAeSwEjtqlTqO/s-l1600.webp|https://i.ebayimg.com/images/g/KWgAAeSwrBFqlTqQ/s-l1600.webp|,this has a discount code that is optional to include that drops the price to 1080.86; also has authenticty gurantee on listing
+L041,eBay,https://www.ebay.com/itm/318836512781?itmmeta=01M241566JZ053CNQX6MB6JABQ&hash=item4a3c23180d:g:9PkAAeSwicFqniVD&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4LuoDRBjFAAfGoMhrVpLI6mXCghZHHTIgLTx5KsINByMscyk3r4niQ5TuXjqkoWLSDeHCvsTuHn777RSBpg27sq5Qwt2%2FVdqM1TUluSmu0qXvdi349V4Ph1JPtgmKFI4NyeV4iXV1Y%2B%2FcInL--PN2dTnnxyX7fpmd%2BCPK8qiPC3eP3v01pUESRqNjW%2BRKogtmOz%2FTGV9KpftjTBa66%2BjwEDt%2FnwpqXxT5qYKaD%2FKamD75DnKDjT37u6r%2BGHQUjdXZiUOh1dBu15LdstmzSUSAPl6T%7Ctkp%3ABk9SR8zjlIGRaA,2026-09-09,Loewe Pre-Owned Authentic Satchel Orange Nubuck Free Tracked Shipping,"Condition
+Pre-owned - Good
+Seller Notes
+“light wear and scuffs at corners, edges; light wear and residue at interior lining; light wear, scratches and loss color at hardware. The item may have received standard luxury care. please consult us if you have any questions, and kindly refer to the photos for an accurate impression.”Read Lessabout the seller notes
+Brand
+Loewe
+Department
+Unisex Adults
+Exterior Color
+Orange
+Style
+Satchel
+Exterior Material
+Nubuck
+Country of Origin
+Spain
+
+Dear Customer, Welcome to our store!
+
+⚠ Important Notice: Please contact our customer service before placing an order to confirm the item’s availability and current condition. As all our items are also sold in our physical store, there is a possibility that an item may be sold simultaneously elsewhere or its condition may have changed since listing. To comply with eBay policies, we may need to inform you and cancel orders if this pre-purchase confirmation is not completed.
+
+In addition, each item is inspected by our in-house inspection center prior to shipment to ensure the condition matches the listing and to provide a reliable shopping experience. This internal inspection typically takes 1–2 business days. Once the inspection is completed, we will notify you. If any issue is identified, we will contact you promptly and arrange a full refund when necessary.
+
+We appreciate your understanding.
+
+Key Specifications
+● Brand: Loewe
+● exterior_material: Nubuck
+● style: Satchel
+● exterior_color: Orange
+● includes: None
+● department: Unisex Adults
+
+Condition
+● Overall Condition: Good, showing light general signs of use.
+● Exterior:remains smooth with mild handling wear.
+● Interior: Clean with light natural marks; lining well-kept.
+● Hardware: Functional with slight surface wear on close inspection.
+● Edges & Corners: Mild rubbing; structure remains firm.
+● Care Notice: Please note that some items may have minor care marks from routine maintenance; refer to photos for clarification.
+
+Why Choose This Listing?
+● Rarity: Limited stock
+● Quality: Hardware tested for long - term durability
+● Documentation: None included",,,929.00,Pre-Owned - Good,,https://i.ebayimg.com/images/g/9PkAAeSwicFqniVD/s-l1600.webp|https://i.ebayimg.com/images/g/dKoAAeSwiOxqniVE/s-l1600.webp|https://i.ebayimg.com/images/g/wyEAAeSwDFZqniVE/s-l1600.webp|https://i.ebayimg.com/images/g/R1YAAeSwPXdqniVE/s-l1600.webp|https://i.ebayimg.com/images/g/k6kAAeSwYwdqniVE/s-l1600.webp|https://i.ebayimg.com/images/g/yKIAAeSwHoJqniVD/s-l1600.webp|https://i.ebayimg.com/images/g/7qYAAeSwZPBqniVD/s-l1600.webp|https://i.ebayimg.com/images/g/bZIAAeSwIf9qniVD/s-l1600.webp|https://i.ebayimg.com/images/g/76gAAeSwjLlqniVD/s-l1600.webp|https://i.ebayimg.com/images/g/-EUAAeSw-JRqniVE/s-l1600.webp|https://i.ebayimg.com/images/g/p3sAAeSw9kBqniVE/s-l1600.webp|https://i.ebayimg.com/images/g/4eAAAeSwUkpqniVE/s-l1600.webp|https://i.ebayimg.com/images/g/2SkAAeSwuRRqniVE/s-l1600.webp|https://i.ebayimg.com/images/g/8-4AAeSw5AlqniVD/s-l1600.webp|https://i.ebayimg.com/images/g/OTgAAeSwJFFqniVE/s-l1600.webp|https://i.ebayimg.com/images/g/bY0AAeSwIf9qniVD/s-l1600.webp|https://i.ebayimg.com/images/g/KNMAAeSwhYZqniVE/s-l1600.webp|,authenticity guarantee on listing
+L042,Vestiaire Collective,https://www.vestiairecollective.com/women-bags/handbags/gucci/brown-cloth-abbey-gucci-handbag-70864846.shtml?_gl=1*1tec5fd*_up*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF,2026-09-09,Gucci abbey cloth handbag vintage,"Pre-owned Gucci Abbey tote in good overall vintage condition. The GG monogram canvas remains in good condition with normal signs of previous use. Brown leather trim, bottom corner panels and handles show visible creasing, rubbing, surface wear and light scratches consistent with age and use. Hardware shows scratches, tarnishing and discoloration.The zipper has a missing/damaged teeth, but it remains functional and does not affect normal use. Interior is generally clean with light signs of use. Please review all photos carefully as they are part of the condition description.
+
+Details
+Online since:2026-09-09
+Categories :Women
+Category:Bags
+Sub-category:Handbags
+Designer:Gucci
+Model:Abbey
+Condition:Very good conditionMore info
+Material:Cloth
+Colour:Brown
+Style:Vintage
+Location:United States, from the seller La Repeat",,,397.00,Very Good,"Expert Seller
+Fashion Activist","https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-1_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-2_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-3_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-4_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-5_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-6_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-7_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-8_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-9_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-10_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-11_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-12_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-14_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-abbey-gucci-handbag-70864846-15_2.jpg","fastion activist badge = acquired when you buy AND sell at least one pre-loved item on the platform every rolling year.
+
+expert seller badge is granted when 3 criteria are hit = sold 5 items; 90% conformity (% of items sold conformed to their description.); 90% shipping (% of items sold shipped in less than 5 days. Cancellations are considered as unshipped.)"
+L043,Vestiaire Collective,https://www.vestiairecollective.com/women-bags/handbags/bottega-veneta/black-leather-cassette-padded-bottega-veneta-handbag-69178758.shtml,2026-09-09,Bottega Veneta Cassette Padded leather crossbody bag,"Bottega Veneta Cassette Padded Leather Crossbody Bag in Black.
+Features: Intrecciato weave and gold-tone hardware. Single adjustable shoulder strap. Unlined and single interior pocket. Flap and snap closures at front.
+
+This item has been inspected and authenticated by Vestiaire Collective Experts and is ready to ship.                                        
+Very good condition, faint scratches to exterior flap. 
+
+Dimensions: Width 9.2 in, Depth 2 in, Height 6 in, Shoulder Drop 19.5 in. 
+
+Dust bag included.
+Made in Italy.
+
+Details
+Online since:2026-08-05
+Categories :Women
+Category:Bags
+Sub-category:Handbags
+Designer:Bottega Veneta
+Model:Cassette Padded
+Condition:Very good conditionMore info
+Material:Leather
+Colour:Black
+Location:Vestiaire Collective United States
+Reference:69178758
+Measurements
+Width:9.4 in
+Height:7.7 in",,"1,489.00","1,415.00",Very Good,Expert Seller,"https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-cassette-padded-bottega-veneta-handbag-69178758-1_1.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-cassette-padded-bottega-veneta-handbag-69178758-2_1.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-cassette-padded-bottega-veneta-handbag-69178758-3_1.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-cassette-padded-bottega-veneta-handbag-69178758-4_1.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-cassette-padded-bottega-veneta-handbag-69178758-5_1.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-cassette-padded-bottega-veneta-handbag-69178758-6_1.jpg","this listing has express delivery & was listed by their concierge service w/ authentication & QC included
+
+see once again that professionally listed items have way fewer images than seller listed"
+L044,Vestiaire Collective,https://www.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-neverfull-louis-vuitton-handbag-70809394.shtml?_gl=1*4cncfi*_up*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF,2026-09-09,Louis Vuitton Neverfull leather tote,"Louis Vuitton Neverfull tote in Damier pattern.  Gently used all over, leather straps and stitching show some wear.  Slight staining on interior.  Wear on interior pocket and corners.
+
+Details
+Online since:2026-09-08
+Categories :Women
+Category:Bags
+Sub-category:Handbags
+Designer:Louis Vuitton
+Model:Neverfull
+Condition:Good conditionMore info
+Material:Leather
+Colour:Brown
+Location:United States, from the seller Danica
+Reference:70809394
+Measurements
+Width:17.5 in
+Height:11.5 in
+Depth:7 in",,,777.00,Good,,"https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-1_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-2_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-3_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-4_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-5_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-6_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-8_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-9_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-10_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-11_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-12_3.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-neverfull-louis-vuitton-handbag-70809394-13_3.jpg|",
+L045,ThreadUp,https://www.thredup.com/product/women-kate-spade-new-york-brown-crossbody-bag/235554902?query_id=1210784353845280768&result_id=1210784354138882048,2026-09-09,"Kate Spade New York
+One size
+Crossbody bag","Condition
+excellent
+Practically new: shows no obvious signs of being worn or washed. Our standards
+
+Original tags attached
+
+Item details
+#235554902
+Material unknown
+Brown
+Size & fit
+One size
+Measured at 8.5"" length, 5"" height, 2.5"" depth (approx.)",299.00,,239.99,Excellent,,https://cf-assets-thredup.thredup.com/assets/961901967/retina.jpg|https://cf-assets-thredup.thredup.com/assets/961877105/retina.jpg|https://cf-assets-thredup.thredup.com/assets/961902079/retina.jpg,this is a final sale item as posted on listing
+L046,ThreadUp,https://www.thredup.com/product/women-chanel-blue-ltd-ed-filigree-vanity-case/1502045708?query_id=1210787605039087616&result_id=1210787605286551552,2026-09-09,"Chanel
+One size
+Ltd. ed. filigree vanity case","Condition
+very good
+No major flaws: there may be minor wear on fabric like light pilling or fading, and hardware may have light scratches. Our standards
+
+Item details
+#1502045708
+Blue
+Chanel Bags Ltd. Ed. Filigree Vanity Case Shoulder Bag in Navy Caviar Leather and Gold hardware. The product is condition Very Good Condition. SKU: EAH1788, Serial number: 26172312, Accessories Included: Sticker, Card, CC Charm Cadenas in clochette, Key in clochette, Condition notes: None, Delivery: We have a 5 to 7 business days delivery policy, hassle-free and duties/tariffs included! BrandCo Paris finds rare and top condition items at great deals, they are worth your patience!
+Size & fit
+One size
+Measured at 16"" length, 12"" height, 8"" depth (approx.)","4,100.00",,"3,299.99",Very Good,,https://tup-images.thredup.com/assets/1523789176/retina.jpg|https://tup-images.thredup.com/assets/1523789179/retina.jpg|https://tup-images.thredup.com/assets/1523789177/retina.jpg|https://tup-images.thredup.com/assets/1523789178/retina.jpg|https://tup-images.thredup.com/assets/1523789180/retina.jpg|https://tup-images.thredup.com/assets/1523789182/retina.jpg|https://tup-images.thredup.com/assets/1523789183/retina.jpg|https://tup-images.thredup.com/assets/1523789184/retina.jpg|https://tup-images.thredup.com/assets/1523789181/retina.jpg,"also final sale--may be that handbags on threadup are all final sale
+
+this has a seller authenticated tag = ""This item was authenticated by BrandCo Paris. ThredUp has not independently verified authenticity.""
+
+many more photos for this designer expensive item that the kate spade "
+L047,Fashionphile,https://www.fashionphile.com/collections/all-bags/products/bottega-veneta-nappa-intrecciato-candy-loop-camera-bag-white-1721678?variant=51884622184751,2026-09-09,"Bottega Veneta
+Nappa Intrecciato Candy Loop Camera Bag White","Exterior: Corner wear, edge wear, marks, surface wear
+Hardware: Scratch(es)
+Handle: Surface wear, edge wear, marks
+Interior: Surface wear, marks
+
+Comes With: FASHIONPHILE Certificate of Authenticity
+
+Item #: 1721678
+
+This is an authentic BOTTEGA VENETA Nappa Intrecciato Candy Loop Camera Bag in White. This stylish shoulder bag is beautifully crafted of woven lambskin leather in white. The shoulder bag features a crossbody shoulder strap, aged gold hardware and a top zipper that opens to a matching woven leather interior.
+Follow this item for alerts. Bottega Veneta is a registered trademark of Bottega Veneta. FASHIONPHILE is not affiliated with Bottega Veneta.
+
+Base length: 5.25 in
+Height: 4.5 in
+Width: 2.25 in
+Drop: 20.25 in","1,500.00",,695.00,Very Good,,https://www.fashionphile.com/cdn/shop/files/d20bdd1ca15ef82f5c67b69b9926e657.jpg?v=1764848989|https://www.fashionphile.com/cdn/shop/files/5605c183e70647ed78c9be3d285cbe46.jpg?v=1764848989|https://www.fashionphile.com/cdn/shop/files/68ce1a178b772355916f162784cd0f44.jpg?v=1764848989|https://www.fashionphile.com/cdn/shop/files/c709bc770e92cd453eca2a4a5aa934b5.jpg?v=1764848989|https://www.fashionphile.com/cdn/shop/files/726e8702db67f4683383c54736507dc4.jpg?v=1764848988|https://www.fashionphile.com/cdn/shop/files/1fd250a784cec720b1d42652c118673a_9f3b9a0f-6286-41d1-addc-948c7be0913a.jpg?v=1764848989|https://www.fashionphile.com/cdn/shop/files/afacb885e24ef365e8656f55779a207b.jpg?v=1764848989|https://www.fashionphile.com/cdn/shop/files/d581b4b0304baa1d2207ecdc8aa6b29f.jpg?v=1764848989|https://www.fashionphile.com/cdn/shop/files/d28bebe41ab16df1a351dfeaf7cbc039.jpg?v=1764848989|,"
+Condition
+Most of the items that we carry have been previously owned. Unless otherwise stated, they may not be in flawless condition. We inspect each item and list any notable flaws under the Condition Rating. Be sure to inspect all detailed photos that we have taken of the item.
+
+Giftable
+Item is in New condition (see below for more information on this condition) and includes one or more of the following: the original box, case, attached retailer tags.
+
+New
+Item appears unused. May contain faint signs of wear due to storage conditions.
+
+Excellent
+Item is clean and contains very little wear. Any notable flaws or signs of wear are stated in the listing.
+
+Very Good
+Item shows some wear and signs of previous use, but still has a lot of life in it. Slightly worn corners, creases in leather, and tarnished hardware may be visible. Any notable flaws or signs of wear are stated in the listing.
+
+Good
+Item does show moderate signs of prior use. Surface scratches, slight darkening in handles, and other indications of wear may be visible. Such signs of wear or imperfections will be noted in the listing.
+
+Fair
+Item will have noticeable signs of wear such as well scuffed edges or significant scratches. Please read the condition notes in the listing and inspect photos before purchasing. Fair condition items often present our customers with the greatest opportunity to save significantly on authentic luxury bags.
+
+Flawed
+Item is generally in nice condition overall, but has a major defect or flaw that affects the item's appearance or functionality."
+L048,Fashionphile,https://www.fashionphile.com/collections/all-bags/products/gucci-gg-supreme-monogram-textured-dollar-calfskin-web-small-ophidia-dome-shoulder-bag-beige-ebony-new-acero-1965872?variant=58417377870127,2026-09-09,"Gucci
+GG Supreme Monogram Textured Dollar Calfskin Web Small Ophidia Dome Shoulder Bag Beige Ebony New Acero","Exterior: Corner wear, scuffs, edge wear, pilling, frayed stitch(es), surface wear
+Handle: Edge wear, scuffs
+Interior: Ink marks, discoloration, tear in seam, marks, frayed stitch(es)
+Hardware: Scratch(es)
+
+Comes With: FASHIONPHILE Certificate of Authenticity
+
+Item #: 1965872
+
+This is the authentic GG Supreme Monogram Textured Dollar Calfskin Web Small Ophidia Dome Shoulder Bag Beige Ebony New Acero. This crossbody bag is crafted of monogram coated canvas with brown leather trim. The bag features an adjustable brown leather shoulder strap, a signature green and red web stripe with gold GG logo on the front, and a gold wrap-around zipper that opens to a teal satin interior with patch pockets.
+Follow this item for alerts. Gucci is a registered trademark of Gucci. FASHIONPHILE is not affiliated with Gucci.
+
+Base length: 9 in
+Height: 7.25 in
+Width: 3.25 in
+Drop: 19.75 in","1,850.00",,750.00,Good,,https://www.fashionphile.com/cdn/shop/files/7fcf18f0e8f0141a377f72e123623826_57668958-6ccf-4acc-be7d-d0e7bda20b4c.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/f55d91744f94fe8c2bf113f6d89adf5e.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/b92c992ff9d48a7e773c030cf3d4e577.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/d5adc47bc8776d798759af2c8967739e.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/4c54ba4cea898f9d6d7a209d6851e4ca.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/7ae0763588c511350f86a58f279e2264.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/7180ac2a44f89958903e222522e9b4a2.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/9ff22657ed574629e959a232dc8e9d73.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/0cfb93337a7c934c9eb157898713caaf.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/b6880908973c1326b4427c328f277c1a.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/560e0b421e815226450ed48693225ec7_2038ce42-fead-4c03-a5a1-64f1b303f144.jpg?v=1788429728|https://www.fashionphile.com/cdn/shop/files/8ea091c55165162e13b61b60ca0be41a.jpg?v=1788429728|,
+L049,Vinted,https://www.vinted.com/items/9947780631-authentic-coach-bag?referrer=catalog,2026-09-09,Authentic Coach Bag,"BrandCoach
+Condition
+Good
+Material
+Leather
+Color
+Beige, Cream
+Uploaded
+31 min ago
+Used and in good condition",,,32.20,Good,Frequent Uploads,https://images1.vinted.net/t/04_024e5_HtD9n5RK4qtNWgeXaaFgRxwf/f800/ed0636db.webp?s=e37b7cc77ed4dce43327de03103dc63a1586601d|https://images1.vinted.net/t/01_00d42_F4uCoQxn2ZBgcevVkE8Y7JNr/f800/b85f3c58.webp?s=6f7c68fe737db1aa35f4338fb82e2c749c56a468|https://images1.vinted.net/t/04_0252b_y1phWKH2xK9BsGr9mhGAD2DQ/f800/a5986546.webp?s=a801f7bba710a40a2816dbf0986b2a9422cbfabb|https://images1.vinted.net/t/06_01235_d33S5NzWYdzvi5yxE9Fmqz9q/f800/470832fe.webp?s=52bf9be3982d09ad70056686f6f420fc2cbdbf4f|https://images1.vinted.net/t/02_00da4_s2dVbUMRB77abYrFHABg2pRc/f800/0e7e45ad.webp?s=54f7afd492e7bdf9d0759f5468b5612d9bc781b6|https://images1.vinted.net/t/02_019bd_GNVtQiUTxDdc6i4NEMhXX8D6/f800/525b841a.webp?s=f86121363c348c760bfbf3c92a2ad208672598d5|https://images1.vinted.net/t/05_00a33_YZCsnm8S9m9aAUHiPXfyi44G/f800/4d33bbf9.webp?s=6d6c36160deefa40efaa112bc5195b17c01009cb|,
+L050,Vinted,https://www.vinted.com/items/9937018706-kate-spade-cross-body-bag?referrer=catalog,2026-09-09,Kate spade cross body bag,"BrandKate Spade
+Condition
+New with tags
+Color
+Navy, White
+Uploaded
+22 hours ago
+NWT real Kate Spade mini cam bag
+Spade flower lc
+Navy/multi
+",279.00,,37.45,New with tags,Frequent Uploads,https://images1.vinted.net/t/05_0023c_24hdE8Hf4xkGh4tSG5jjc6i8/f800/e5d61075.webp?s=c783c3f418d0212cf946541a8da8b78aa895373a|https://images1.vinted.net/t/05_020a6_P9ihDo64iVa7BZFDEaDgubUC/f800/35e57364.webp?s=5b6164538db067a75f1bacb136c0b3134709bcea|https://images1.vinted.net/t/04_00015_G14dDMi8u6XwgzmH22Eadove/f800/fafddcda.webp?s=520e5c25170a705572b8dfad2ccb16e2a0512506|https://images1.vinted.net/t/06_0148e_Pn18jHeGqenZKcPzLFDPV6MV/f800/00257f78.webp?s=9e6ff466cbea63428376fb7d4aaeee582ac0c5b7|https://images1.vinted.net/t/04_013b8_WoCQnDqKQzp6WVQtZbmSYAsX/f800/0fae6c40.webp?s=e5e25d4faab9c2d66af0dadbba842eeb9de18de8|https://images1.vinted.net/t/06_0039c_wyeZchD7D6BasjeLfxx4dc6f/f800/51164b72.webp?s=9bcfc55689b9750d8a901117c7d5f0d210148937|,was only able to see MSRP because of photo of original tag on item
+L051,eBay,https://www.ebay.com/itm/336769710725?itmmeta=01M24326MTSNNH9YR40PGZ7KS3&hash=item4e6909fa85:g:hAUAAeSwIf9qlELi&itmprp=enc%3AAQALAAAAwDKQclQvzFwZQpmMrsO4LuqZnwIeXgnPCd9amFsSgPylJ%2BUHIpu0zbEgyZ7KRowSo%2FYaG4sgVME2m5vDejsOLfFISRGiIbRjFY0iq7h2QsU%2BlaFwbSHVp2m5qzd6ihucYXnOrDWxshRlRwOZ1cD3akZ9MlSFD9qHzNOzZBnJPAFd7l81AGloJ5ICxLDslgkw61IyameydeQlJmySPH%2B6jArILfxt0iAP7Lwv87SIckbX%2BCHmx1JtBXYi4NPkMA5R9Q%3D%3D%7Ctkp%3ABk9SR-DqiIORaA,2026-09-09,Pre owned Large Dior Lady Dior Black tote,"Condition
+Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs of use, but all imperfections should be shown and described in the seller’s listing. See all condition definitionsopens in a new window or tab
+Bag Width
+4 in
+Shape
+Rectangle
+Closure
+Zipper
+Occasion
+Casual
+Handle/Strap Color
+Black
+Handle Drop
+4 in
+Size
+Large
+Hardware Color
+Silver
+Bag Depth
+4 in
+Fabric Type
+Jacquard
+Accents
+Quilted
+Accessories
+Bag Charm
+Department
+Women
+Exterior Color
+Black
+Style
+Satchel/Top Handle Bag
+Features
+Inner Pockets
+Finish
+Patent
+Pattern
+Dior Cannage
+Character
+CD
+Bag Height
+10 in
+Handle Style
+Top Handle
+Lining Material
+Fabric
+Exterior Material
+Patent Leather
+Brand
+Dior
+Hardware Material
+Metal
+Model
+Dior Lady Dior
+Lining Color
+Gray
+Theme
+Designer
+Handle/Strap Material
+Patent Leather
+Product Line
+Dior Lady Dior
+
+Pre owned Large Dior Lady Dior Black tote
+Come with TikTok COA. No box No dust bag.",,,900.00,Pre-Owned - Good,,https://i.ebayimg.com/images/g/hAUAAeSwIf9qlELi/s-l960.webp|https://i.ebayimg.com/images/g/CwoAAeSw2o5qlELT/s-l1600.webp|https://i.ebayimg.com/images/g/FRsAAeSwwS5qlELT/s-l1600.webp|https://i.ebayimg.com/images/g/o7kAAeSw2ZtqlELT/s-l1600.webp|,
+L052,The RealReal,https://www.therealreal.com/products/jewelry/rings/cocktail-ring/14k-1-83ct-tourmaline-cocktail-ring-w7yid,2026-09-09,Ring 14K 1.83ct Tourmaline Cocktail Ring Size: 6.25,"14K Yellow Gold
+Featuring 1.83 Carat Faceted Pear Shaped Tourmaline
+Includes Generic Box 
+Band Width
+1.9mm
+Ornament Length
+8.4mm
+Ornament Width
+10.4mm
+Marks
+14K
+Total Item Weight (g)
+3.2
+Collateral
+Generic Box
+Center Stone
+Yes
+Gemstone
+Tourmaline
+Carat Weight
+1.83
+Stone Count
+1
+Stone Shape
+Faceted, Pear Shaped
+Stone Color
+Pink
+Type/Clarity
+Slightly Included
+Gender
+Women
+Item #
+RRING395143","2,595.00",,"1,365.00",Pristine,,https://product-images.therealreal.com/RRING395143_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/RRING395143_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/RRING395143_3_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/RRING395143_4_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/RRING395143_5_enlarged.jpg?auto=webp&width=1920 ,jewelry listings on the realreal come with attached valuation reports & warranty options
+L053,The RealReal,https://www.therealreal.com/products/jewelry/necklaces/pendant-necklace/daniella-design-18k-diamond-bow-pendant-necklace-w7if5,2026-09-09,"Daniella Design
+18K Diamond Bow Pendant Necklace","Rhodium-Plated 18K White Gold
+Length
+18""
+Ornament-Length
+.5""
+Ornament Width
+.75""
+Marks
+750, Designer Signature
+Total Item Weight (g)
+4.3
+Gemstone
+Diamond
+Carat Weight
+0.22
+Stone Count
+24
+Stone Shape
+Tapered Baguette
+Color Grade
+Near Colorless
+Clarity Grade
+Slightly Included
+Gemstone
+Diamond
+Carat Weight
+0.38
+Stone Count
+54
+Stone Shape
+Round Brilliant
+Color Grade
+Near Colorless
+Clarity Grade
+Slightly Included
+Gender
+Women
+Item #
+DANDE22540","13,800.00",,"3,450.00",Pristine,,https://product-images.therealreal.com/DANDE22540_1_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/DANDE22540_2_enlarged.jpg?auto=webp&width=1920|https://product-images.therealreal.com/DANDE22540_3_enlarged.jpg?auto=webp&width=1920,"has ""good value"" label = ""a great piece at an even better price -- at least 70% off retail"""
+L054,Poshmark,https://poshmark.com/listing/Jil-SanderNecklace-Silver-Brass-One-Size-Made-in-Italy-NWT-6a90d7c0d0e93376c7c84118,2026-09-09,Jil Sander Necklace - Silver Brass - One Size - Made in Italy NWT,"Size
+OS
+Condition
+New With Tags
+Color
+Silver
+Category
+Women
+Jewelry
+Necklaces
+Brand
+Jil Sander
+Style Tags
+Designer Work Event
+Party Wedding Elegant
+Sophisticated
+Necklace from Lookbooks
+Metal brass with silver plating
+Lobster clasp fastening
+No appliqués
+Circumference 33.15 Inches
+Made in Italy","3,000.00",499.00,399.00,New with tags,Posh Ambassador II,https://di2ponv0v5otw.cloudfront.net/posts/2026/08/27/6a90d7c0d0e93376c7c84118/l_wp_6a90d7c74fcf26ec15c11952.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/27/6a90d7c0d0e93376c7c84118/l_wp_6a90d7c697098803e6d37ed3.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/27/6a90d7c0d0e93376c7c84118/l_wp_6a90d7c58974d074b4977b31.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/27/6a90d7c0d0e93376c7c84118/l_wp_6a90d7c7728253fb481eb075.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/27/6a90d7c0d0e93376c7c84118/l_wp_6a90d7ca17a3c4cd18eded3d.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/27/6a90d7c0d0e93376c7c84118/l_wp_6a90d7c7a1bf20e0a3a6fd73.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/08/27/6a90d7c0d0e93376c7c84118/l_wp_6a90d7c756502b586fcb0521.webp,
+L055,Poshmark,https://poshmark.com/listing/Elegant-Real-Pearl-andOxidized-Silver-and-Crystal-Earrings-6a5d56fa74cb47a0041d51d4,2026-09-09,Elegant Real Pearl and Oxidized,"Size
+OS
+Color
+Silver
+Cream
+Category
+Women
+Jewelry
+Earrings
+Understated elegance -These stunning earrings feature a real pearl centerpiece surrounded by sparkling crystals.
+
+Pierce earrings
+
+Size approximately 1/2 inch long",500.00,,85.00,,Posh Ambassador II,https://di2ponv0v5otw.cloudfront.net/posts/2026/07/19/6a5d56fa74cb47a0041d51d4/l_wp_6a5d56fe420644e8f6186d5c.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/07/19/6a5d56fa74cb47a0041d51d4/l_wp_6a5d57009936d6d099f354a5.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/07/19/6a5d56fa74cb47a0041d51d4/l_wp_6a5d56fed7555d44ce9518af.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/07/19/6a5d56fa74cb47a0041d51d4/l_wp_6a5d5701bdcb0488b1c13db5.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/07/19/6a5d56fa74cb47a0041d51d4/l_wp_6a5d56ffc4e7b47c394ced8f.webp|https://di2ponv0v5otw.cloudfront.net/posts/2026/07/19/6a5d56fa74cb47a0041d51d4/l_wp_6a5d56fea9a448333c110f71.webp,hard to know the authenticity of jewelry on poshmark b/c its not stated on listing officially -- but also much lower price point than other platforms
+L056,eBay,https://www.ebay.com/itm/358924360463?itmmeta=01M243N6NQ4TA2BN0F9B7V233R&hash=item53918f1b0f:g:evcAAeSwpWFqoA7O&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4LurYc%2FkL%2FM85B5mbDHXizeixCANZM6qKswKpoEBk4E6bQoRUYSdO%2BK6v9rb%2F7xtuU8rLLfjXU7R%2B9%2B3TcqnWhWHjlnPkesW5D4PURbuTSKTTfs8tWhZehwC97g3ztlmxCHKflRg4Ke3mw2yeymqCZawrVlMris4PbIZojJrdBb0peagvFX%2Fe0EPoljZT0PMeBWK4zBGBO8NdLsuvU66%2BaEnlerDyrILIIQfk9lK3h2rQ7lv4n%2BhXfw%2BvsJBTX1tldiEEjYs%2BPygOMvapjS3diKGS%7Ctkp%3ABk9SR47r1IORaA,2026-09-09,"4Ct Floating Diamond Station Bezel Necklace 14K Yellow Gold Lab Grown 18""
+Color E-F, Clarity VS2-SI1, Free Returns","Condition
+New with packaging: This item is brand new and has never been worn. It still has the original packaging. See all condition definitionsopens in a new window or tab
+Brand
+Pompeii3
+Main Stone
+Lab Grown Diamond
+Metal
+14k Yellow Gold
+Metal Purity
+14k
+Style
+VS 4Ct Diamond Necklace in 14k Yellow Gold
+Type
+Necklace
+Main Stone Color
+White
+Base Metal
+14k Yellow Gold
+Materials sourced from
+USA
+Cut Grade
+Very Good
+Main Stone Creation
+Created
+Main Stone Treatment
+Created
+Setting Style
+Bezel
+Total Carat Weight
+4
+Number of Diamonds
+10
+Number of Gemstones
+10
+Chain Type
+Link
+Pendant/Locket Type
+Pendant
+Closure
+Spring Ring
+Country of Origin
+USA
+Gemstone Clarity Grade
+VS2-SI1
+Occasion
+Gift
+Seller Warranty
+180 Days
+Theme
+Necklace
+Width
+1","9,999.95",,"1,999.95",New with packaging,98.6%,https://i.ebayimg.com/images/g/evcAAeSwpWFqoA7O/s-l1600.webp|https://i.ebayimg.com/images/g/6EMAAeSw7QVqoA7P/s-l1600.webp|https://i.ebayimg.com/images/g/DiQAAeSwu7NqoA7O/s-l1600.webp|https://i.ebayimg.com/images/g/wn0AAeSwyXhqoA7O/s-l1600.webp|https://i.ebayimg.com/images/g/FWAAAeSwxH9qoA7Q/s-l1600.webp|https://i.ebayimg.com/images/g/8asAAeSwThtqoA7P/s-l1600.webp|https://i.ebayimg.com/images/g/9XYAAeSwd4xqoA7O/s-l1600.webp|https://i.ebayimg.com/images/g/H7kAAeSw90tqoA7P/s-l1600.webp|,"authenticity guarantee tag
+
+price becomes 1849.99 with coupon code"
+L057,eBay,https://www.ebay.com/itm/158254946361?_skw=Tiffany+%26+Co.&itmmeta=01M243W1WH40VVFMSVYJC3403H&hash=item24d8bad839:g:a70AAeSwpoNqdPHm&itmprp=enc%3AAQALAAAA0DKQclQvzFwZQpmMrsO4LuqLo6HyP6YZXzMvN6Gj8rbIaVal%2BGIO21Reep%2Bp%2Fixhy5fuICe5kjFd1oMkfrQCntPrHcdvrdgHesvIUQC5ImAtKjLtp2crs5zIPb6gixOJzgwrpTQ1bzqy8AxBh0btpCQKDs4COewemElA7jdPXPeO5EiAvdZnHiOzwahfZUVyftinikK7k8wPHVOlyqRfOd7%2BVrX%2FAT4yOaMB0aog9ePYok%2F5uUuJAGtpbEa%2Fh3qYcWLu15jyvcfMNwEwLJYN14I%3D%7Ctkp%3ABk9SR7ie8IORaA,2026-09-09,Vintage 1990s Tiffany 18K Gold Two Tone Diamond Hinged Bangle Bracelet,"Condition
+Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. Any signs of wear should be shown and described in the seller’s listing. See all condition definitionsopens in a new window or tab
+Antique
+No
+Closure
+Hinged
+Signed
+Yes
+Color
+Yellow
+Metal
+Yellow Gold
+Main Stone
+Diamond
+Vintage
+Yes
+Brand
+Tiffany & Co.
+Type
+Bracelet
+Metal Purity
+18k
+Style
+Bangle
+Base Metal
+Gold
+Country of Origin
+United States
+
+
+A striking vintage Tiffany & Co. bangle, stamped 18K, featuring a two-tone design with diamond accents. The bracelet features Tiffany’s distinctive ribbed design, composed of sculptural rounded gold bands accented by four pavé diamond stations positioned around the bangle.
+
+Each diamond station is framed by raised polished gold detailing, creating a beautiful contrast between the warm yellow gold and bright white diamonds. The substantial construction and architectural design give the bracelet a bold presence while retaining the timeless elegance associated with vintage Tiffany & Co. jewelry.
+
+The bracelet features a hinged construction with a secure clasp and is signed “TIFFANY & CO. 18K.”
+
+Outside Circumference-7 3/8”
+Inside Circumference -6.5”
+
+Details:
+
+* Designer: Tiffany & Co.
+* Era: Vintage, believed to date to approximately the 1990s
+* Metal: Stamped TIFFANY & CO. 18K; two-tone design
+* Gemstones: Round brilliant-cut earth mined diamonds of high quality
+* Design: Ribbed bangle with four pavé diamond stations
+* Closure: Hinged bangle with clasp
+* Signed: TIFFANY & CO. 18K
+* Authentic vintage Tiffany & Co. jewelry",,,"2,950.00",Pre-Owned - Excellent,100.0%,https://i.ebayimg.com/images/g/a70AAeSwpoNqdPHm/s-l1600.webp|https://i.ebayimg.com/images/g/JloAAeSwJtNqdPHm/s-l1600.webp|https://i.ebayimg.com/images/g/slIAAeSwVjtqdPFx/s-l1600.webp|https://i.ebayimg.com/images/g/e6UAAeSwR-FqdPFx/s-l1600.webp|https://i.ebayimg.com/images/g/e30AAeSw2RBqdPFy/s-l1600.webp|https://i.ebayimg.com/images/g/bmgAAeSwMwFqdPFx/s-l1600.webp|https://i.ebayimg.com/images/g/cH0AAeSwGbJqdPFx/s-l1600.webp|https://i.ebayimg.com/images/g/bykAAeSw4PZqdPFy/s-l1600.webp|https://i.ebayimg.com/images/g/cBEAAeSwFz1qdPFx/s-l1600.webp|https://i.ebayimg.com/images/g/HnMAAeSwRT9qdPFy/s-l1600.webp|https://i.ebayimg.com/images/g/D6wAAeSwSG9qdQCI/s-l1600.webp|https://i.ebayimg.com/images/g/KUcAAeSwR7pqmfGM/s-l1600.webp|https://i.ebayimg.com/images/g/7e8AAeSw02JqmfFc/s-l1600.webp|https://i.ebayimg.com/images/g/Jz4AAeSwXlRqmfFd/s-l1600.webp,"Authenticity Guarantee
+This item is shipped to jewelry experts at GIA for verification before delivery."
+L058,Vestiaire Collective,https://www.vestiairecollective.com/women-jewellery/necklaces/tiffany-co/silver-silver-elsa-peretti-tiffany-co-necklace-70829012.shtml?_gl=1*112kkt7*_up*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF,2026-09-09,Tiffany & Co Elsa Peretti silver necklace,"The simple, evocative shape of Elsa Peretti Open Heart designs celebrates the spirit of love. This elegant style is one of her most celebrated icons.
+
+Sterling silver
+11 mm wide
+On a 16"" chain
+Box/pouch not included.
+
+Details
+Online since:2026-09-08
+Categories :Women
+Category:Jewellery
+Sub-category:Necklaces
+Designer:Tiffany & Co
+Model:Elsa Peretti
+Condition:Very good conditionMore info
+Material:Silver
+Colour:Silver
+Location:United States, from the seller Oclux
+Reference:70829012
+Measurements
+Length:16 in",,,259.00,Very Good,Expert Seller,"https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/silver-silver-elsa-peretti-tiffany-co-necklace-70829012-3_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/silver-silver-elsa-peretti-tiffany-co-necklace-70829012-1_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/silver-silver-elsa-peretti-tiffany-co-necklace-70829012-2_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/silver-silver-elsa-peretti-tiffany-co-necklace-70829012-4_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/silver-silver-elsa-peretti-tiffany-co-necklace-70829012-5_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/silver-silver-elsa-peretti-tiffany-co-necklace-70829012-6_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/silver-silver-elsa-peretti-tiffany-co-necklace-70829012-7_2.jpg",authentication can be added at checkout by the buyer
+L059,Vestiaire Collective,https://www.vestiairecollective.com/women-jewellery/necklaces/celine/gold-metal-maillon-triomphe-celine-necklace-70078812.shtml,2026-09-09,Celine Maillon Triomphe necklace,"Celine Maillon Triomphe necklace
+Vintage
+Gold Plated
+Good Condition - minor loss of plating throughout
+16.5"" Length
+
+Details
+Online since:2026-08-19
+Categories :Women
+Category:Jewellery
+Sub-category:Necklaces
+Designer:Celine
+Model:Maillon Triomphe
+Condition:Good conditionMore info
+Material:Metal
+Colour:Gold
+Style:Vintage
+Location:United States, from the seller Emily
+Reference:70078812
+Measurements
+Length:16.5 in",,340.00,306.00,Good,"Expert Seller
+Fashion Activist","https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/gold-metal-maillon-triomphe-celine-necklace-70078812-1_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/gold-metal-maillon-triomphe-celine-necklace-70078812-2_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/gold-metal-maillon-triomphe-celine-necklace-70078812-3_2.jpg|https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/gold-metal-maillon-triomphe-celine-necklace-70078812-4_2.jpg",can Add Authentication & Quality Control at checkout
+L060,Fashionphile,https://www.fashionphile.com/collections/jewelry/products/tiffany-18k-rose-gold-diamond-fleur-de-lis-ring-57-8-1927304?variant=58262610149679,2026-09-09,"Tiffany
+18K Rose Gold Diamond Fleur de Lis Ring 57 8","Hardware: Faint scratch(es)
+Comes With: FASHIONPHILE Certificate of Authenticity, box, case
+Item #: 1927304
+
+This is an authentic TIFFANY 18K Rose Gold Diamond Fleur de Lis Ring size 53 or 6.5. The ring is crafted of 18 karat rose gold featuring a fleur de lis key shaped motif accented with diamonds weighing approximately .21 total carat weight.",,,"1,950.00",Excellent,,https://www.fashionphile.com/cdn/shop/files/a33bf51c99071c9618591e5df2278cf0.jpg?v=1785333719|https://www.fashionphile.com/cdn/shop/files/9eb03316755548d691a8e4f20737c5bb.jpg?v=1785333719|https://www.fashionphile.com/cdn/shop/files/3d77c9652114e67250d437834b3c037f.jpg?v=1785333719|https://www.fashionphile.com/cdn/shop/files/169857a715b96a19177171fa7f9c5136.jpg?v=1785333719|https://www.fashionphile.com/cdn/shop/files/81e3d7d30237f72a5adf1320eca6089f.jpg?v=1785333719,has certified authentic tag on listing
+L061,Fashionphile,https://www.fashionphile.com/collections/jewelry/products/van-cleef-arpels-18k-yellow-gold-mother-of-pearl-vintage-alhambra-earrings-1876510?variant=57937799741743,2026-09-09,"Van Cleef & Arpels
+18K Yellow Gold Mother of Pearl Vintage Alhambra Earrings","Hardware: Faint scratch(es)
+
+Comes With: FASHIONPHILE Certificate of Authenticity, pouch
+
+Item #: 1876510
+
+This is an authentic pair of VAN CLEEF & ARPELS 18K Yellow Gold Mother of Pearl Vintage Alhambra Earrings. The earrings are crafted of 18 karat yellow gold and feature an Alhambra clover motif set with mother of pearl framed by beaded detail.","4,750.00",,"4,295.00",Excellent,,https://www.fashionphile.com/cdn/shop/files/20b8d764ba12a60ea293f4c40b5a8d70.jpg?v=1778605983|https://www.fashionphile.com/cdn/shop/files/b8ef2363b8489868392a222c281b576d.jpg?v=1778605983|https://www.fashionphile.com/cdn/shop/files/c3df60c12be36bfe77c2a52c0a6ca2ad.jpg?v=1778605983|https://www.fashionphile.com/cdn/shop/files/11fe0bcab7a0631e317e35ac9285699e.jpg?v=1778605983|https://www.fashionphile.com/cdn/shop/files/36ce91f142e4b7c084a92ef8aed15066.jpg?v=1778605983|,has certified authentic tag on listing
