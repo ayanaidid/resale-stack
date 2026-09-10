@@ -2,5 +2,6 @@
 __pycache__/
 venv/
 .DS_Store
-*.pyc.DS_Store
+*.pyc
 *.numbers
+week-01/errors.log
