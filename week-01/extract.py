@@ -45,6 +45,89 @@ logging.basicConfig(
     format="%(asctime)s %(message)s",
 )
 
+client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
+
+SYSTEM_PROMPT = """You are grading the condition of secondhand resale listings against a specific rubric. Use only the rubric below — not general knowledge or intuitions about how resale platforms grade condition.
+
+TIER DEFINITIONS
+
+PRISTINE
+Definition: As-new condition with complete original packaging. No visible wear, and, depending on category, includes the full set of tags/box/dust bag.
+Criteria: No scratches, scuffs, or visible wear anywhere on the item. All functional elements work seamlessly (zippers, clasps, buckles, closures). Handbags/shoes/accessories: tags attached, box included, dust bag included. Jewelry: no wear, tags not required. Clothing: tags attached.
+Boundary: An item that is visually and functionally flawless but missing one piece of original packaging does NOT qualify as Pristine, even though it looks brand new — it drops to Excellent.
+
+EXCELLENT
+Definition: Visually and functionally like-new, but missing some or all original packaging. No meaningful wear.
+Criteria: No visible wear, scuffs, or damage — same visual bar as Pristine. All functional elements work seamlessly. Handbags/shoes/accessories: missing tags and/or box and/or dust bag. Jewelry: only extremely superficial wear allowed (e.g. faint surface scratches). Clothing: unworn but tags not attached.
+Boundary: An item with the first trace of actual use — one small faint scuff, or a barely visible fold line from being carried once or twice. If the wear is minor and isolated (one mark, not a pattern of use), it is still Excellent. Once there are multiple small marks, or wear spread across the item rather than a single spot, it tips to Very Good.
+
+VERY GOOD
+Definition: Clear signs of having been used, but wear is light and doesn't compromise the item's overall look or function.
+Criteria: Handbags/accessories: lightly worn corners, light scratches, some interior wear. Shoes: light sole wear, faint creasing at flex points. Jewelry: minor scratches, small nicks, small dents. Clothing: light markings or fading. All function still works normally — no repairs needed, nothing broken.
+Boundary: An item stays Very Good as long as it has no more than four cosmetic marks, each subtle enough not to be immediately noticeable, AND no structural or functional issue of any kind. The moment either threshold is crossed — a fifth mark, or even one flaw that is structural or functional rather than cosmetic — it moves to Good.
+
+GOOD
+Definition: Clearly used, well-loved condition. Functionality intact throughout, but this reads unmistakably as a second-hand item.
+Criteria: Wear present in both severity and quantity. Interior: visible staining, marks of use, lining wear. Hardware: visible wear, tarnish, discoloration. Fabric: pilling, noticeable discoloration. Still fully functional — nothing broken, no repairs needed.
+Boundary: An item crosses from Very Good into Good by EITHER (1) a single flaw that affects structure rather than just surface — one visibly worn or misshapen corner — regardless of how few other marks are present, or (2) five or more cosmetic marks, even if each is individually subtle. Path (1) dominates: one structural flaw outweighs several purely cosmetic ones.
+
+FAIR
+Definition: Visible structural damage and/or repairs, but the item is still fully usable. The last tier before an item is no longer sellable in normal condition.
+Criteria: Structural damage present (not just cosmetic), but not severe enough to make the item unusable. Visible repairs allowed (re-stitching, hardware replacement) but not major reconstructive work like patches or panel replacement. Multiple serious flaws may be present. Still functional for a buyer's practical use.
+Boundary: The line from Good to Fair is crossed when wear starts to affect function, not just structure or appearance — a zipper noticeably harder to close, a strap attachment under visible stress, hardware that no longer sits flush. The item stays Fair as long as it can still fully perform its original purpose: functional impairment without functional failure.
+
+GRADING INSTRUCTIONS
+
+Grade based only on what the listing text describes. Do not infer condition from price, brand, or item type. If the listing does not contain enough information about wear to place it in a tier, use "Insufficient information" rather than guessing.
+
+If the listing states a condition label from its platform (e.g. "Very good", "Pre-owned - Good", "New with tags"), do not simply repeat it. Grade the described wear against the rubric above and assign the tier that fits, even if it differs from the platform's label.
+"""
+
+RESALE_LISTING_TOOL = {
+    "name": "listing_evaluator",
+    "description": "Decode the components of a resale listing from a resale website to understand its various properties.",
+    "input_schema": {
+         "type": "object",
+         "properties": {
+            "brand": {
+                "type": "string",
+                "description": "name brand of the item in question. Use 'Not stated' if the listing does not name one."
+            },
+            "model": {
+                "type": "string",
+                "description": "the model of the item itself per brand designation. Use 'Not stated' if the listing does not name one."
+            },
+            "subcategory": {
+                "type": "string",
+                "description": "The specific item type, more precise than a broad category. Examples: shoulder bag, crossbody, tote, ankle boot, loafer, midi dress, cocktail ring, tennis bracelet. Use the most specific term the listing supports."
+            },
+            "material": {
+                "type": "string",
+                "description": "fabric and raw materials the item is composed of. Use 'Not stated' if the listing does not name one."
+            },
+            "disclosed_flaws": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "every flaw or issue listed in the items raw description or raw title, including any itemized condition or flaw list. empty list if none are named."
+            },
+            "condition_tier": {
+                "type": "string",
+                "enum": ["Pristine", "Excellent", "Very Good", "Good", "Fair", "Insufficient information"],
+                "description": "assign the tier by grading the described wear against the rubric in the system prompt, not by repeating any condition label that appears in the listing."
+            },
+            "seller_speak_translation": {
+                "type": "string",
+                "description": "Identify any euphemistic or hedging language the listing uses about condition (e.g. 'gently used', 'some patina', 'loved', 'priced accordingly', 'honest wear'), and state plainly what each phrase implies about actual wear. If the listing describes condition in direct, literal terms with no euphemism, say 'No euphemistic language'." 
+            },
+            "confidence": {
+                "type": "number",
+                "description": "how confident are you in this extraction, 0 to 1."
+            }
+         },
+    "required": ["brand", "model", "subcategory", "material", "disclosed_flaws", "condition_tier", "seller_speak_translation", "confidence"]
+    }    
+}
+
 
 def extract_listing(row):
     """
@@ -67,7 +150,36 @@ def extract_listing(row):
         anthropic.APIError and its subclasses) -- the caller retries
         on those with exponential backoff.
     """
-    raise NotImplementedError("extract_listing is not implemented yet")
+    user_message = f"Title: {row['raw_title']}\n\nDescription: {row['raw_description']}"
+    message = client.messages.create(
+        model="claude-sonnet-5",
+        max_tokens=1000,
+        system=SYSTEM_PROMPT,
+        tools=[RESALE_LISTING_TOOL],
+        tool_choice={"type": "tool", "name": "listing_evaluator"},
+        messages=[
+            {"role": "user", "content": user_message}
+        ]
+    )
+    extracted = None
+    for block in message.content:
+        if block.type == "tool_use":
+            extracted = block.input
+            break
+
+    if extracted is None:
+        raise ValueError("No tool_use block in response")
+
+    input_tokens = message.usage.input_tokens
+    output_tokens = message.usage.output_tokens
+    cost_usd = (input_tokens * 2 + output_tokens * 10) / 1_000_000
+
+    return {
+        **extracted,
+        "input_tokens": input_tokens,
+        "output_tokens": output_tokens,
+        "cost_usd": cost_usd,
+    }
 
 
 def load_done_ids(path):
