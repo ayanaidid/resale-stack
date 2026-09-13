@@ -129,7 +129,7 @@ RESALE_LISTING_TOOL = {
 }
 
 
-def extract_listing(row):
+def extract_listing(row, temperature=None):
     """
     Take a single listing (dict) from listings.csv, as produced by
     csv.DictReader, and call the Anthropic API to pull structured
@@ -139,6 +139,8 @@ def extract_listing(row):
         row: dict mapping CSV column names (listing_id, source_platform,
             raw_title, raw_description, listed_price, stated_condition,
             etc.) to their string values for one listing.
+        temperature: optional sampling temperature to pass to the API.
+            Left as the API default when None.
 
     Returns:
         dict of extracted fields to write out as JSON. Should NOT
@@ -151,6 +153,11 @@ def extract_listing(row):
         on those with exponential backoff.
     """
     user_message = f"Title: {row['raw_title']}\n\nDescription: {row['raw_description']}"
+
+    kwargs = {}
+    if temperature is not None:
+        kwargs["temperature"] = temperature
+
     message = client.messages.create(
         model="claude-sonnet-5",
         max_tokens=1000,
@@ -159,7 +166,8 @@ def extract_listing(row):
         tool_choice={"type": "tool", "name": "listing_evaluator"},
         messages=[
             {"role": "user", "content": user_message}
-        ]
+        ],
+        **kwargs,
     )
     extracted = None
     for block in message.content:

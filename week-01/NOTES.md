@@ -150,3 +150,50 @@ Cost structure inverted from expectation → output tokens cost 5x input,
   input is ~78% of per-call cost. The "make the model say less" lever
   doesn't apply here; the lever is caching the system prompt (identical
   across all 30 calls) and trimming boilerplate from descriptions.
+
+Stray autocomplete import → VS Code suggested `from email.mime import
+  message` because my local variable is named `message`. Accepted it
+  without noticing. Harmless (unused, shadowed) but dead code. Editor
+  suggestions are pattern matches on names, not understanding of intent.
+
+Category-conditional rules don't transfer → rubric requires tags + box +
+  dust bag for Pristine on shoes/handbags/accessories, tags alone for
+  clothing, no tags for jewelry. Model applied "tags = Pristine"
+  uniformly. 2/5 Pristine calls wrong, both in the categories with the
+  stricter rule; clothing and jewelry both correct. Not fixing the
+  prompt — no eval yet to tell improvement from coincidence. Week 2.
+
+PYTHONPATH=. → running `python3 experiments/script.py` puts experiments/
+  on Python's import path, not week-01/, so `from extract import ...`
+  fails with ModuleNotFoundError. Prefixing the command with
+  PYTHONPATH=. adds the current directory to the search path. The error
+  says the module doesn't exist; the real problem is where Python is
+  looking.
+
+temperature is deprecated on Sonnet 5 → setting temperature, top_p, or
+  top_k to any non-default value returns a 400. Adaptive thinking is on
+  by default and manual thinking budgets are also rejected. Killed the
+  planned temperature matrix outright. Rebuilt it as a repeatability
+  test — same listing, five identical calls — which is actually a
+  cleaner experiment, since there's no sampling parameter I set to
+  argue about. Most writing about LLM nondeterminism assumes temperature
+  is a knob you have; on this model it isn't.
+
+Malformed tool call, 1 of 6 runs on L007 → required field `confidence`
+  absent from block.input; its value leaked into
+  seller_speak_translation as literal text
+  (</seller_speak_translation><parameter name="confidence">0.7). Model
+  emitted its own tool-call syntax as content. SDK did not reject it;
+  extract_listing trusts block.input unconditionally and wrote it
+  through. Constrained decoding removes format errors *almost* always —
+  not always. Known gap, not fixing until Week 2's eval exists.
+
+Repeatability finding → instability correlates with absence of evidence,
+  not listing complexity. L007 (longest, 4-5 flaws, heavy hedging):
+  identical tier 6/6. L001 and L022 (zero flaws, nothing to grade):
+  both flipped Pristine/Excellent. The Pristine boundary turns on
+  packaging, which listings rarely mention — so the model is deciding
+  what silence means, and that decision isn't stable. Brand and
+  subcategory stable everywhere: stated facts extract reliably, judgment
+  calls don't. No temperature set (deprecated on Sonnet 5), so nothing
+  to attribute the variance to but the serving layer.

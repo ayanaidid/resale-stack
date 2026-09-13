@@ -1,0 +1,595 @@
+listing_id,source_platform,item_type,raw_title,raw_description,stated_condition,source_url,m_brand,m_model,m_subcategory,m_material,m_disclosed_flaws,m_condition_tier,m_seller_speak,m_confidence,my_condition_tier,tier_correct,field_errors,miss_type,euphemism_judgment,grading_notes,on_review,gradeable_from_text,platform_tier_agrees
+L001,Vestiaire Collective,clothing,Courreges Coated Cotton Mini Skirt in White,"Courreges Coated Cotton Mini Skirt in White. Features a mid rise. Button and zipper fastening. Courreges logo embroidered at the hip. Coated cotton exterior. Cupro lining. Straight hem. This item has been inspected and authenticated by Vestiaire Collective Experts and is ready to ship. Never worn, with tag. Size 34 FR. Measurements; Waist 13in, Hips 17in, Length 14in. Composition; 88% Cotton, 10% Polyurethane, 2% Elastane. Lining: 100% Cupro. Made in Portugal.","Never worn, with tag",https://www.vestiairecollective.com/women-clothing/skirts/courreges/white-cotton-courreges-skirt-68783323.shtml,Courreges,Not stated,Mini skirt,"88% Cotton, 10% Polyurethane, 2% Elastane; Lining: 100% Cupro",,Pristine,No euphemistic language,0.85,Excellent,N,,,n/a,"i agree with the model that the ""never worn"" aspect would fit into ""as-new condition"" stated in the rubric",model right,Y,no
+L002,The RealReal,clothing,Staud Polka Dot Print Long Dress,"Staud Dress; Black; Polka Dot Print; Cutout & Mesh Accents; Sleeveless with Mock Neck; Concealed Zip Closure at Back
+ Fit: Dresses by Staud typically fit true to size. Bust 30”; Waist 24.5”; Hip 32”; Length 61.75”; Gender Women; Fabric 67% Rayon, 29% Nylon, 4% Elastane; Combo 100% Polyamide
+ Item # WSTFG119642",Excellent,https://www.therealreal.com/products/women/clothing/dresses/staud-polka-dot-print-long-dress-wbj6a,Staud,Not stated,Long dress,"67% Rayon, 29% Nylon, 4% Elastane; Combo 100% Polyamide",,Insufficient information,No euphemistic language,0.3,Very Good,N,,wrong_tier,n/a,same note as L032,,N,no
+L005,Poshmark,clothing,Johnny Was Sofiya Primula Burnout Silk Tunic Dress Blue Floral sz Medium NEW,"Size
+M
+Condition
+New With Tags
+Color
+Blue
+Red
+Category
+Women
+Dresses
+Mini
+Brand
+Johnny Was
+Bright blue tunic dress with vibrant floral and paisley print. Multicolored pattern with red, pink, green and yellow accents. Tie neckline and 3/4 sleeves with embroidered cuff detail. Lightweight and easy to wear. Bold, bohemian look.
+
+Bust: 40”
+Length:36”
+Sleeve Length:17”
+
+Tag Size:medium
+Condition:new
+Material:82% Rayon/18% Silk
+
+Sku:1023",New with tags,https://poshmark.com/listing/Johnny-Was-Sofiya-Primula-Burnout-Silk-Tunic-Dress-Blue-Floral-sz-Medium-NEW-6a957cad839f7a7a2e71b790,Johnny Was,Sofiya Primula Burnout,Tunic Dress,82% Rayon/18% Silk,,Pristine,No euphemistic language,0.85,Excellent,N,,,n/a,"""unworn with tags not attached"" is included in the rubric definition of ""excellent"" but this is new with tags and condition deliberartely stated as new indicating no signs of wear -- model is right this would likely be ""pristine"" over ""excellent""",model right,Y,yes
+L006,Poshmark,clothing,Chanel Brown Tweed Skity,"Size
+FR 40
+Color
+Brown
+Category
+Women
+Skirts
+Midi
+Brand
+CHANEL
+Elegant Chanel tweed skirt. Features button details. Perfect for any occasion. Waist 29.5”. Hip 40.5”",,https://poshmark.com/listing/Chanel-Brown-Tweed-Skirt-679519c715460044be476074,CHANEL,Not stated,Midi skirt,Tweed,,Insufficient information,No euphemistic language,0.4,Very Good,N,,,n/a,"m_seller_speak outcome is correct in that there is no euphamistic language OR condition stated in the raw description or any field for this listing. with that, insufficient information is the proper outcome. my tier selection i agree is incorrect and shouldn't be ""Very Good"" given the lack of information. ",model right,N,n/a
+L007,eBay,clothing,NEW $248 CITIZENS OF HUMANITY ZURIE STRAIGHT LEG JEANS IN SUTHERLAND SIZE 27,"Color wash is ""sutherland"". a dark blue with fade and whiskering details.
+Retails for $248!!! 😲
+
+SAMPLE. Being a SAMPLE the standard cloth/fabric tags are not attached (has garment operator tag). SAMPLES may have slight variances (more often not) such as inseam length, color, and fade details. Please see entire description including additional details, and all pictures, thank you!
+
+New without tag with possible irregularities (or variances). There appears to be color wash irregularities on both side seams. We are not certain if these faint lighter lines are intentional or color mishap. Either way, these jeans look super cool and will continue to fade over time! Please see pictures, thank you. Open to reasonable offers.
+
+The Zurie features a relaxed, straight-leg fit and a flattering high rise, styled in a gorgeous Sutherland color wash. These are seriously THE perfect go-to jeans for an easy, everyday look!
+
+Additional details:
+Five pocket styling
+Front zipper fly fastening
+Waist measures approximately 14.5"" across (flat surface)
+Front Rise 11.0""
+Inseam is 31.0""
+Fabric tag is not attached and we don't know the content; has light/minimal stretch.
+Machine washable.
+
+Fabric and seams may be lightly dusty (not stained) from warehouse storage but nothing overt to note.
+
+Condition
+New with imperfections
+Seller Notes
+“Please see description and pictures, thank you!!! 🙂”
+Pattern
+Solid
+Closure
+Zip
+Size
+27
+Waist Size
+27 in
+Garment Care
+Machine Washable
+Color
+Blue
+Fabric Type
+Denim
+Brand
+Citizens of Humanity
+Fit
+Regular
+Size Type
+Regular
+Department
+Women
+Type
+Jeans
+Pocket Type
+5-Pocket Design
+Style
+Straight
+Season
+Fall, Spring, Summer, Winter
+Country of Origin
+United States",New with imperfections,https://www.ebay.com/itm/237040896776?itmmeta=01M23F4CQ477EW97MWAPF5S634&hash=item3730bd0b08:g:BWwAAeSwJ91qRO4L&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4LupkOyEMOEU1z1iR7dZ05p%2FjuOK6Mv%2BOA9gmbhPbbIjPcK8U8%2FHJ%2FvPP9FhKlJgiWXIgsnFqFb%2Fmflheyi%2BqlwIoksmMwRqF%2FzM5KzjeUphq5KcK7EQVW5As2I5lKFLXLlifQmc4uDQ8psR3HwreG1Reb22N4zZf2C%2BufFgMGK270BA%2BtRDItfr8ZBcW7%2FqXGN1EIWVg3cr7h4zmEsEt--Qsz611e%2BfY0E2eEoLMmzBZre%2FkURyPsMQEmEOgGPKWhFjF6kyRS04W483%2Bro23aLXZ%7Ctkp%3ABFBM7MuR75Bo,Citizens of Humanity,Zurie,Straight leg jeans,Denim,"Color wash irregularities on both side seams (faint lighter lines) | Sample garment may have variances in inseam length, color, and fade details | Fabric tag not attached, standard cloth/fabric tags not attached (has garment operator tag instead) | Fabric and seams may be lightly dusty from warehouse storage",Excellent,"""New without tag with possible irregularities (or variances)"" implies the item is unworn but may have manufacturing inconsistencies rather than wear from use. ""Lightly dusty (not stained) from warehouse storage but nothing overt to note"" implies minor superficial storage residue, not actual wear or damage. ""Color wash irregularities...faint lighter lines"" implies a subtle cosmetic inconsistency in dye application, described as possibly intentional design variance rather than a flaw from use.",0.7,Very Good,N,,,agree,"i read the ""possible irregularities"" as having been worn or damaged but re-reading against the rubric again, they are describing that the item is a sample item from the collection, still new but samples in characteristic do have idiosyncracies that they're explaining here. their own stated ""new with imperfections"" does imply that the item was processed originally with imperfections and those are not imperfections rendered by use ",model right,Y,no
+L009,Vinted,clothing,Beaded Dress,"Hand beaded dress! Lime green. Size S. Brand Divali  Size
+S / US 4-6
+Condition
+Good
+Color
+Green
+Uploaded
+7 min ago",Good,https://www.vinted.com/items/9944417319-beaded-dress?homepage_session_id=f1b98e8a-252e-45e9-b6ea-21848ac28803,Divali,Not stated,Beaded dress,Not stated,,Insufficient information,No euphemistic language,0.3,Good,N,,wrong_tier,n/a,again seller speak interpretation is correct but the condition is stated so it should be included as the default ,i'm right,Y,yes
+L010,Vinted,clothing,Burberry Trench Coat US size 6,"BrandBurberry
+Size
+S / US 4-6
+Condition
+Very good
+Material
+Cotton
+Color
+Brown, Beige
+Uploaded
+a week ago
+Burberry Heritage Trench Coat in beautiful chestnut brown color and classic check lining. Size US 4 UK 6 IT 38. INCLUDES ORIGINAL GARMENT BAG; original price $2,850 from 2023 Collection",Very Good,https://www.vinted.com/items/9859313744-burberry-trench-coat-us-size-6?referrer=catalog,Burberry,Heritage Trench Coat,Trench coat,Cotton,,Insufficient information,"No euphemistic language; the listing states 'Very good' as a platform label but provides no specific description of wear, marks, or flaws to substantiate a rubric-based tier assignment.",0.3,Very Good,N,,wrong_tier,agree,again seller speak interpretation is correct but the condition is stated so it should be included as the default ,i'm right,Y,yes
+L012,ThreadUp,clothing,"Abercrombie & Fitch
+Size L
+Jacket","Condition
+excellent
+Practically new: shows no obvious signs of being worn or washed. Our standards
+
+Item details
+#235682684
+83% polyester, 17% cotton
+Trenchcoat, green
+Size & fit
+Size L Size guide
+Item measurements are not available. See mannequin measurements
+Eco impact
+Buying outerwear secondhand and wearing it 10 times saves the equivalent of:",Excellent,https://www.thredup.com/product/women-polyester-abercrombie-and-fitch-green-jacket/235682684?query_id=1210709939174850560&result_id=1210709939673972736,Abercrombie & Fitch,Not stated,Trenchcoat,"83% polyester, 17% cotton",,Excellent,"""Practically new: shows no obvious signs of being worn or washed"" indicates no visible wear, consistent with like-new condition; however, since no mention of tags/box/dust bag or original packaging is made, item is graded Excellent rather than Pristine.",0.7,Excellent,Y,,,agree,,,Y,yes
+L016,The RealReal,shoes,Fendi Zucca FF Logo Leather Slingback Pumps,"Fendi Leather Slingback Pumps
+Green
+Animal Print
+Zucca FF Logo
+Semi-Pointed Toes
+Straps & Buckle Closure at Sides
+Includes Box & Dust Bag
+Fit: Pumps by Fendi typically run small, consider taking a half size up.
+Heels
+3""
+Platforms
+0.25""
+Gender
+Women
+Item #
+FEN449595",Excellent,https://www.therealreal.com/products/women/shoes/pumps/fendi-zucca-ff-logo-leather-slingback-pumps-w5nxs,Fendi,Zucca FF Logo Slingback,Slingback pumps,Leather,,Insufficient information,No euphemistic language,0.4,Very Good,N,,wrong_tier,n/a,same note as L032,,N,no
+L018,The RealReal,shoes,"New Balance x Miu Miu
+
+530 SL Athletic Sneakers
+
+Women's Size: 7.5","New Balance x Miu Miu 530 SL Low Top Athletic Sneakers
+Brown Leather
+Round-Toes
+Lace-Up Closure at Uppers
+Platforms
+0.5""
+Gender
+Women
+Item #
+WNBMM20839",Good,https://www.therealreal.com/products/women/shoes/sneakers/new-balance-x-miu-miu-530-sl-athletic-sneakers-wgbjg,New Balance x Miu Miu,530 SL,Low top athletic sneakers,Leather,,Insufficient information,No euphemistic language,0.3,Good,N,,,n/a,same note as L032,,N,yes
+L019,Poshmark,shoes,Laredo Women's Brown and Blue Heeled Boots Sz 6.5,"Size
+6.5 M
+Color
+Brown
+Blue
+Category
+Women
+Shoes
+Heeled Boots
+Brand
+Laredo
+Stylish heeled boots with brown leather and blue embroidered design. Perfect for a chic look.
+Women’s Laredo, leather upper cowboy boots
+In good condition, some marking on the leather see photos see all photos
+Heels and inside in good shape
+Ships from non-smoking non-pet household
+Size 6 1/2
+Open to reasonable offers !",Good,https://poshmark.com/listing/Laredo-Womens-Brown-and-Blue-Heeled-Boots-Sz-65-6a86fb26d47f7e9017469a1d,Laredo,Not stated,Heeled cowboy boots,Leather,some marking on the leather,Very Good,"""In good condition, some marking on the leather"" implies light cosmetic wear/marks on the leather surface, while ""heels and inside in good shape"" suggests structural and functional integrity is intact. This points to light, isolated cosmetic wear rather than structural damage, consistent with a Very Good grade rather than the platform's stated 'good' label.",0.55,Good,N,,wrong_tier,agree,"i went off the raw description saying literally ""in good condition"" and with that for seller uploaded items would always default to a slightly lower tier because they can tend to overstate the quality and understate use.",i'm right,Y,yes
+L022,Vinted,shoes,Mary Jane shoes,"Brand& Other Stories
+Size
+6.5
+Condition
+New with tags
+Color
+Cream
+Uploaded
+2 days ago
+Cream converse dupes",New with tags,https://www.vinted.com/items/9916194184-mary-jane-shoes?referrer=catalog,& Other Stories,Not stated,Mary Jane shoes,Not stated,,Pristine,No euphemistic language,0.6,Excellent,N,,wrong_tier,n/a,"this doesn't say anything about the box included to fit the pristine rule -- it only has ""new with tags"". because box is not mentioned and therefore likely not included, it should be deemed excellent",i'm right,Y,yes
+L023,Vinted,shoes,Brooks Tennis Shoes - Women's size 10 WIDE - Hot Pink amd Gray,"BrandBrooks
+Size
+10
+Condition
+Satisfactory
+Color
+Pink, Gray
+Uploaded
+9 min ago
+These shoes have been worn a bit and I tried to get pictures of the imperfections, but there is still a lot of wear left in them.
+
+They are a women's size 10 wide.",Satisfactory,https://www.vinted.com/items/9947138185-brooks-tennis-shoes-womens-size-10-wide-hot-pink-amd-gray?referrer=catalog,Brooks,Not stated,tennis shoe,Not stated,worn a bit | imperfections visible in pictures,Good,"""Worn a bit"" and ""still a lot of wear left"" suggest noticeable use consistent with a well-loved item, while ""Satisfactory"" condition label and emphasis on documenting imperfections implies visible wear beyond light/minor marks, though still functional.",0.4,Fair,N,,misread_euphamism,agree,"""satisfactory"" to me would read as ""fair"" not ""good"" especially like an item like running shoes which can be quite used. similarly the note that she documented the imperfections in the photos and said ""still has a lot of use"" says to me they're likely quite used",i'm right,Y,n/a
+L025,eBay,shoes,THE ROW Park Leather Loafers Pumps EU36.5,"Condition
+Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. ... Read moreabout the condition
+Type
+Flat
+Brand
+THE ROW
+Department
+Women
+US Shoe Size
+6.5
+EU Shoe Size
+36.5
+Color
+Black
+Style
+Loafer
+Upper Material
+Leather
+Country of Origin
+Italy
+
+Size: EU36.5
+
+Only worn once.
+
+Please look at all the photos for details.",Pre-owned - Excellent,https://www.ebay.com/itm/820107625506?itmmeta=01M23XSMETFBAS3M51NT6BXZ36&hash=itembef2394422:g:AcYAAeSwyBRqob5V&itmprp=enc%3AAQALAAAAwDKQclQvzFwZQpmMrsO4LurTBnlgCXoFMG28XIWXaVJBMaaRpVmkHE7e%2FHX29RL4iYFcbvIzhOzqgW1SD75XNzFwAZgRbShEctpqwiIRxJFtaNOY%2FJEE%2BiVj7X98Tv6IdCy0S26PTQ5Z%2BhbRYhQJj7Ju%2F86xz0Ecs%2FnzZPf%2FYt4aBmUCIV7yqJB6xnaOeJEc0v%2FPSlFmimcyQnrrtGBaMVHQdUDfbA8OWjl1DI87SD83A%2FCKDrApz8kgAU85RPTAug%3D%3D%7Ctkp%3ABk9SR9bH5v2QaA,THE ROW,Park,loafer,Leather,,Excellent,"""Only worn once"" implies minimal, isolated wear consistent with like-new condition; ""excellent condition"" and ""please look at all photos for details"" suggests no significant flaws but invites buyer to verify via images since no specific wear is described.",0.6,Excellent,Y,,,agree,,,Y,yes
+L027,eBay,shoes,Rachel comey archival black leather cage strap fisherman sandal heel women’s 7.5,"Condition
+Pre-owned - Fair: This item has significantly visible imperfections and signs of use. All imperfections should be shown and described in the seller’s listing. See all condition definitionsopens in a new window or tab
+US Shoe Size
+7.5
+Lining Material
+Leather
+Color
+Black
+Vintage
+No
+Brand
+Rachel Comey
+Personalize
+No
+Department
+Women
+Type
+Heel
+Customized
+No
+Heel Style
+Block
+Outsole Material
+Leather
+Style
+Pump
+Upper Material
+Leather
+Insole Material
+Leather
+Season
+Summer, Spring, Fall, Winter
+
+Rachel comey archival black leather cage strap fisherman sandal heel women’s 7.5
+
+9.5” L
+Run slightly small and narrow, closer to a 7
+Entirely made of leather
+Velcro closure
+Some wear and scuffing-see all photos
+Very rare 2000s archival design
+Sold as is
+
+#rachelcomey #maryjane #buckle #archival #leather",Pre-Owned - Fair,https://www.ebay.com/itm/398371986304?itmmeta=01M23Y85MG3ZQ5YFBMB4WPEYDW&hash=item5cc0d21b80:g:OJAAAeSwTy1qn5~P&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4Lur7f8Zj26sWz33WgIDkLQDTBio9mB5k%2Fh1C7PuJ5oWISDS1SnsSZcS%2FO6xQipJzo%2FrUw3Riu6DgIODkBr2%2FTYTmIqRLvcAtvXg9uBugfOgjeKnDhbZC8e5kDjLxe7bvLkT9kjCZO9uLmUKHthjxnL2yDLPX8WlZRqJ75VyoSWE8aTtnD4lAozVWuU5vWfvTEMbVXEHIfgGiuvdZskpbzRkjjwMIaEoq%2BVflusKSzXtGuIleOq7hhCtQAXoY%2F56bvswYHZfrVTSNJPuP87hYeLpi%7Ctkp%3ABk9SR8DaoP6QaA,Rachel Comey,Archival Cage Strap Fisherman Sandal,Sandal heel,Leather,Some wear and scuffing - see all photos | Sold as is,Good,"""Some wear and scuffing"" and ""sold as is"" signal cosmetic wear consistent with regular use, but the listing gives no specifics of structural damage, broken parts, or functional impairment. The seller's platform label of 'Fair' is a hedge/self-protective disclaimer ('sold as is') rather than a precise description of damage severity - without concrete detail on structural or functional issues, the described wear reads as generic used-condition scuffing rather than the structural damage/repairs required for the Fair tier.",0.4,Fair,N,,wrong_tier,agree,"the raw description literally says ""fair"" so i would try to match that if provided, similarly descriptions says ""significantly visible imperfections"" ...that said in the rubric definition of ""fair"" the threshold is when wear starts to affect function which we don't have here so i think ""good"" is a reasonable outcome",model right,Y,yes
+L029,Vestiaire Collective,shoes,Dior Baby-d Patent leather heels Vintage,"Vintage Dior Monogram Charm Logo Quilted Patent Leather Pointy Toe Heels Black
+
+Good vintage condition! Size 39.5 = US 9.5.
+
+Details 
+Online since:2026-09-07
+Categories :Women
+Category:Shoes
+Sub-category:Heels
+Designer:Dior
+Model:Baby-D
+Condition:Very good conditionMore info
+Material:Patent leather
+Colour:Black
+Size:9.5 USsize guide
+Style:Vintage
+Location:United States, from the seller LK
+Reference:70744414",Very Good,https://www.vestiairecollective.com/women-shoes/heels/dior/black-patent-leather-baby-d-dior-heels-70744414.shtml?_gl=1*1o5cs5l*_up*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF,Dior,Baby-D,Heels,Patent leather,,Insufficient information,"""Good vintage condition"" and ""Very good condition"" are vague, generic condition labels without specifying any actual wear details (no mention of scuffs, sole wear, creasing, etc.), so actual condition cannot be verified from description alone.",0.3,Good,N,,wrong_tier,agree,the m_seller_speak result is correct but again we have condition options stated in the description literally. given there are 2 here -- i would default to the lower of the two tiers provided here to hedge expectations,i'm right,Y,no
+L032,The RealReal,handbag,"Chanel
+
+Mini Deauville Shopping Bag","Chanel Tote
+From the 2012-2013 Collection by Karl Lagerfeld
+Blue Denim
+Graphic Print
+Gold-Tone Hardware
+Handles & Chain-Link Shoulder Straps
+Canvas Lining & Three Interior Pockets
+Snap Closure at Top
+
+Shoulder Strap Drop
+11""
+Height
+12""
+Width
+11.25""
+Depth
+3.75""
+Gender
+Women
+Item #
+CHA1492657",As Is,https://www.therealreal.com/products/women/handbags/totes/chanel-mini-deauville-shopping-bag-wbvfq,Chanel,Mini Deauville Shopping Bag,Tote,Denim canvas,,Insufficient information,No euphemistic language,0.3,Very Good,N,didn't indicate that the canvas is the lining portion,wrong_extraction,n/a,"the realreal doesn't provide much to any description of the condition in the details/description sections on the listings themselves -- that is all in a separate condition section that is not included in our ""raw description"" field. in the case of the realreal i would have the model review the raw description for details but default to the stated_condition always to list the m_condition_tier for the realreal specifically",,N,no
+L034,The RealReal,handbag,Strathberry Leather Shoulder Bag w/ Tags,"Strathberry Shoulder Bag
+Red Leather
+Gold-Tone Hardware
+Handle & Single Adjustable Shoulder Strap
+Suede Lining
+Drawstring Closure at Top
+Includes Dust Bag
+
+Shoulder Strap Drop
+23""
+Height
+6""
+Width
+8.5""
+Depth
+3.5""
+Gender
+Women
+Item #
+STRAT23362",Pristine,https://www.therealreal.com/products/women/handbags/shoulder-bags/strathberry-leather-shoulder-bag-w-tags-wfl8p,Strathberry,Not stated,shoulder bag,Leather (suede lining),,Excellent,No euphemistic language,0.6,Excellent,Y,,,n/a,,,Y,no
+L035,Poshmark,handbag,JW Pei | Half Moon Bag,"Size
+OS
+Color
+Black
+Gray
+Category
+Women
+Bags
+Shoulder Bags
+Brand
+JW PEI
+♡great condition
+♡zipper is a little difficult, but works fine",Great Condition,https://poshmark.com/listing/JW-Pei-Half-Moon-Bag-6a982c66c5c2ed273c76d74a,JW PEI,Half Moon Bag,Shoulder bag,Not stated,"zipper is a little difficult, but works fine",Fair,"""Great condition"" is a vague positive euphemism that doesn't specify actual wear detail. ""Zipper is a little difficult, but works fine"" indicates a functional impairment (harder to close/operate) though the item still works, which per the rubric signals functional impairment without functional failure.",0.6,Very Good,N,,,agree,"looking at the raw description is how i based my grading given it said literally there ""great condition""",i'm right,Y,n/a
+L041,eBay,handbag,Loewe Pre-Owned Authentic Satchel Orange Nubuck Free Tracked Shipping,"Condition
+Pre-owned - Good
+Seller Notes
+“light wear and scuffs at corners, edges; light wear and residue at interior lining; light wear, scratches and loss color at hardware. The item may have received standard luxury care. please consult us if you have any questions, and kindly refer to the photos for an accurate impression.”Read Lessabout the seller notes
+Brand
+Loewe
+Department
+Unisex Adults
+Exterior Color
+Orange
+Style
+Satchel
+Exterior Material
+Nubuck
+Country of Origin
+Spain
+
+Dear Customer, Welcome to our store!
+
+⚠ Important Notice: Please contact our customer service before placing an order to confirm the item’s availability and current condition. As all our items are also sold in our physical store, there is a possibility that an item may be sold simultaneously elsewhere or its condition may have changed since listing. To comply with eBay policies, we may need to inform you and cancel orders if this pre-purchase confirmation is not completed.
+
+In addition, each item is inspected by our in-house inspection center prior to shipment to ensure the condition matches the listing and to provide a reliable shopping experience. This internal inspection typically takes 1–2 business days. Once the inspection is completed, we will notify you. If any issue is identified, we will contact you promptly and arrange a full refund when necessary.
+
+We appreciate your understanding.
+
+Key Specifications
+● Brand: Loewe
+● exterior_material: Nubuck
+● style: Satchel
+● exterior_color: Orange
+● includes: None
+● department: Unisex Adults
+
+Condition
+● Overall Condition: Good, showing light general signs of use.
+● Exterior:remains smooth with mild handling wear.
+● Interior: Clean with light natural marks; lining well-kept.
+● Hardware: Functional with slight surface wear on close inspection.
+● Edges & Corners: Mild rubbing; structure remains firm.
+● Care Notice: Please note that some items may have minor care marks from routine maintenance; refer to photos for clarification.
+
+Why Choose This Listing?
+● Rarity: Limited stock
+● Quality: Hardware tested for long - term durability
+● Documentation: None included",Pre-Owned - Good,https://www.ebay.com/itm/318836512781?itmmeta=01M241566JZ053CNQX6MB6JABQ&hash=item4a3c23180d:g:9PkAAeSwicFqniVD&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4LuoDRBjFAAfGoMhrVpLI6mXCghZHHTIgLTx5KsINByMscyk3r4niQ5TuXjqkoWLSDeHCvsTuHn777RSBpg27sq5Qwt2%2FVdqM1TUluSmu0qXvdi349V4Ph1JPtgmKFI4NyeV4iXV1Y%2B%2FcInL--PN2dTnnxyX7fpmd%2BCPK8qiPC3eP3v01pUESRqNjW%2BRKogtmOz%2FTGV9KpftjTBa66%2BjwEDt%2FnwpqXxT5qYKaD%2FKamD75DnKDjT37u6r%2BGHQUjdXZiUOh1dBu15LdstmzSUSAPl6T%7Ctkp%3ABk9SR8zjlIGRaA,Loewe,Not stated,Satchel,Nubuck,"light wear and scuffs at corners, edges | light wear and residue at interior lining | light wear, scratches and loss of color at hardware | mild rubbing at edges & corners | slight surface wear on hardware on close inspection",Good,"""Light wear and scuffs,"" ""light wear and residue,"" ""mild handling wear,"" and ""mild rubbing"" are softened phrasing for visible cosmetic wear across multiple areas (corners, edges, interior lining, hardware). ""May have received standard luxury care"" and ""minor care marks from routine maintenance"" hint the item may have been cleaned/refurbished to mask wear. Together these indicate a used bag with wear spread across several components (corners, edges, interior, hardware color loss), consistent with a well-loved rather than lightly-used item.",0.75,Good,Y,,,agree,,,Y,yes
+L042,Vestiaire Collective,handbag,Gucci abbey cloth handbag vintage,"Pre-owned Gucci Abbey tote in good overall vintage condition. The GG monogram canvas remains in good condition with normal signs of previous use. Brown leather trim, bottom corner panels and handles show visible creasing, rubbing, surface wear and light scratches consistent with age and use. Hardware shows scratches, tarnishing and discoloration.The zipper has a missing/damaged teeth, but it remains functional and does not affect normal use. Interior is generally clean with light signs of use. Please review all photos carefully as they are part of the condition description.
+
+Details
+Online since:2026-09-09
+Categories :Women
+Category:Bags
+Sub-category:Handbags
+Designer:Gucci
+Model:Abbey
+Condition:Very good conditionMore info
+Material:Cloth
+Colour:Brown
+Style:Vintage
+Location:United States, from the seller La Repeat",Very Good,https://www.vestiairecollective.com/women-bags/handbags/gucci/brown-cloth-abbey-gucci-handbag-70864846.shtml?_gl=1*1tec5fd*_up*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF,Gucci,Abbey,tote,GG monogram canvas with leather trim,"Normal signs of previous use on canvas | Visible creasing on leather trim, corner panels and handles | Rubbing and surface wear on leather trim, corner panels and handles | Light scratches on leather trim, corner panels and handles | Hardware scratches, tarnishing and discoloration | Zipper has missing/damaged teeth (still functional, doesn't affect use) | Interior has light signs of use",Fair,"""Good overall vintage condition"" and ""normal signs of previous use"" soften what is actually notable wear including damaged zipper teeth, tarnished hardware, and visible creasing/rubbing across multiple leather panels — implying an item with real cosmetic and minor functional flaws rather than light use. ""Consistent with age and use"" further normalizes wear as expected rather than minimal.",0.75,Good,N,,,agree,"i labeled the fact that it said functionality still in tact as it was in good condition but per the rubric, ""fair"" includes ""structural damage present but not severe enough to make the item unusable"". in that regard, fair was likely the correct output given the zipper damage and other signs of wear",model right,Y,no
+L044,Vestiaire Collective,handbag,Louis Vuitton Neverfull leather tote,"Louis Vuitton Neverfull tote in Damier pattern.  Gently used all over, leather straps and stitching show some wear.  Slight staining on interior.  Wear on interior pocket and corners.
+
+Details
+Online since:2026-09-08
+Categories :Women
+Category:Bags
+Sub-category:Handbags
+Designer:Louis Vuitton
+Model:Neverfull
+Condition:Good conditionMore info
+Material:Leather
+Colour:Brown
+Location:United States, from the seller Danica
+Reference:70809394
+Measurements
+Width:17.5 in
+Height:11.5 in
+Depth:7 in",Good,https://www.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-neverfull-louis-vuitton-handbag-70809394.shtml?_gl=1*4cncfi*_up*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF,Louis Vuitton,Neverfull,Tote,Leather (Damier canvas/leather trim),Leather straps and stitching show some wear | Slight staining on interior | Wear on interior pocket | Wear on corners,Good,"""Gently used all over"" implies wear is spread across the item rather than isolated to one spot, and combined with the disclosed corner wear (a structural rather than purely cosmetic flaw), this indicates more than light cosmetic wear - consistent with a well-loved, clearly used item.",0.75,Good,Y,"added ""Canvas"" out of nowhere to the materials description",hallucination,agree,,,Y,yes
+L045,ThreadUp,handbag,"Kate Spade New York
+One size
+Crossbody bag","Condition
+excellent
+Practically new: shows no obvious signs of being worn or washed. Our standards
+
+Original tags attached
+
+Item details
+#235554902
+Material unknown
+Brown
+Size & fit
+One size
+Measured at 8.5"" length, 5"" height, 2.5"" depth (approx.)",Excellent,https://www.thredup.com/product/women-kate-spade-new-york-brown-crossbody-bag/235554902?query_id=1210784353845280768&result_id=1210784354138882048,Kate Spade New York,Not stated,crossbody bag,Not stated,,Pristine,"""Practically new: shows no obvious signs of being worn or washed"" plainly indicates no wear; combined with original tags attached, this supports a like-new assessment. No euphemistic hedging language is used.",0.7,Excellent,N,,,agree,original tags were attached correct but box and dustbag aren't listed as included in the raw description so i went with excellent,i'm right,Y,yes
+L047,Fashionphile,handbag,"Bottega Veneta
+Nappa Intrecciato Candy Loop Camera Bag White","Exterior: Corner wear, edge wear, marks, surface wear
+Hardware: Scratch(es)
+Handle: Surface wear, edge wear, marks
+Interior: Surface wear, marks
+
+Comes With: FASHIONPHILE Certificate of Authenticity
+
+Item #: 1721678
+
+This is an authentic BOTTEGA VENETA Nappa Intrecciato Candy Loop Camera Bag in White. This stylish shoulder bag is beautifully crafted of woven lambskin leather in white. The shoulder bag features a crossbody shoulder strap, aged gold hardware and a top zipper that opens to a matching woven leather interior.
+Follow this item for alerts. Bottega Veneta is a registered trademark of Bottega Veneta. FASHIONPHILE is not affiliated with Bottega Veneta.
+
+Base length: 5.25 in
+Height: 4.5 in
+Width: 2.25 in
+Drop: 20.25 in",Very Good,https://www.fashionphile.com/collections/all-bags/products/bottega-veneta-nappa-intrecciato-candy-loop-camera-bag-white-1721678?variant=51884622184751,Bottega Veneta,Candy Loop Camera Bag,Shoulder bag,Nappa Intrecciato lambskin leather,Corner wear | Edge wear | Marks (exterior) | Surface wear (exterior) | Hardware scratch(es) | Handle surface wear | Handle edge wear | Handle marks | Interior surface wear | Interior marks,Good,"The listing uses direct, itemized condition terms rather than euphemisms, but the cumulative listing of corner wear, edge wear, marks, and surface wear across exterior, hardware, handle, and interior indicates a structural flaw (worn corners) plus well beyond four cosmetic marks, consistent with clearly used, well-loved condition.",0.75,Good,Y,,,agree,,,Y,no
+L049,Vinted,handbag,Authentic Coach Bag,"BrandCoach
+Condition
+Good
+Material
+Leather
+Color
+Beige, Cream
+Uploaded
+31 min ago
+Used and in good condition",Good,https://www.vinted.com/items/9947780631-authentic-coach-bag?referrer=catalog,Coach,Not stated,handbag,Leather,,Insufficient information,"""Used and in good condition"" is a vague, generic phrase that doesn't specify actual wear details, marks, or flaws - it implies the item is used but gives no concrete information about the nature or extent of wear.",0.3,Good,N,,,agree,"same note as for L058 -- yes the listing is sparse but it does state ""in good condition"" so model should default to that instead of ""insufficient information"" here. ",i'm right,Y,yes
+L052,The RealReal,jewlery,Ring 14K 1.83ct Tourmaline Cocktail Ring Size: 6.25,"14K Yellow Gold
+Featuring 1.83 Carat Faceted Pear Shaped Tourmaline
+Includes Generic Box 
+Band Width
+1.9mm
+Ornament Length
+8.4mm
+Ornament Width
+10.4mm
+Marks
+14K
+Total Item Weight (g)
+3.2
+Collateral
+Generic Box
+Center Stone
+Yes
+Gemstone
+Tourmaline
+Carat Weight
+1.83
+Stone Count
+1
+Stone Shape
+Faceted, Pear Shaped
+Stone Color
+Pink
+Type/Clarity
+Slightly Included
+Gender
+Women
+Item #
+RRING395143",Pristine,https://www.therealreal.com/products/jewelry/rings/cocktail-ring/14k-1-83ct-tourmaline-cocktail-ring-w7yid,Not stated,Not stated,Cocktail ring,"14K Yellow Gold, Tourmaline",,Excellent,No euphemistic language,0.5,Pristine,N,,,n/a,"it does include the box which is what i based my grade on, however the rest of the raw description is quite sparse in terms of quality state of the item. the model here is better in my opinion because with that sparser info, it defaults to one tier lower than pristine to be safe",model right,Y,yes
+L054,Poshmark,jewelry,Jil Sander Necklace - Silver Brass - One Size - Made in Italy NWT,"Size
+OS
+Condition
+New With Tags
+Color
+Silver
+Category
+Women
+Jewelry
+Necklaces
+Brand
+Jil Sander
+Style Tags
+Designer Work Event
+Party Wedding Elegant
+Sophisticated
+Necklace from Lookbooks
+Metal brass with silver plating
+Lobster clasp fastening
+No appliqués
+Circumference 33.15 Inches
+Made in Italy",New with tags,https://poshmark.com/listing/Jil-SanderNecklace-Silver-Brass-One-Size-Made-in-Italy-NWT-6a90d7c0d0e93376c7c84118,Jil Sander,Not stated,Necklace,Brass with silver plating,,Pristine,No euphemistic language,0.75,Pristine,Y,,,n/a,,,Y,yes
+L057,eBay,jewelry,Vintage 1990s Tiffany 18K Gold Two Tone Diamond Hinged Bangle Bracelet,"Condition
+Pre-owned - Excellent: This item has been previously worn; however, it is in excellent condition. Any signs of wear should be shown and described in the seller’s listing. See all condition definitionsopens in a new window or tab
+Antique
+No
+Closure
+Hinged
+Signed
+Yes
+Color
+Yellow
+Metal
+Yellow Gold
+Main Stone
+Diamond
+Vintage
+Yes
+Brand
+Tiffany & Co.
+Type
+Bracelet
+Metal Purity
+18k
+Style
+Bangle
+Base Metal
+Gold
+Country of Origin
+United States
+
+
+A striking vintage Tiffany & Co. bangle, stamped 18K, featuring a two-tone design with diamond accents. The bracelet features Tiffany’s distinctive ribbed design, composed of sculptural rounded gold bands accented by four pavé diamond stations positioned around the bangle.
+
+Each diamond station is framed by raised polished gold detailing, creating a beautiful contrast between the warm yellow gold and bright white diamonds. The substantial construction and architectural design give the bracelet a bold presence while retaining the timeless elegance associated with vintage Tiffany & Co. jewelry.
+
+The bracelet features a hinged construction with a secure clasp and is signed “TIFFANY & CO. 18K.”
+
+Outside Circumference-7 3/8”
+Inside Circumference -6.5”
+
+Details:
+
+* Designer: Tiffany & Co.
+* Era: Vintage, believed to date to approximately the 1990s
+* Metal: Stamped TIFFANY & CO. 18K; two-tone design
+* Gemstones: Round brilliant-cut earth mined diamonds of high quality
+* Design: Ribbed bangle with four pavé diamond stations
+* Closure: Hinged bangle with clasp
+* Signed: TIFFANY & CO. 18K
+* Authentic vintage Tiffany & Co. jewelry",Pre-Owned - Excellent,https://www.ebay.com/itm/158254946361?_skw=Tiffany+%26+Co.&itmmeta=01M243W1WH40VVFMSVYJC3403H&hash=item24d8bad839:g:a70AAeSwpoNqdPHm&itmprp=enc%3AAQALAAAA0DKQclQvzFwZQpmMrsO4LuqLo6HyP6YZXzMvN6Gj8rbIaVal%2BGIO21Reep%2Bp%2Fixhy5fuICe5kjFd1oMkfrQCntPrHcdvrdgHesvIUQC5ImAtKjLtp2crs5zIPb6gixOJzgwrpTQ1bzqy8AxBh0btpCQKDs4COewemElA7jdPXPeO5EiAvdZnHiOzwahfZUVyftinikK7k8wPHVOlyqRfOd7%2BVrX%2FAT4yOaMB0aog9ePYok%2F5uUuJAGtpbEa%2Fh3qYcWLu15jyvcfMNwEwLJYN14I%3D%7Ctkp%3ABk9SR7ie8IORaA,Tiffany & Co.,Not stated,bangle bracelet,"18K gold, diamonds",,Excellent,"The listing states ""previously worn; however, it is in excellent condition"" with no specific flaws described, which suggests minimal to no visible wear consistent with light or careful use, but the seller does not itemize any signs of wear despite claiming they should be described.",0.5,Excellent,Y,,,agree,,,Y,yes
+L058,Vestiaire Collective,jewelry,Tiffany & Co Elsa Peretti silver necklace,"The simple, evocative shape of Elsa Peretti Open Heart designs celebrates the spirit of love. This elegant style is one of her most celebrated icons.
+
+Sterling silver
+11 mm wide
+On a 16"" chain
+Box/pouch not included.
+
+Details
+Online since:2026-09-08
+Categories :Women
+Category:Jewellery
+Sub-category:Necklaces
+Designer:Tiffany & Co
+Model:Elsa Peretti
+Condition:Very good conditionMore info
+Material:Silver
+Colour:Silver
+Location:United States, from the seller Oclux
+Reference:70829012
+Measurements
+Length:16 in",Very Good,https://www.vestiairecollective.com/women-jewellery/necklaces/tiffany-co/silver-silver-elsa-peretti-tiffany-co-necklace-70829012.shtml?_gl=1*112kkt7*_up*MQ..&gclid=Cj0KCQjwh4TVBhCWARIsAG0czmoIp5CcozggY0W1egoZNxDcS0HqWMSDL5AUvmBO42NAWPjLPViehRkaAofYEALw_wcB&gbraid=0AAAAADSZTnIoQg9Q4JMMKoLV2zOdR3GwF,Tiffany & Co,Elsa Peretti Open Heart,necklace,Sterling silver,Box/pouch not included,Insufficient information,"No euphemistic language; the listing does not describe any specific wear (scratches, tarnish, etc.), only stating a platform condition label of ""Very good condition"" without detail. Since no actual wear description is given beyond the missing box/pouch, the true condition tier cannot be reliably assessed from description alone.",0.3,Very Good,N,,,agree,"this was classified as ""insufficient information"" given the seller speak translation the model rendered, which is a correct assessment, however it deemed the listing's condition as insufficient because of the lack of description of the quality of the item. that is a lovely ideal and a good default but given the condition here is provided, as a fall back it should revert to what is provided in the listing instead of defaulting to ""insufficient information"". ""insufficient information"" should only be used if there is truly no item description or condition stated in the listing itself.",i'm right,Y,yes
+L060,Fashionphile,jewelry,"Tiffany
+18K Rose Gold Diamond Fleur de Lis Ring 57 8","Hardware: Faint scratch(es)
+Comes With: FASHIONPHILE Certificate of Authenticity, box, case
+Item #: 1927304
+
+This is an authentic TIFFANY 18K Rose Gold Diamond Fleur de Lis Ring size 53 or 6.5. The ring is crafted of 18 karat rose gold featuring a fleur de lis key shaped motif accented with diamonds weighing approximately .21 total carat weight.",Excellent,https://www.fashionphile.com/collections/jewelry/products/tiffany-18k-rose-gold-diamond-fleur-de-lis-ring-57-8-1927304?variant=58262610149679,Tiffany,Fleur de Lis,cocktail ring,"18K Rose Gold, Diamond",Faint scratch(es) on hardware,Excellent,"""Faint scratch(es)"" indicates extremely superficial wear, consistent with light handling rather than actual use - this fits within the Excellent tier's allowance for faint surface scratches on jewelry.",0.75,Very Good,N,,,agree,"i was wrong and re-reading the rubric the excellent definition for jewelry includes ""allowed faint surface scratches""",model right,Y,no
