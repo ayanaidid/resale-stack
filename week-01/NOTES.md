@@ -197,3 +197,55 @@ Repeatability finding → instability correlates with absence of evidence,
   subcategory stable everywhere: stated facts extract reliably, judgment
   calls don't. No temperature set (deprecated on Sonnet 5), so nothing
   to attribute the variance to but the serving layer.
+
+---
+Sunday, Sept 13, 20206
+PYTHONPATH=. → running `python3 experiments/script.py` puts experiments/
+  on Python's import path, not week-01/, so `from extract import ...`
+  fails. Prefix the command with PYTHONPATH=. to add the current
+  directory. The error names a missing module; the real problem is
+  where Python looked.
+
+temperature deprecated on Sonnet 5 → any non-default temperature, top_p,
+  or top_k returns a 400. Adaptive thinking is on by default, manual
+  thinking budgets also rejected. Killed the planned temperature matrix.
+  Rebuilt as a repeatability test, which is a cleaner experiment — no
+  sampling parameter I set, so nothing to attribute variance to.
+
+Malformed tool call, 1 of 6 runs on L007 → required field `confidence`
+  absent from block.input; its value leaked into the adjacent string as
+  literal text (</seller_speak_translation><parameter name="confidence">
+  0.7). Model emitted its own tool-call syntax as content. SDK didn't
+  reject it; extract_listing trusts block.input unvalidated. Constrained
+  decoding removes format errors ALMOST always.
+
+Repeatability tracks absence of evidence, not complexity → L007
+  (longest, most flaws, heaviest hedging): identical tier 6/6. L001 and
+  L022 (zero flaws): both flipped Pristine/Excellent. The Pristine
+  boundary turns on packaging, which listings rarely mention — so the
+  model is deciding what silence means, and that isn't stable.
+
+Annotation artifact caught mid-analysis → I only filled
+  gradeable_from_text on rows where the model was wrong, so the column
+  was perfectly degenerate with correctness (all 8 correct rows blank,
+  all 22 wrong rows filled). "0/17 gradeable were correct" was circular,
+  not a finding. A column filled only on misses will always correlate
+  with misses. Fixed by grading the blanks on the same standard.
+
+My two prompt instructions collided → "don't repeat the platform label"
+  plus an "Insufficient information" escape hatch means the model
+  declines on any listing where condition is asserted but not described.
+  5 of the 10 declines were caused by my own prompt, not by thin data.
+  Each instruction was reasonable alone.
+
+Model and platforms skew the same direction → model graded higher than
+  me on 9 of 12 disagreements; platforms graded higher on 9 of 10. Two
+  independent sources, same tilt, against the same rubric. The model
+  didn't invent leniency about condition — it reproduced the industry's.
+
+I defaulted where I criticized the model for defaulting → on ~5 listings
+  with no wear information in the text, I assigned a middle tier rather
+  than "Insufficient information." The model declined. It was right and
+  I wasn't. Flagged those rows rather than quietly revising them, since
+  revising after seeing the model's answer is the anchoring I graded
+  blind to avoid.
