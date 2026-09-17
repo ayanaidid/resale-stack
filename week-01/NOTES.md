@@ -3,7 +3,7 @@
 Format: construct/error → what it turned out to mean
 
 ---
-Sunday, Aug. 30th, 2026:
+## Sunday, Aug. 30th, 2026:
 cat -A → GNU/Linux flag for showing hidden characters (line endings, etc). 
   Doesn't exist on macOS's cat (BSD). macOS equivalent is cat -e.
 
@@ -37,7 +37,7 @@ String instead of int for max_tokens → TypeError, but NOT caught upfront
   the SDK does the first eagerly and not really the second.
 
 ---
-Wednesday, Sept 2nd, 2026
+## Wednesday, Sept 2nd, 2026
 1/2 of the seller lingo predictions aren't about wear at all — they're about why the seller chose that 
     specific phrasing. That's arguably a more interesting thing to test against the model than the condition 
     tier itself: does the model pick up on "vintage patina" as potential spin, or does it take the phrase at 
@@ -72,7 +72,7 @@ Listing fields are redundant by design → Vestiaire repeats condition and
   number as comparable across sources.
 
 ---
-Friday, Sept 4, 2026
+## Friday, Sept 4, 2026
 Numbers export went to iCloud, not the repo → macOS "Desktop & Documents
   in iCloud" makes ~/Documents an iCloud location. Numbers defaulted its
   export there, silently creating a parallel resale-stack/week-01/data/
@@ -82,14 +82,14 @@ Numbers export went to iCloud, not the repo → macOS "Desktop & Documents
   with a timestamp check, not the dialog.
 
 ---
-Wednesday, Sept 9, 2026
+## Wednesday, Sept 9, 2026
 Price fields → market_price = platform's retail estimate. original_price =
   pre-discount asking price on this platform, blank if not discounted.
   listed_price = current asking price, always populated. Three distinct
   concepts; platforms use inconsistent labels for all three.
 
 ---
-Thursday, Sept 10, 2026
+## Thursday, Sept 10, 2026
 CLI — command-line interface. A program you run by typing its name in the terminal, rather than clicking an icon or opening a
   webpage. hello.py was already one: you typed python3 hello.py and it did its thing and printed output. That's it. "Build a Python CLI" just means "build a script I run from the terminal." No windows, no buttons.
 
@@ -111,13 +111,13 @@ flush() → out.write() only puts bytes in Python's buffer; the OS gets
   flush() after each write costs a little performance and caps the loss
   at one row. Buffering is invisible until it isn't.
 
-From the docs block:
+*From the docs block:*
 Tool definition requires name, description, input_schema with properties and required. The description field is read by the model and affects extraction quality — it's a tunable knob, not documentation.
 Structured output arrives in a tool_use block, in its input field, as a dict. Same content-block loop as hello.py, different block type — text is block.text, tool use is block.input.
 The model doesn't error on fields it can't fill. It guesses. No exception, no warning. This is why failures are silent and why the eval exists.
 enum constrains output to a fixed list — you'll always get one of your five tiers. Format guarantee, not correctness guarantee.
 
-From the scaffolding block:
+*From the scaffolding block:*
 The three you interrogated: silent-skip on malformed JSONL, fail-fast on non-API exceptions vs retry-with-backoff on anthropic.APIError, and flush() capping crash loss at one row.
 The .gitignore incident — Claude Code fused *.pyc and .DS_Store into *.pyc.DS_Store, a line matching nothing. And it gitignored extractions.jsonl on a sensible default ("generated output isn't source") that conflicted with a goal it didn't know: the outputs are the deliverable.
 The summary-vs-file gap — twice, the model described a change whose displayed evidence didn't clearly support it. Verify the file, not the summary. That's a durable working rule, not a one-off.
@@ -138,7 +138,7 @@ Model defaults can conflict with project goals silently → Claude Code
   in text at all.
 
 ---
-Friday, Sept 11, 2026
+## Friday, Sept 11, 2026
 Condition signal location varies by platform → TRR 4/6 and Vinted 3/5
   ungradeable from description alone; eBay 0/5. TRR and Vinted put
   condition in structured fields and leave descriptions as attribute
@@ -199,7 +199,7 @@ Repeatability finding → instability correlates with absence of evidence,
   to attribute the variance to but the serving layer.
 
 ---
-Sunday, Sept 13, 20206
+## Sunday, Sept 13, 20206
 PYTHONPATH=. → running `python3 experiments/script.py` puts experiments/
   on Python's import path, not week-01/, so `from extract import ...`
   fails. Prefix the command with PYTHONPATH=. to add the current
