@@ -159,7 +159,7 @@ likely to slip late in a session hence why there are session limits.
 3. If structural, apply the override regardless of the mark count, otherwise apply the four-mark ceiling
 4. Assign the tier.
 
-**Pristine requires packaging, by category.** Handbags/shoes/accessories: tags attached, box included, dust bag included. Jewelry: no wear, tags not required. Clothing: tags attached.
+**Pristine requires packaging, by category.** Handbags/shoes/accessories: tags attached, box included, dust bag included. Jewelry: no wear, tags not required. Clothing: tags attached. *Packaging present, condition silent.* A listing that itemizes full packaging (box, dust bag, tags, accessories) but describes no wear and makes no condition claim does not reach Pristine. Packaging is a necessary condition for Pristine, not a sufficient one — the evidence rule still applies, and silence about the item's state is not evidence that the state is perfect. Grade it ______________________ with `label_confidence = low`, and note that packaging was present but uncorroborated.
 
 Known failure point, pre-registered: this rule did not transfer to the model in
 Week 1, and I expect the models to miss it again. Disagreements traceable to
@@ -170,7 +170,10 @@ packaging should be counted separately from disagreements about the item itself.
 Do not use `Insufficient information` for contradictions — see the contradiction
 rule in section 1. Too much information pointing two ways is not too little.
 
-**Bare claims.** A condition claim with no supporting detail ("excellent condition," "great shape") is gradeable. Take the claim, cap it below Pristine, mark label_confidence = low, and write "claim without evidence" in label_notes. This is a deliberate choice: the claim is the seller's own words in the free text, which is what the model received. It is not a contradiction of the evidence rule — silence is still not evidence of good condition, but an explicit claim is not silence.
+**Bare claims.** A condition claim with no supporting detail ("excellent condition," "great shape") is gradeable. Take the claim, cap it below Pristine, mark label_confidence = low, and write "claim without evidence" in label_notes. This is a deliberate choice: the claim is the seller's own words in the free text, which is what the model received. It is not a contradiction of the evidence rule — silence is still not evidence of good condition, but an explicit claim is not silence. Platform condition boilerplate is common and splits two ways. Boilerplate asserting specific facts about the item's state ("brand new and has never been worn," "still has the original packaging") counts as evidence. Boilerplate asserting a verdict ("Pre-owned - Good," "gently used," "Very good condition") is a bare claim, however many words the platform wraps around it. Tagging: when this rule fires, `label_notes` begins with the literal phrase `claim without evidence`, followed by your reasoning. The phrase is what makes these rows findable at analysis time — free-text reasoning alone can't be
+grouped. Expect a meaningful share of the set to land here, and expect agreement
+with the models to be higher on these rows than elsewhere, since on them my
+label is largely the seller's verdict in my tier names.
 
 **Pre-registered.** I recorded 0 declines in Week 1, but my own README identified 5 of the model's 10 declines as correct, meaning my labels and my judgment had already diverged before I noticed. The bar in this section is the fix. Week 2 measures whether my own bar is applied consistently (Thursday's blind re-label), and what the model's threshold costs in coverage.
 
