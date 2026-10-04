@@ -29,15 +29,23 @@ from pathlib import Path
 from dotenv import load_dotenv
 import anthropic
 
-load_dotenv()
+from pathlib import Path
+load_dotenv(Path(__file__).parent / ".env")
 
-LISTINGS_CSV = Path("data/listings.csv")
-OUTPUT_JSONL = Path("data/extractions.jsonl")
-ERROR_LOG = Path("errors.log")
+HERE = Path(__file__).parent
+LISTINGS_CSV = HERE / "data/listings.csv"
+OUTPUT_JSONL = HERE / "data/extractions.jsonl"
+ERROR_LOG = HERE / "errors.log"
 
 MAX_RETRIES = 5
 INITIAL_BACKOFF_SECONDS = 1.0
 BACKOFF_MULTIPLIER = 2.0
+
+MODEL_RATES = {
+    "claude-sonnet-5": {"input": 2, "output": 10},
+    "claude-haiku-4-5": {"input": 1, "output": 5},
+    "claude-opus-5": {"input": 5, "output": 25},
+}
 
 logging.basicConfig(
     filename=ERROR_LOG,
@@ -129,7 +137,7 @@ RESALE_LISTING_TOOL = {
 }
 
 
-def extract_listing(row, temperature=None):
+def extract_listing(row, temperature=None, model="claude-sonnet-5"):
     """
     Take a single listing (dict) from listings.csv, as produced by
     csv.DictReader, and call the Anthropic API to pull structured
@@ -159,7 +167,7 @@ def extract_listing(row, temperature=None):
         kwargs["temperature"] = temperature
 
     message = client.messages.create(
-        model="claude-sonnet-5",
+        model=model,
         max_tokens=1000,
         system=SYSTEM_PROMPT,
         tools=[RESALE_LISTING_TOOL],
@@ -180,7 +188,8 @@ def extract_listing(row, temperature=None):
 
     input_tokens = message.usage.input_tokens
     output_tokens = message.usage.output_tokens
-    cost_usd = (input_tokens * 2 + output_tokens * 10) / 1_000_000
+    rates = MODEL_RATES[model]
+    cost_usd = (input_tokens * rates["input"] + output_tokens * rates["output"]) / 1_000_000
 
     return {
         **extracted,
@@ -211,12 +220,12 @@ def load_done_ids(path):
     return done
 
 
-def call_with_retry(row):
+def call_with_retry(row, model="claude-sonnet-5"):
     """Call extract_listing, retrying API errors with exponential backoff."""
     delay = INITIAL_BACKOFF_SECONDS
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            return extract_listing(row)
+            return extract_listing(row, model=model)
         except anthropic.APIError as e:
             if attempt == MAX_RETRIES:
                 raise
