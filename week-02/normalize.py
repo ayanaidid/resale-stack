@@ -15,6 +15,7 @@ BRAND_ALIASES = {
     "ysl": "saint laurent",
     "y s l": "saint laurent",
     "tiffany co": "tiffany and co",  # Handles the & vs 'and' gap
+    "not stated": "unbranded",       # Extractor's absent-brand value → label convention
 }
 
 def clean_text(s) -> str:
@@ -81,7 +82,11 @@ if __name__ == "__main__":
         
         # Safety/Guard check
         (None, "", "Falsy/None guard failed"),
-        (123.45, "", "Float guard failed")
+        (123.45, "", "Float guard failed"),
+
+        # Extractor absent-brand value maps to label convention
+        ("Not stated", "unbranded", "Not stated alias failed"),
+        ("Unbranded", "unbranded", "Unbranded passthrough failed"),
     ]
     
     print("Running brand normalization tests...\n")

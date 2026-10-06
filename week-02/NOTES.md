@@ -59,3 +59,37 @@ bar.
 where both the model and I assigned a real tier, or 8 of 30 (27%) across all
 graded listings. The model declined on 10 of 30. Platform split of the 30:
 10 staff-written, 20 seller-written.
+
+---
+## Thursday, Oct 1, 2026
+- scripts that read files need paths anchored to the code, not the working directory. It's the kind of bug that only surfaces when something else starts calling your code — which is exactly what Week 2 is doing to Week 1.
+
+---
+## Tuesday, Oct 6, 2026
+
+*Brand-absent rule amended*
+Changed the rule for listings that name no brand from `Insufficient
+information` to `Unbranded`. The original rule reused the condition-tier value
+for consistency, but I never applied it: all nine no-brand rows were already
+labeled `Unbranded`, so the written rule and my practice had diverged. Six of
+the nine are fine jewelry sold on materials rather than a house name, where
+`Unbranded` describes how the item is actually sold. `Unbranded` here means the
+listing names no brand, not that the item has none — for the three clothing and
+shoe rows the seller may simply have left it out.
+
+Rows affected by the amendment: zero. No re-labeling needed.
+
+*Alias added: `not stated` → `unbranded`*
+The Week 1 extractor's schema instructs the model to output `Not stated` when no
+brand is named. My labels use `Unbranded` for the same case. Added an alias in
+`normalize.py` so these score as a match. Legitimate under the alias rule: both
+strings describe the same thing — no brand named in the listing — and without
+the alias every no-brand row would count as a model miss for a wording
+difference.
+
+*Blind re-label limitation*
+Recognition of Week 1 listings was not recorded during the blind re-label pass.
+The re-label had roughly three weeks of separation from the original grading,
+with Week 1 files closed and rows shuffled. Intra-rater agreement on these 30
+should be read as an upper bound on consistency, since residual memory can't be
+ruled out.

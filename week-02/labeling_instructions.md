@@ -57,8 +57,9 @@ isn't working.
         listing was captured.
     - anchored	= Y or N; did you see model output for this listing before
         labeling it? N for every Week 2 row. Y only exists to mark the Week 1 grades if you ever import them.
-    - label_brand = The brand, as you'd resolve it. Your call on house vs  
-        sub-brand, per section 2.
+    - label_brand = The brand in canonical form per section 2 — full house
+        name, no accents, sub-brands kept distinct, no brand inferred from a
+        model name. `Unbranded` when the listing names no brand.
     - label_subcategory	= The most specific term the listing supports.
         Lowercase, singular, no hyphens (crossbody, not Cross-Body Bags). Starting vocabulary: shoulder bag, crossbody, tote, ankle boot, loafer, midi dress, cocktail ring, tennis bracelet — add new terms as you hit them and append them to the running list in NOTES.md. The extractor's subcategory field is unconstrained free text, so this is scored after normalization rather than by exact match.
     - label_condition_tier = One of your five tiers, or Insufficient
@@ -93,7 +94,7 @@ lowercases both sides, strips accents and punctuation, collapses whitespace,
 and applies a house alias list (`YSL` → `Saint Laurent`, and others added as
 they come up). The running alias list lives in NOTES.md.
 
-Exception: nouns that are inherently plural stay plural — earrings, pants, ski pants. The singular rule applies to terms that have a natural singular form (sneaker, not sneakers).
+Exception: nouns that are inherently plural stay plural — earrings, pants, ski pants, jeans. The singular rule applies to terms that have a natural singular form (sneaker, not sneakers).
 
 ### Brand — which brand it is (identity)
 
@@ -112,8 +113,7 @@ normalize it.
 a brand mentioned for comparison or context. A Chanel bag described as
 "similar to Dior" is `Chanel`.
 
-**Brand absent:** `Insufficient information` — the same value used in
-`label_condition_tier`, so the harness needs one rule and not two.
+**No brand named:** label *Unbranded*. This means the listing names no brand, not that the item has none. Most often it's fine jewelry sold on materials rather than a house name, where the two coincide; for clothing and shoes it may simply mean the seller left the brand out. Insufficient information is not used for brand.
 
 ### Subcategory
 

@@ -1,7 +1,7 @@
 listing_id,label_pass,labeled_at,anchored,label_brand,label_subcategory,label_condition_tier,label_confidence,boundary_case,label_notes
 L021,fresh,2026-09-25,N,Gianni Bini,sneaker,excellent,medium,Y,"claim without evidence; tags but no box or dust bag, and no wear language, so packaging rule caps it below Pristine"
 L039,fresh,2026-09-25,N,Louis Vuitton,top handle,good,low,Y,"this could also be labeled per the quality descriptions as ""Fair"" per condition instructions given just how many damages are listed in the description"
-L043,fresh,2026-09-25,N,Bottega Venetta,crossbody,very good,medium,N,"notes only ""faint scratches to exterior flap"" fair to say its likely very good quality"
+L043,fresh,2026-09-25,N,Bottega Veneta,crossbody,very good,medium,N,"notes only ""faint scratches to exterior flap"" fair to say its likely very good quality"
 L067,fresh,2026-09-25,N,Hermes,top handle,excellent,low,N,claim without evidence; there isn't any actual item quality descriptions except that it has dustbag+ included -- will label excellent but low confidence
 L102,fresh,2026-09-25,N,The Row,top handle,very good,low,N,claim without evidence; states clean exterior and interior but no other qualifiying details on condition -- labeled very good because of cleanliness
 L113,fresh,2026-09-25,N,Dior,ballet flat,pristine,high,N,description mentioned brand new in box with dustbag & that they were never worn
@@ -21,7 +21,7 @@ L013,fresh,2026-09-28,N,Realisation Par,dress,excellent,medium,N,doesn't include
 L014,fresh,2026-09-28,N,ASOS,pants,very good,medium,Y,only states that there are no major flaws & shows minor wear so consistent with defined very good tag
 L015,fresh,2026-09-28,N,The Endery,sweater,pristine,high,N,"states never been worn, with tags and all packaging still included"
 L017,fresh,2026-09-28,N,Soeur,flat,excellent,low,N,mentions inclusion of packaging & dustbag
-L020,fresh,2026-09-28,N,Merrell,boot,good,low,N,only states condition but no quality details to improve confidence
+L020,fresh,2026-09-28,N,Merrell,boot,good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L024,fresh,2026-09-28,N,Unbranded,boot,very good,low,Y,"says ""slightly worn"" as only quality qualifier so very on the margin in confidence "
 L026,fresh,2026-09-28,N,Prada,loafer,good,low,Y,"says ""slightly worn but in good condition"" so not no quality describers but not a lot = low confidence"
 L028,fresh,2026-09-28,N,Eugenia Kim,flat,very good,low,N,claim without evidence; only states condition but no quality details to improve confidence
@@ -29,8 +29,8 @@ L030,fresh,2026-09-28,N,Nike,sneaker,good,low,N,claim without evidence; only sta
 L031,fresh,2026-09-28,N,Balenciaga,shoulder bag,insufficient information,low,N,no quality details to make a determination
 L033,fresh,2026-09-28,N,Coach,shoulder bag,insufficient information,low,N,no condition stated or quality details to make a determination
 L036,fresh,2026-09-28,N,Prada,crossbody,very good,low,Y,says minimal wear & describes slight hardware scratches but not a ton of detail to improve confidence score
-L037,fresh,2026-09-28,N,Balenciaga,shoulder bag,very good,low,N,only states condition but no quality details to improve confidence
-L038,fresh,2026-09-28,N,Coach,shoulder bag,good,low,N,only states condition but no quality details to improve confidence
+L037,fresh,2026-09-28,N,Balenciaga,shoulder bag,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L038,fresh,2026-09-28,N,Coach,shoulder bag,good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L040,fresh,2026-09-28,N,Prada,shoulder bag,good,low,Y,minimal description but does describe lightly used with likely signs of wear
 L046,fresh,2026-09-28,N,Chanel,shoulder bag,very good,medium,N,describes faint fabric wear and hardware scratches and no major flaws 
 L048,fresh,2026-09-28,N,Gucci,shoulder bag,good,high,N,lots of description of all parts of the bag giving very clear details on quality expectations
@@ -40,7 +40,7 @@ L053,fresh,2026-09-28,N,Daniella Design,necklace,insufficient information,low,N,
 L055,fresh,2026-09-28,N,Unbranded,earrings,insufficient information,low,N,no condition or quality claims provided at alll
 L059,fresh,2026-09-28,N,Celine,necklace,good,medium,N,explains loss of plating throughout item implicating quality 
 L061,fresh,2026-09-28,N,Van Cleef & Arpels,earrings,very good,medium,N,only quality provided is faint scratching
-L062,fresh,2026-09-28,N,Bottega Venetta,shoulder bag,insufficient information,low,N,no condition or quality claims provided at alll
+L062,fresh,2026-09-28,N,Bottega Veneta,shoulder bag,insufficient information,low,N,no condition or quality claims provided at alll
 L063,fresh,2026-09-28,N,Fendi,shoulder bag,insufficient information,low,N,no condition or quality claims provided at all
 L064,fresh,2026-09-28,N,Tory Burch,shoulder bag,insufficient information,low,N,no condition or quality claims provided at all
 L065,fresh,2026-09-28,N,Chloe,clutch,insufficient information,low,N,no condition or quality claims provided at all
@@ -82,14 +82,14 @@ L101,fresh,2026-09-28,N,Rachel Gilbert,necklace,excellent,medium,N,indicates ins
 L103,fresh,2026-09-28,N,Polene,tote,excellent,low,N,never worn & comes with dustbag 
 L104,fresh,2026-09-28,N,Balenciaga,shoulder bag,very good,medium,N,describes only light scratching to back of bag
 L105,fresh,2026-09-28,N,Louis Vuitton,shoulder bag,very good,medium,N,describes only one ink stain inside of a pocket
-L106,fresh,2026-09-28,N,Saint Laurent,top handle,good,low,N,only states condition 
-L107,fresh,2026-09-28,N,Rat & Boa,maxi dress,very good,low,N,only states condition but no quality details to make a determination
+L106,fresh,2026-09-28,N,Saint Laurent,top handle,good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L107,fresh,2026-09-28,N,Rat & Boa,maxi dress,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L108,fresh,2026-09-29,N,Prada,sweater,excellent,low,N,stated never worn w/ tags in tact
 L109,fresh,2026-09-29,N,Toteme,maxi skirt,excellent,medium,N,new with tags & never worn
 L111,fresh,2026-09-29,N,Christian Louboutin,heel,fair,high,N,describes loss of coloring and lots of scuffing & need to be refurbished
-L112,fresh,2026-09-29,N,Emilia Wickstead,flat,very good,low,N,only states condition but no quality details to make a determination
+L112,fresh,2026-09-29,N,Emilia Wickstead,flat,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L115,fresh,2026-09-29,N,Hermes,bracelet,pristine,medium,N,stated as new/never worn & comes with packaging (but
-L116,fresh,2026-09-29,N,Bvlgari,ring,very good,low,N,only states condition but no quality details to make a determination but comes w/ original packaging 
+L116,fresh,2026-09-29,N,Bvlgari,ring,very good,low,N,claim without evidence; only states condition but no quality details to make a determination but comes w/ original packaging 
 L117,fresh,2026-09-29,N,Anthropologie,cardigan sweater,insufficient information,low,N,no condition stated & no quality details to make a determination
 L118,fresh,2026-09-29,N,Caballero,dress,excellent,medium,N,notes that there are no visible/functional flaws to state
 L119,fresh,2026-09-29,N,Gucci,shoulder bag,fair,high,N,"notes tears, peeling/sticky fabric, cracks on straps"
@@ -100,8 +100,8 @@ L123,fresh,2026-09-29,N,Diane Von Furstenberg,mule,insufficient information,low,
 L124,fresh,2026-09-29,N,Staud,loafer,good,low,N,states only lightly used but still in good condition
 L125,fresh,2026-09-29,N,Kelsi Dagger,sandal,excellent,low,N,claim without evidence; states condition 
 L126,fresh,2026-09-29,N,"Kendra Scott
-",necklace,good,low,N,only states condition but no quality details to make a determination
-L127,fresh,2026-09-29,N,Anthropologie,earrings,very good,low,N,only states condition but no quality details to make a determination
+",necklace,good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L127,fresh,2026-09-29,N,Anthropologie,earrings,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L128,fresh,2026-09-29,N,Tiffany & Co.,bracelet,very good,medium,N,hairline scratches along metal described as only issues & can be removed by a jewler 
 L129,fresh,2026-09-29,N,Chanel,heel,good,medium,N,describes damage to one of the heels & then scuffing
 L130,fresh,2026-09-29,N,Cloud Nine,moccasin,pristine,high,N,"comes new in box w/ all, never been worn"
@@ -116,9 +116,39 @@ L139,fresh,2026-09-29,N,Talbots,jacket,excellent,low,N,stated as worn but still 
 L141,fresh,2026-09-29,N,Brandy Melville,top,excellent,low,N,new without tags
 L142,fresh,2026-09-29,N,Michael Kors,shoulder bag,very good,medium,N,describes only used a handful of times & bag is in clean condition
 L143,fresh,2026-09-29,N,Kate Spade,bucket bag,good,low,N,states hardware scratches & small stains
-L144,fresh,2026-09-29,N,Longchamp,top handle,very good,low,N,only states condition but no quality details to make a determination
-L145,fresh,2026-09-29,N,Coach,shoulder bag,very good,low,N,only states condition but no quality details to make a determination
+L144,fresh,2026-09-29,N,Longchamp,top handle,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L145,fresh,2026-09-29,N,Coach,shoulder bag,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L147,fresh,2026-09-29,N,Michael Kors,sandal,fair,low,N,claim without evidence; only states condition but no quality details to make a determination
 L148,fresh,2026-09-29,N,Kay Jewelers,necklace,very good,low,N,states as barely worn
-L149,fresh,2026-09-29,N,Alex & Ani,bracelet,very good,low,N,only states condition but no quality details to make a determination
+L149,fresh,2026-09-29,N,Alex & Ani,bracelet,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L150,fresh,2026-09-29,N,Vivienne Westwood,ring,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L001,blind-relabel,2026-10-06,N,Courreges,mini skirt,pristine,high,N,states never been worn & tag still in place
+L029,blind-relabel,2026-10-06,N,Dior,heel,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L041,blind-relabel,2026-10-06,N,Loewe,crossbody,good,high,N,"states wear very clearly & in detailed language across interior, exterior etc."
+L052,blind-relabel,2026-10-06,N,Unbranded,ring,insufficient information,low,N,no condition stated & no quality details to make a determination
+L058,blind-relabel,2026-10-06,N,Tiffany & Co.,necklace,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L009,blind-relabel,2026-10-06,N,Unbranded,dress,good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L044,blind-relabel,2026-10-06,N,Louis Vuitton,tote,good,medium,Y,on fence b/n good & very good but listing states just good; explains locations & quality of wear and tear
+L019,blind-relabel,2026-10-06,N,Laredo,boot,good,high,N,explains locations & quality of wear and tear
+L057,blind-relabel,2026-10-06,N,Tiffany & Co.,bracelet,excellent,low,N,claim without evidence; only states condition but no quality details to make a determination
+L022,blind-relabel,2026-10-06,N,& Other Stories,flat,pristine,low,N,claim without evidence; only states condition but no quality details to make a determination
+L060,blind-relabel,2026-10-06,N,Tiffany & Co.,ring,excellent,medium,N,states only faint scratching as item's issue
+L016,blind-relabel,2026-10-06,N,Fendi,heel,insufficient information,low,N,no condition stated & no quality details to make a determination
+L006,blind-relabel,2026-10-06,N,Chanel,skirt,insufficient information,low,N,no condition stated & no quality details to make a determination
+L032,blind-relabel,2026-10-06,N,Chanel,tote,insufficient information,low,N,no condition stated & no quality details to make a determination
+L007,blind-relabel,2026-10-06,N,Citizens of Humanity,jeans,excellent,high,N,new but no tags & descibes it as a sample item that may have irregularities but no issues provided by wear/tear
+L047,blind-relabel,2026-10-06,N,Bottega Veneta,crossbody,good,high,N,"explains wear/tear in great detail across hardware, interior, exterior, fabrin"
+L042,blind-relabel,2026-10-06,N,Gucci,tote,good,high,N,"detailed explanation of wear/tear; disagree w/ listing clasification condition as ""Very good"""
+L034,blind-relabel,2026-10-06,N,Strathberry,shoulder bag,insufficient information,low,N,no condition stated & no quality details to make a determination
+L027,blind-relabel,2026-10-06,N,Rachel Comey,sandal,fair,high,N,describes significant wear and signs of use
+L054,blind-relabel,2026-10-06,N,Jil Sander,necklace,pristine,low,N,claim without evidence; only states condition but no quality details to make a determination
+L012,blind-relabel,2026-10-06,N,Abercrombie,jacket,excellent,medium,N,describes no signs of wear and says almost like new
+L045,blind-relabel,2026-10-06,N,Kate Spade,crossbody,excellent,medium,N,describes no signs of wear and says almost like new
+L005,blind-relabel,2026-10-06,N,Johnny Was,dress,pristine,low,N,claim without evidence; only states condition but no quality details to make a determination
+L018,blind-relabel,2026-10-06,N,New Balance,sneaker,insufficient information,low,N,no condition stated & no quality details to make a determination
+L049,blind-relabel,2026-10-06,N,Coach,top handle,good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L025,blind-relabel,2026-10-06,N,The Row,loafer,excellent,low,N,claim without evidence; only states condition & says only worn once but no quality details to make a determination
+L035,blind-relabel,2026-10-06,N,JW Pei,shoulder bag,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L023,blind-relabel,2026-10-06,N,Brooks,sneaker,good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L002,blind-relabel,2026-10-06,N,Staud,dress,insufficient information,low,N,no condition stated & no quality details to make a determination
+L010,blind-relabel,2026-10-06,N,Burberry,jacket,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
