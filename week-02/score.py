@@ -1,3 +1,13 @@
+"""
+What this does = Score model predictions against the golden labels. 
+
+In = week-02/data/labels.csv, week-02/data/predictions_{model}.jsonl w/ model name passed on the command line
+Out = prints label, prediction, and match counts to the terminal
+
+What happens if predictions file is missing or counts don't match = a missing predictions file exits immediately with a 
+message naming the path it looked for; a match count other than 150 prints all three counts first, then exits.
+
+"""
 
 import argparse
 import csv
