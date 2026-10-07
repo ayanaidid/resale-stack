@@ -78,18 +78,6 @@ def load_done_ids(path):
     return done
 
 
-def score(labels, predictions):
-    """
-    Compare golden labels against model predictions and report agreement.
-
-    Will join labels.csv rows to predictions_{model}.jsonl rows by
-    listing_id, normalize brand/subcategory/condition_tier (via
-    week-02/normalize.py) on both sides, and report per-field accuracy plus
-    a confusion matrix for condition_tier. Not implemented yet.
-    """
-    raise NotImplementedError
-
-
 def main():
     parser = argparse.ArgumentParser(description="Run extract_listing over the labeled golden set.")
     parser.add_argument("model", help="Model name to pass to extract_listing, e.g. claude-sonnet-5")
