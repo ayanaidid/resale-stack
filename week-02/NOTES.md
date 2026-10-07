@@ -93,3 +93,32 @@ The re-label had roughly three weeks of separation from the original grading,
 with Week 1 files closed and rows shuffled. Intra-rater agreement on these 30
 should be read as an upper bound on consistency, since residual memory can't be
 ruled out.
+
+---
+## Wednesday, Oct 7, 2026
+*Spec mismatch found; aligned-prompt experiment*
+Stage 4 split the 150 labels by the `claim without evidence` tag. The 37 tagged
+rows are 25% of the set but account for about two-thirds of every model's
+"declined where I graded" (Sonnet 19/29, Haiku 21/30, Opus 25/38). Tagged
+agreement is 16–22%; untagged is 58–71%.
+
+Cause, as best I can tell: two documents I wrote contradict each other. My
+Week 2 labeling instructions say a bare condition claim is gradeable — take the
+claim, cap below Pristine, low confidence. The extraction prompt, written in
+Week 1, tells the model to grade only described wear, not repeat platform
+labels, and decline otherwise. The models are following their instructions.
+
+Which is the spec: the labeling instructions. They're the newer, deliberate
+decision. The prompt carries the old bar, so aligning it fixes a bug rather
+than tuning for a better score.
+
+This is still a correlation. Bare-claim listings might simply be harder to
+grade. To separate the two explanations: I'll re-run only the 37 tagged rows with a
+v2 prompt whose instructions match my bare-claims rule. Guardrails: the Week 1
+prompt is not edited; v2 output goes to separate files; one run, no further
+prompt changes after seeing results; original results remain the headline.
+
+Prediction (written before running):
+- Tagged agreement rises from 16–22% to at least 50%
+    Why? = chosing 60% because where there already was agreement models match my labeling 58-70% of the time so guessing that by fixing the spec and using the bare claims from the raw descriptions would increase the matches towards the same range.
+- Largest gain: Opus, because it declined the most tagged rows (25 of 37) and appears to follow the prompt most literally. If it follows the updated instruction just as literally, it has the most room to improve.
