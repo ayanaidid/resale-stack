@@ -76,7 +76,7 @@ def main():
     print(f"Predictions: {len(predictions)}")
     print(f"Matched: {len(shared_ids)}")
 
-    expected = {"v1": 150, "v2": 37}[args.prompt_version]
+    expected = 150
     if len(shared_ids) != expected:
         raise SystemExit(f"Expected {expected} matched listings — stopping.")
     n = len(shared_ids)
