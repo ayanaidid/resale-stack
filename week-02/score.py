@@ -60,9 +60,11 @@ def group_stats(ids, labels, predictions):
 def main():
     parser = argparse.ArgumentParser(description="Score model predictions against the golden labels.")
     parser.add_argument("model", help="Model whose predictions to score, e.g. claude-sonnet-5")
+    parser.add_argument("--prompt-version", choices=["v1", "v2"], default="v1")
     args = parser.parse_args()
 
-    predictions_path = HERE / "data" / f"predictions_{args.model}.jsonl"
+    suffix = "" if args.prompt_version == "v1" else f"_{args.prompt_version}"
+    predictions_path = HERE / "data" / f"predictions_{args.model}{suffix}.jsonl"
     if not predictions_path.exists():
         raise SystemExit(f"No predictions found at {predictions_path}")
 
@@ -74,8 +76,10 @@ def main():
     print(f"Predictions: {len(predictions)}")
     print(f"Matched: {len(shared_ids)}")
 
-    if len(shared_ids) != 150:
-        raise SystemExit("Expected 150 matched listings — stopping.")
+    expected = {"v1": 150, "v2": 37}[args.prompt_version]
+    if len(shared_ids) != expected:
+        raise SystemExit(f"Expected {expected} matched listings — stopping.")
+    n = len(shared_ids)
 
     brand_matches = 0
     for lid in shared_ids:
@@ -84,7 +88,7 @@ def main():
         if mine == theirs:
             brand_matches += 1
 
-    print(f"Brand agreement: {brand_matches}/150")
+    print(f"Brand agreement: {brand_matches}/{n}")
 
     subcategory_matches = 0
     for lid in shared_ids:
@@ -93,7 +97,7 @@ def main():
         if mine == theirs:
             subcategory_matches += 1
 
-    print(f"Subcategory agreement: {subcategory_matches}/150")
+    print(f"Subcategory agreement: {subcategory_matches}/{n}")
 
     tier_matches = 0
     for lid in shared_ids:
@@ -102,7 +106,7 @@ def main():
         if mine == theirs:
             tier_matches += 1
 
-    print(f"Tier agreement: {tier_matches}/150")
+    print(f"Tier agreement: {tier_matches}/{n}")
 
     matrix = Counter()
     invalid = 0
@@ -130,7 +134,7 @@ def main():
 
     diagonal = sum(matrix[(t, t)] for t in TIER_ORDER)
     print(f"Diagonal: {diagonal}  (should equal tier agreement: {tier_matches})")
-    print(f"Grid total + invalid: {sum(matrix.values()) + invalid}  (should be 150)")
+    print(f"Grid total + invalid: {sum(matrix.values()) + invalid}  (should be {n})")
 
     tagged = {lid for lid in shared_ids
               if "claim without evidence" in labels[lid]["label_notes"].lower()}
@@ -138,9 +142,11 @@ def main():
     print(f"Tagged 'claim without evidence': {len(tagged)}  |  Untagged: {len(untagged)}")
 
     for name, ids in [("Tagged", tagged), ("Untagged", untagged)]:
-        n, agree, declined = group_stats(ids, labels, predictions)
-        print(f"{name:>9}: agreement {agree}/{n} ({agree/n:.0%}), "
-              f"model declined where you graded {declined}/{n}")
+        if not ids:
+            continue
+        group_n, agree, declined = group_stats(ids, labels, predictions)
+        print(f"{name:>9}: agreement {agree}/{group_n} ({agree/group_n:.0%}), "
+              f"model declined where you graded {declined}/{group_n}")
 
 
 if __name__ == "__main__":
