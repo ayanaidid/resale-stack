@@ -82,6 +82,10 @@ def main():
     parser = argparse.ArgumentParser(description="Run extract_listing over the labeled golden set.")
     parser.add_argument("model", help="Model name to pass to extract_listing, e.g. claude-sonnet-5")
     parser.add_argument("--limit", type=int, default=None, help="Only process the first N joined rows (for testing)")
+    parser.add_argument("--prompt-version", choices=["v1", "v2"], default="v1",
+                        help="Grading instructions to use (default v1)")
+    parser.add_argument("--tagged-only", action="store_true",
+                        help="Only run rows tagged 'claim without evidence'")
     args = parser.parse_args()
 
     if args.model not in MODEL_RATES:
@@ -96,10 +100,18 @@ def main():
     if len(rows) != 150:
         print(f"WARNING: expected 150 joined rows, got {len(rows)}")
 
+    if args.tagged_only:
+        with LABELS_CSV.open("r", encoding="utf-8", newline="") as f:
+            tagged = {row["listing_id"] for row in csv.DictReader(f)
+                      if "claim without evidence" in row["label_notes"].lower()}
+        rows = [row for row in rows if row["listing_id"] in tagged]
+        print(f"Tagged-only: {len(rows)} rows")
+
     if args.limit is not None:
         rows = rows[: args.limit]
 
-    output_path = HERE / "data" / f"predictions_{args.model}.jsonl"
+    suffix = "" if args.prompt_version == "v1" else f"_{args.prompt_version}"
+    output_path = HERE / "data" / f"predictions_{args.model}{suffix}.jsonl"
 
     done_ids = load_done_ids(output_path)
     if done_ids:
@@ -117,9 +129,10 @@ def main():
             listing_id = row["listing_id"]
             print(f"[{i}/{len(todo)}] {listing_id} ...", end=" ", flush=True)
             try:
-                result = call_with_retry(row, model=args.model)
+                result = call_with_retry(row, model=args.model, prompt_version=args.prompt_version)
             except Exception as e:
-                logging.error("listing_id=%s model=%s error=%s", listing_id, args.model, e)
+                logging.error("listing_id=%s model=%s prompt=%s error=%s",
+                              listing_id, args.model, args.prompt_version, e)
                 failed += 1
                 print("FAILED (logged to errors.log)")
                 continue
