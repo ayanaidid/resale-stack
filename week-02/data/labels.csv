@@ -29,7 +29,7 @@ L030,fresh,2026-09-28,N,Nike,sneaker,good,low,N,claim without evidence; only sta
 L031,fresh,2026-09-28,N,Balenciaga,shoulder bag,insufficient information,low,N,no quality details to make a determination
 L033,fresh,2026-09-28,N,Coach,shoulder bag,insufficient information,low,N,no condition stated or quality details to make a determination
 L036,fresh,2026-09-28,N,Prada,crossbody,very good,low,Y,says minimal wear & describes slight hardware scratches but not a ton of detail to improve confidence score
-L037,fresh,2026-09-28,N,Balenciaga,shoulder bag,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L037,fresh,2026-09-28,N,Balenciaga,shoulder bag,excellent,low,N,"AMENDED 2026-10-09 (label error from review): claim without evidence; bare claim 'Like New' → take the claim, capped below Pristine = Excellent. Was very good (graded conservatively against my own rule). | original note: claim without evidence; only states condition but no quality details to make a determination"
 L038,fresh,2026-09-28,N,Coach,shoulder bag,good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L040,fresh,2026-09-28,N,Prada,shoulder bag,good,low,Y,minimal description but does describe lightly used with likely signs of wear
 L046,fresh,2026-09-28,N,Chanel,shoulder bag,very good,medium,N,describes faint fabric wear and hardware scratches and no major flaws
@@ -39,7 +39,7 @@ L051,fresh,2026-09-28,N,Dior,top handle,good,low,N,mentions only gently used w/ 
 L053,fresh,2026-09-28,N,Daniella Design,necklace,insufficient information,low,N,no condition or quality claims provided at alll
 L055,fresh,2026-09-28,N,Unbranded,earrings,insufficient information,low,N,no condition or quality claims provided at alll
 L059,fresh,2026-09-28,N,Celine,necklace,good,medium,N,explains loss of plating throughout item implicating quality
-L061,fresh,2026-09-28,N,Van Cleef & Arpels,earrings,very good,medium,N,only quality provided is faint scratching
+L061,fresh,2026-09-28,N,Van Cleef & Arpels,earrings,excellent,medium,N,AMENDED 2026-10-09 (label error from review): only wear is a faint scratch on hardware; jewelry allows extremely superficial wear at Excellent. Was very good. | original note: only quality provided is faint scratching
 L062,fresh,2026-09-28,N,Bottega Veneta,shoulder bag,insufficient information,low,N,no condition or quality claims provided at alll
 L063,fresh,2026-09-28,N,Fendi,shoulder bag,insufficient information,low,N,no condition or quality claims provided at all
 L064,fresh,2026-09-28,N,Tory Burch,shoulder bag,insufficient information,low,N,no condition or quality claims provided at all
@@ -58,8 +58,8 @@ L077,fresh,2026-09-28,N,Ulla Johnson,flat,insufficient information,low,N,no cond
 L078,fresh,2026-09-28,N,Cartier,bracelet,insufficient information,low,N,no condition or quality claims provided at all
 L079,fresh,2026-09-28,N,Unbranded,earrings,insufficient information,low,N,no condition or quality claims provided at all
 L081,fresh,2026-09-28,N,Lagos,bracelet,insufficient information,low,N,no condition or quality claims provided at all
-L082,fresh,2026-09-28,N,Hermes,tote,very good,medium,Y,lots of quality descriptions but depending on severity of damage between good and very good
-L083,fresh,2026-09-28,N,Salvatore Ferragamo,top handle,very good,medium,Y,lots of quality descriptions but depending on severity of damage between good and very good
+L082,fresh,2026-09-28,N,Hermes,tote,good,medium,Y,"AMENDED 2026-10-09 (label error from review): 5 marks (frayed stitching, scratches, scuffs, surface wear, marks) and frayed stitching is structural → Good under the rubric as written. Was very good; rubric amendment to 'more than 5' rejected as post-hoc. | original note: lots of quality descriptions but depending on severity of damage between good and very good"
+L083,fresh,2026-09-28,N,Salvatore Ferragamo,top handle,good,medium,Y,"AMENDED 2026-10-09 (label error from review): 5+ cosmetic marks (edge wear x2, marks, faint corner wear, faint scuffs, scratches, interior scuffs/marks) → Good. Was very good. | original note: lots of quality descriptions but depending on severity of damage between good and very good"
 L084,fresh,2026-09-28,N,Chanel,shoulder bag,excellent,medium,N,quality declares protective plastic still in tact on hardware and no other flaws
 L085,fresh,2026-09-28,N,Gucci,shoulder bag,good,medium,N,lots of details including description of tear bumping this to good w/ addition of 4+ issues
 L086,fresh,2026-09-28,N,Louis Vuitton,shoulder bag,good,medium,Y,lots of details including description w/ addition of 4+ issues but only description of marks could be minor so on fence with very good
@@ -71,7 +71,7 @@ L091,fresh,2026-09-28,N,Vince,sweater,very good,high,N,describes inspection of i
 L093,fresh,2026-09-28,N,Ralph Lauren,pants,fair,high,N,"condition description labled as ""flawed gem"" and says that repairs may be needed meaning functionality is impaired"
 L094,fresh,2026-09-28,N,Veronica Beard,top,excellent,high,N,describes no signs of being worn or washed upon inspection
 L095,fresh,2026-09-28,N,Riani,blouse,good,medium,Y,describes that wear is visible (minor stain); with only that detail could also be very good but stains usually are more intense damage
-L096,fresh,2026-09-28,N,Tory Burch,heel,very good,medium,Y,describes only minor scuffing but severity not included meaning boundary case b/n good
+L096,fresh,2026-09-28,N,Tory Burch,heel,good,low,Y,AMENDED 2026-10-09 (label error from review): claim without evidence; 'good' condition with only generic 'scratches or scuffs' → bare claim taken. Was very good (ignored my own bare-claims rule). | original note: describes only minor scuffing but severity not included meaning boundary case b/n good
 L097,fresh,2026-09-28,N,Toteme,mule,excellent,low,N,only describes shows no signs of being worn but not other qualifing details = low confidence
 L098,fresh,2026-09-28,N,Dr. Martens,flat,very good,medium,N,describes wear but condition still acceptable
 L099,fresh,2026-09-28,N,See By Chloe,boot,excellent,medium,N,indicates inspection shows no signs of wear
@@ -79,7 +79,7 @@ L100,fresh,2026-09-28,N,Hermes,bracelet,very good,high,N,lots of quality descrip
 L101,fresh,2026-09-28,N,Rachel Gilbert,necklace,pristine,low,N,"AMENDED 2026-10-09: tags rule: original tags attached and no wear; tags not required for jewelry, so Pristine. Was excellent. | original note: indicates inspection shows no signs of wear and has original tags in tact"
 L103,fresh,2026-09-28,N,Polene,tote,excellent,low,N,never worn & comes with dustbag
 L104,fresh,2026-09-28,N,Balenciaga,shoulder bag,very good,medium,N,describes only light scratching to back of bag
-L105,fresh,2026-09-28,N,Louis Vuitton,shoulder bag,very good,medium,N,describes only one ink stain inside of a pocket
+L105,fresh,2026-09-28,N,Louis Vuitton,shoulder bag,good,medium,N,AMENDED 2026-10-09 (label error from review): described wear beats the platform claim; interior ink stain → staining = Good regardless of mark count. Was very good. | original note: describes only one ink stain inside of a pocket
 L106,fresh,2026-09-28,N,Saint Laurent,top handle,good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L107,fresh,2026-09-28,N,Rat & Boa,maxi dress,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L108,fresh,2026-09-29,N,Prada,sweater,pristine,medium,N,AMENDED 2026-10-09: clothing tags rule: never worn with original tag meets Pristine for clothing. Was excellent. | original note: stated never worn w/ tags in tact
@@ -94,11 +94,11 @@ L119,fresh,2026-09-29,N,Gucci,shoulder bag,fair,high,N,"notes tears, peeling/sti
 L120,fresh,2026-09-29,N,Prada,shoulder bag,fair,low,N,states condition and that magnet isn't strong any longer to keep bag closed
 L121,fresh,2026-09-29,N,Jil Sander,clutch,very good,medium,N,notes only a few blemishes & only worn a few times total
 L122,fresh,2026-09-29,N,Michael Kors,shoulder bag,good,low,N,mentions all items from this seller are lightly pre-owned & cleaned before sales
-L123,fresh,2026-09-29,N,Diane Von Furstenberg,mule,insufficient information,low,N,no condition stated & no quality details to make a determination
+L123,fresh,2026-09-29,N,Diane Von Furstenberg,mule,excellent,low,N,AMENDED 2026-10-09 (label error from review): claim without evidence; bare claim in title 'Excellent Condition' → Excellent. Was insufficient information (missed the title claim). | original note: no condition stated & no quality details to make a determination
 L124,fresh,2026-09-29,N,Staud,loafer,good,low,N,states only lightly used but still in good condition
 L125,fresh,2026-09-29,N,Kelsi Dagger,sandal,excellent,low,N,claim without evidence; states condition
 L126,fresh,2026-09-29,N,Kendra Scott,necklace,good,low,N,claim without evidence; only states condition but no quality details to make a determination
-L127,fresh,2026-09-29,N,Anthropologie,earrings,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L127,fresh,2026-09-29,N,Anthropologie,earrings,excellent,low,N,AMENDED 2026-10-09 (label error from review): claim without evidence; bare claim 'Like New' → Excellent. Was very good. | original note: claim without evidence; only states condition but no quality details to make a determination
 L128,fresh,2026-09-29,N,Tiffany & Co.,bracelet,very good,medium,N,hairline scratches along metal described as only issues & can be removed by a jewler
 L129,fresh,2026-09-29,N,Chanel,heel,good,medium,N,describes damage to one of the heels & then scuffing
 L130,fresh,2026-09-29,N,Cloud Nine,moccasin,pristine,high,N,"comes new in box w/ all, never been worn"
@@ -145,7 +145,7 @@ L005,blind-relabel,2026-10-06,N,Johnny Was,dress,pristine,low,N,claim without ev
 L018,blind-relabel,2026-10-06,N,New Balance,sneaker,insufficient information,low,N,no condition stated & no quality details to make a determination
 L049,blind-relabel,2026-10-06,N,Coach,top handle,good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L025,blind-relabel,2026-10-06,N,The Row,loafer,excellent,low,N,claim without evidence; only states condition & says only worn once but no quality details to make a determination
-L035,blind-relabel,2026-10-06,N,JW Pei,shoulder bag,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
+L035,blind-relabel,2026-10-06,N,JW Pei,shoulder bag,fair,low,N,"AMENDED 2026-10-09 (label error from review): 'zipper is a little difficult, but works fine' = functional impairment (rubric's Fair example: a zipper noticeably harder to close). Was very good (missed the zipper note). | original note: claim without evidence; only states condition but no quality details to make a determination"
 L023,blind-relabel,2026-10-06,N,Brooks,sneaker,good,low,N,claim without evidence; only states condition but no quality details to make a determination
 L002,blind-relabel,2026-10-06,N,Staud,dress,insufficient information,low,N,no condition stated & no quality details to make a determination
 L010,blind-relabel,2026-10-06,N,Burberry,jacket,very good,low,N,claim without evidence; only states condition but no quality details to make a determination
