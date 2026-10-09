@@ -6,6 +6,24 @@ Tier names and the broad category-specific criteria are aligned to The RealReal'
 
 **Written before any prompt or code.** The seller-speak predictions in Part 2 are pre-registered: they're my read on each phrase, recorded before seeing what the model does with them.
 
+
+## Definitions
+
+**Structural flaws** damage the material or construction: tears, cracks, holes,
+seam separation, frayed or broken stitching, peeling leather or edges,
+misshapen or deformed areas.
+
+**Cosmetic flaws** affect only the surface: scratches, scuffs, marks, stains,
+fading, discoloration, creases, plating wear, tarnish.
+
+**Functional impairment** means a part works worse than intended but still
+works: a zipper noticeably harder to close, a weakening magnetic closure, a
+strap attachment under visible stress, hardware that no longer sits flush.
+
+Count each distinct flaw by location (frayed stitching on the exterior and on
+the interior are two flaws).
+*Added 2026-10-09.*
+
 ---
 
 ## Part 1 — The five tiers
@@ -13,10 +31,18 @@ Tier names and the broad category-specific criteria are aligned to The RealReal'
 | Tier | Definition | Observable criteria | Boundary case |
 |---|---|---|---|
 | **Pristine** | As-new condition with complete original packaging. No visible wear, and, depending on category, includes the full set of tags/box/dust bag. | • No scratches, scuffs, or visible wear anywhere on the item<br>• All functional elements work seamlessly (zippers, clasps, buckles, closures)<br>• Handbags/shoes/accessories: tags attached, box included, dust bag included<br>• Jewelry: no wear, tags not required<br>• Clothing: tags attached | An item that is visually and functionally flawless — zero wear, all hardware perfect — but is missing one piece of original packaging (e.g. tags detached but not lost, or no dust bag). Under this rubric that item does **not** qualify as Pristine, even though it looks brand new — it drops to Excellent. |
+
 | **Excellent** | Visually and functionally like-new, but missing some or all original packaging. No meaningful wear. | • No visible wear, scuffs, or damage — same visual bar as Pristine<br>• All functional elements work seamlessly<br>• Handbags/shoes/accessories: missing tags and/or box and/or dust bag<br>• Jewelry: only extremely superficial wear allowed (e.g. faint surface scratches), even without full packaging expectation<br>• Clothing: unworn but tags not attached | An item with the first trace of actual use — one small, faint scuff, or a barely visible fold line in the leather from being carried once or twice — as opposed to zero wear at all. If the wear is visible but minor and isolated (one mark, not a pattern of use), it still reads as Excellent. Once there are multiple small marks or the wear is spread across the item rather than a single spot, it tips to Very Good. |
+
 | **Very Good** | Clear signs of having been used, but wear is light and doesn't compromise the item's overall look or function. | • Handbags/accessories: lightly worn corners, light scratches, some interior wear (light staining, minor marks)<br>• Shoes: light sole wear, faint creasing at flex points<br>• Jewelry: minor scratches, small nicks, small dents<br>• Clothing: light markings or fading<br>• All function still works normally — no repairs needed, nothing broken | An item stays Very Good as long as it has **no more than four cosmetic marks**, each subtle enough not to be immediately noticeable, **and** no structural or functional issue of any kind. The moment either threshold is crossed — a fifth mark, or even one flaw that is structural/functional rather than cosmetic — it moves to Good. |
+
 | **Good** | Clearly used, well-loved condition. Functionality intact throughout, but this reads unmistakably as a second-hand item, not a lightly-used one. | • Wear present in both severity and quantity — several flaws, or flaws severe enough to be immediately noticeable<br>• Interior: visible staining, marks of use, lining wear<br>• Hardware: visible wear, tarnish, or discoloration<br>• Fabric: pilling, noticeable discoloration<br>• Still fully functional — nothing broken, no repairs needed | An item crosses from Very Good into Good by **either** of two paths: (1) a single flaw that affects **structure** rather than just surface — one visibly worn or misshapen corner — regardless of how few other marks are present; or (2) **five or more cosmetic marks**, even if each is individually subtle, purely on accumulation. Path (1) dominates: one structural flaw outweighs several purely cosmetic ones. |
+
 | **Fair** | Visible structural damage and/or repairs, but the item is still fully usable. The last tier before an item is no longer sellable in normal condition. | • Structural damage present (not just cosmetic), but not severe enough to make the item unusable<br>• Visible repairs allowed (e.g. re-stitching, hardware replacement), but not major reconstructive work like patches or panel replacement<br>• Multiple serious flaws may be present simultaneously<br>• Still functional for a buyer's practical use | The line from Good to Fair is crossed when wear starts to affect **function**, not just structure or appearance — a zipper noticeably harder to close, a strap attachment under visible stress, hardware that no longer sits flush. The item stays Fair rather than dropping below sellable as long as it can still fully perform its original purpose (a bag still closes and carries, a shoe can still be worn): **functional impairment without functional failure.** |
+    FAIR — Definition: Wear that impairs function, extensive structural damage, or a stated need for repair — while the item can still perform its purpose.
+    - Criteria: any one of (1) functional impairment; (2) three or more structural flaws, even if everything works; (3) the listing states the item needs or may need repair or refurbishment, including a platform's own statement to that effect. Visible repairs allowed.
+    - Boundary: one or two structural flaws with no functional impact and no stated need for repair stay Good. *Amended 2026-10-09.*
+    - the listing states the item needs, or may need, repair or refurbishment.
 
 ### Note on the Very Good / Good line
 
