@@ -86,7 +86,7 @@ C --Fair, has been used feeling obviously , but still acceptable
 
 D --Poor, has damages, but still usable
 
-J --Junk items",,
+J --Junk items",rubric gap,the number of flaws listed on the item align more the fair guidelines although on border because function issues are not stated which are key to fair labeling
 L017,excellent,insufficient information,insufficient information,insufficient information,Y,low,N,mentions inclusion of packaging & dustbag,"Soeur
 
 Leather Flats
@@ -101,7 +101,7 @@ Platforms
 Gender
 Women
 Item #
-WSEOU23785",,
+WSEOU23785",label error,there are not wear details whatsoever so model is correct against rubric
 L028,very good,excellent,excellent,excellent,Y,low,N,claim without evidence; only states condition but no quality details to improve confidence,Eugenia Kim Patent Leather flats,"Eugenia Kim “Matilda” Eelskin & Genuine Mink Fur Pointed Flats
 
 Without Original Box
@@ -143,7 +143,7 @@ Material:Patent leather
 Colour:Black
 Size:39 EUsize guide
 Location:United States, from the seller _ToddOll
-Reference:70860497",,
+Reference:70860497",rubric gap,didn't follow bare claims rule in rubic where this was listed as very good -- model was generous | Updated 2026-10-09: conflicting statements ('New Without Original Box' vs 'Very good condition'); no rule existed for the models to follow.
 L030,good,very good,very good,very good,Y,low,N,claim without evidence; only states condition but no quality details to improve confidence,Nike air force 1 trainers,"Nike Air Force 1 Shadow Colorblock Houndstooth Low Top Running Sneakers Shoes 10
 
 Size: 10
@@ -161,7 +161,7 @@ Material:Fur
 Colour:Multicolour
 Size:10 USsize guide
 Location:United States, from the seller Brie
-Reference:69991629",,
+Reference:69991629",rubric gap,"listing even for bare claims rule has 2 conditions mentioned -- if two conditions mentioned in a listing, should go with the lower of the 2 for safety"
 L037,very good,excellent,excellent,excellent,Y,low,N,claim without evidence; only states condition but no quality details to make a determination,Balenciaga The City Bag Black Leather,"Size
 OS
 Condition
@@ -178,7 +178,7 @@ Style Tags
 The City
 Black
 Balenciaga
-Balenciaga The City Bag Black Leather Authentic Guaranteed Fast Shipping and Carefully Packaged Includes a Certificate of Authenticity COA",,
+Balenciaga The City Bag Black Leather Authentic Guaranteed Fast Shipping and Carefully Packaged Includes a Certificate of Authenticity COA",label error,"tough because condition is claimed as ""like new"" which aligns with excellent but there is no evidence in listing to back it up which is why i went with ""very good"" on the safer side"
 L048,good,fair,fair,fair,Y,high,N,lots of description of all parts of the bag giving very clear details on quality expectations,"Gucci
 GG Supreme Monogram Textured Dollar Calfskin Web Small Ophidia Dome Shoulder Bag Beige Ebony New Acero","Exterior: Corner wear, scuffs, edge wear, pilling, frayed stitch(es), surface wear
 Handle: Edge wear, scuffs
@@ -195,7 +195,7 @@ Follow this item for alerts. Gucci is a registered trademark of Gucci. FASHIONPH
 Base length: 9 in
 Height: 7.25 in
 Width: 3.25 in
-Drop: 19.75 in",,
+Drop: 19.75 in",rubric gap,there is no mention of functional damage to the bag just cosmetic so I had labeled as good -- but another edge case
 L061,very good,excellent,excellent,excellent,Y,medium,N,only quality provided is faint scratching,"Van Cleef & Arpels
 18K Yellow Gold Mother of Pearl Vintage Alhambra Earrings","Hardware: Faint scratch(es)
 
@@ -203,7 +203,7 @@ Comes With: FASHIONPHILE Certificate of Authenticity, pouch
 
 Item #: 1876510
 
-This is an authentic pair of VAN CLEEF & ARPELS 18K Yellow Gold Mother of Pearl Vintage Alhambra Earrings. The earrings are crafted of 18 karat yellow gold and feature an Alhambra clover motif set with mother of pearl framed by beaded detail.",,
+This is an authentic pair of VAN CLEEF & ARPELS 18K Yellow Gold Mother of Pearl Vintage Alhambra Earrings. The earrings are crafted of 18 karat yellow gold and feature an Alhambra clover motif set with mother of pearl framed by beaded detail.",label error,given only wear described is a light scratch model was correct in label
 L068,insufficient information,pristine,pristine,pristine,Y,low,N,no condition or quality claims provided at all,"Fendi
 Animal Print Ski Pants w/ Tags","Fendi Ski Pants
 Brown
@@ -229,7 +229,7 @@ Leg Opening
 Gender
 Women
 Fabric
-100% Polyester; Lining 100% Polyester; Combo 100% Polyester",,
+100% Polyester; Lining 100% Polyester; Combo 100% Polyester",spec mismatch,"there is no wear information provided at all for the model to make a judgement here | Updated 2026-10-09: my labeling rules and the v2 prompt disagree on packaging/tags; the prompt says packaging counts as evidence, so the models followed it."
 L083,very good,good,good,good,Y,medium,Y,lots of quality descriptions but depending on severity of damage between good and very good,"Salvatore Ferragamo
 Calfskin Medium Hug Bag Black","Handle: Edge wear
 Exterior: Edge wear, marks, faint corner wear, faint scuffs
@@ -238,7 +238,7 @@ Interior: Scuffs, marks
 
 Comes With: FASHIONPHILE Certificate of Authenticity, dust bag, strap, bag charm
 
-This is an authentic SALVATORE FERRAGAMO Calfskin Medium Hug Bag in Black. This stylish top handle bag is crafted of calfskin leather in black with wrap around straps with gancini clasps. It features gold hardware, rolled leather handles, and an optional shoulder strap. The bag has an open top and a leather interior with a zipper pocket",,
+This is an authentic SALVATORE FERRAGAMO Calfskin Medium Hug Bag in Black. This stylish top handle bag is crafted of calfskin leather in black with wrap around straps with gancini clasps. It features gold hardware, rolled leather handles, and an optional shoulder strap. The bag has an open top and a leather interior with a zipper pocket",label error,"there are 5 or more cosmetic marks which lands item into ""good"""
 L096,very good,good,good,good,Y,medium,Y,describes only minor scuffing but severity not included meaning boundary case b/n good,"Tory Burch
 Size 10
 Heels","Condition
@@ -251,7 +251,7 @@ Item details
 Loafers, black, size 10 m, medium width
 Size & fit
 Size 10 
-Measured at 2.25"" heel height (approx.) ",,
+Measured at 2.25"" heel height (approx.) ",label error,i ignored the bare claims rule myself - should be good
 L105,very good,good,good,good,Y,medium,N,describes only one ink stain inside of a pocket,Louis Vuitton Sistina leather handbag,"Description
 Louis Vuitton Shoulder Bag Sistina GM in Brown Damier Ebene and Golden Brass hardware. Ink stain in one inside pocket.
 
@@ -272,7 +272,7 @@ Width:8 in
 Height:14 in
 Depth:6 in
 Sold with
-Dust bag",,
+Dust bag",label error,"model ignored bare claim rule BUT the mark described is interior staining which does fall into the ""Good"" definition -- where do we land on this? wear trumps bare claim? FOLLOW THE RUBRIC -- staining = good "
 L108,excellent,pristine,pristine,pristine,Y,low,N,stated never worn w/ tags in tact,Prada Cashmere Jumper,"Description
 Prada Yellow Cashmere Crewneck.
 Size: 40 IT.
@@ -290,7 +290,7 @@ Material:Cashmere
 Color:Yellow
 Size:40 ITsizing guide
 Location:Vestiaire Collective United States
-Reference:71380013",,
+Reference:71380013",label error,follows rubric - i was conservative in my labeling
 L109,excellent,pristine,pristine,pristine,Y,medium,N,new with tags & never worn,Toteme Ardenza cashmere maxi skirt,"Description
 NWT Toteme Long Knit Cashmere Lyocell Waistband Column Midi Maxi Skirt White
 
@@ -311,7 +311,7 @@ Material:Cashmere
 Color:White
 Size:L Internationalsizing guide
 Location:United States, from the seller LK
-Reference:71308769",,
+Reference:71308769",label error,follows rubric - i was conservative in my labeling
 L123,insufficient information,excellent,excellent,excellent,Y,low,N,no condition stated & no quality details to make a determination,Diane Von Furstenberg Dark Brown Leather Mules Sz 8. Excellent Condition.,"Size
 8
 
@@ -325,7 +325,7 @@ Shoes
 Mules & Clogs
 Brand
 Diane Von Furstenberg
-Chic and versatile dark brown leather mules. Ideal for elevating any outfit. 4 1/2 patent leather heel.",,
+Chic and versatile dark brown leather mules. Ideal for elevating any outfit. 4 1/2 patent leather heel.",label error,bare claim is made in the title which should be followed
 L127,very good,excellent,excellent,excellent,Y,low,N,claim without evidence; only states condition but no quality details to make a determination,New Anthropologie Gold Fringe Drop Earrings,"Size
 OS
 Condition
@@ -345,7 +345,7 @@ Style No. 79799060; Color Code: 
 
 Iron, brass, cubic zirconia
 Ear wire styling
-Imported",,
+Imported",label error,"following ""like new"" in rubric does land on excellent instead of very good"
 L142,very good,excellent,excellent,excellent,Y,medium,N,describes only used a handful of times & bag is in clean condition,Michael Kors bag,"BrandMichael Kors
 Condition
 Very good
@@ -353,7 +353,7 @@ Color
 Black
 Uploaded
 2 days ago
-Very clean!! Only used a handful of times, like new! This Michael Kors satchel in black is a sophisticated accessory that combines elegance with functionality. Crafted from premium materials, it features striking chain-link details on the handles (long strap is removable), adding a touch of modern flair. Its spacious interior and classic design make it an ideal choice for any occasion.",,
+Very clean!! Only used a handful of times, like new! This Michael Kors satchel in black is a sophisticated accessory that combines elegance with functionality. Crafted from premium materials, it features striking chain-link details on the handles (long strap is removable), adding a touch of modern flair. Its spacious interior and classic design make it an ideal choice for any occasion.",rubric gap,same issue where bare claim is made and there is some wear info but very minimal -- in this case would've had model default to bare claim 
 L034,insufficient information,excellent,excellent,excellent,Y,low,N,no condition stated & no quality details to make a determination,Strathberry Leather Shoulder Bag w/ Tags,"Strathberry Shoulder Bag
 Red Leather
 Gold-Tone Hardware
@@ -373,7 +373,7 @@ Depth
 Gender
 Women
 Item #
-STRAT23362",,
+STRAT23362",spec mismatch,"there is no wear information provided at all for the model to make a judgement here | Updated 2026-10-09: my labeling rules and the v2 prompt disagree on packaging/tags; the prompt says packaging counts as evidence, so the models followed it."
 L067,excellent,pristine,pristine,insufficient information,N,low,N,claim without evidence; there isn't any actual item quality descriptions except that it has dustbag+ included -- will label excellent but low confidence,"Hermès
 Toile Goeland & Swift Cargo Birkin 35","Hermès Top Handle Bag
 From the 2021 Collection
@@ -408,7 +408,7 @@ Included
 Size
 35cm
 Hardware
-Palladium-Plated",,
+Palladium-Plated",label error,"would actually say Opus is correct here not sonnet/haiku or myself --- there really isn't any information besides that packaging is present to make a determination on condition | Updated 2026-10-09: under the packaging rule, packaging alone is Insufficient information; Opus was right."
 L140,very good,good,excellent,excellent,N,medium,N,claim without evidence; labeled that its still in great shape with no defects but there are a few signs of wear,women’s leather jacket,"Condition
 Pre-owned - Good: This item has been gently used but is in good condition. It might have a few signs of wear, but all imperfections should be shown and described in the seller’s listing. See all condition definitionsopens in a new window or tab
 Outer Shell Material
@@ -460,7 +460,7 @@ Item description from the seller:
 women’s leather jacket in great shape no defects
 
 Top gun style Bombay jacket comes from non smoking home, size 40 in Europe.
-Soft lamb skin leather , No flaws, soft leather , zipper , great for motorcycle riders, clean in great condition.",,
+Soft lamb skin leather , No flaws, soft leather , zipper , great for motorcycle riders, clean in great condition.",rubric gap,"there is a bare claim, which likely should be the default for all models and me, but there is some wear description that explains only gently used item which lands towards the very good/excellent claims...in this level of ambiquity if claim is made likely best to default to it like sonnet did here | Updated 2026-10-09: conflicting condition statements ('Pre-owned - Good' vs 'great shape, no defects'), no rule existed at review time; later resolved by grade-to-the-lower."
 L065,insufficient information,excellent,pristine,excellent,N,low,N,no condition or quality claims provided at all,"Chloé
 Leather Clutch w/ Tags","Chloé Clutch
 Purple Leather
@@ -480,7 +480,7 @@ Height
 Width
 11.75""
 Depth
-0.75""",,
+0.75""",spec mismatch,"models likely defaulted to mention of packaging to label but there isn't any info on wear whatsoever to make a real conclusion so should be insufficient; in scenarios like this where only packaging is mentioned and no wear/etc should likely default to insufficient | Updated 2026-10-09: my labeling rules and the v2 prompt disagree on packaging/tags; the prompt says packaging counts as evidence, so the models followed it."
 L070,insufficient information,excellent,pristine,pristine,N,low,N,no condition or quality claims provided at all,"Saint Laurent
 Wool Blazer w/ Tags","Saint Laurent Wool Blazer
 Black
@@ -504,7 +504,7 @@ Sleeve
 Gender
 Women
 Fabric
-100% Wool; Lining 100% Silk; Pockets/Pocket Lining 97% Cotton, 3% Elastane",,
+100% Wool; Lining 100% Silk; Pockets/Pocket Lining 97% Cotton, 3% Elastane",spec mismatch,"there is no info for the models to have landed on any condition here -- should've been insufficient | Updated 2026-10-09: my labeling rules and the v2 prompt disagree on packaging/tags; the prompt says packaging counts as evidence, so the models followed it."
 L071,insufficient information,excellent,pristine,pristine,N,low,N,no condition or quality claims provided at all,"Brunello Cucinelli
 Linen Straight Leg Pants w/ Tags","Brunello Cucinelli Linen Straight Leg Pants
 Neutrals
@@ -529,7 +529,7 @@ Leg Opening
 Gender
 Women
 Fabric
-100% Linen",,
+100% Linen",spec mismatch,"there is no info for the models to have landed on any condition here -- should've been insufficient | Updated 2026-10-09: my labeling rules and the v2 prompt disagree on packaging/tags; the prompt says packaging counts as evidence, so the models followed it."
 L082,very good,good,good,fair,N,medium,Y,lots of quality descriptions but depending on severity of damage between good and very good,"Hermes
 Chevre Mysore Mini 1923 Bolide Black","Handle: Frayed stitch(es)
 Hardware: Scratch(es), protective plastic sticker(s) intact
@@ -539,7 +539,7 @@ Comes With: FASHIONPHILE Certificate of Authenticity, box, dust bag, strap
 
 Year: 2023
 
-This is an authentic HERMES Chevre Mysore Mini 1923 Bolide in Black. This stylish tote is crafted of supple chevre mysore goatskin leather in black. This mini handbag features rolled leather top handles, an optional leather shoulder strap, and polished gold hardware. The top zipper opens to a matching leather interior with a patch pocket.",,
+This is an authentic HERMES Chevre Mysore Mini 1923 Bolide in Black. This stylish tote is crafted of supple chevre mysore goatskin leather in black. This mini handbag features rolled leather top handles, an optional leather shoulder strap, and polished gold hardware. The top zipper opens to a matching leather interior with a patch pocket.",label error,"models disagreed but would land with very good IMO -- rubric says 5 or more flaws = good, i think should be amended to ""more than 5"" and 5 leaving items in very good category and also here there is a note of something that is good to the description = ""protective plastic sticker(s) intact"" something that also supports the very good claim better than just good and definitely not fair | Updated 2026-10-09: 5 marks = Good under the rubric as written; rubric NOT amended (rejected as post-hoc)."
 L035,very good,fair,good,fair,N,low,N,claim without evidence; only states condition but no quality details to make a determination,JW Pei | Half Moon Bag,"Size
 OS
 Color
@@ -552,4 +552,4 @@ Shoulder Bags
 Brand
 JW PEI
 ♡great condition
-♡zipper is a little difficult, but works fine",,
+♡zipper is a little difficult, but works fine",label error,models picked up on zipper note which landed some of them into the fair realm but b/c stated that it still works fine would land this in the good category; i was also wrong and missed that zipper note so i should've labeled as just good | Updated 2026-10-09: rubric's Fair example is 'a zipper noticeably harder to close'; my Very Good was wrong either way.

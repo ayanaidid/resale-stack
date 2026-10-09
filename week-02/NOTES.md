@@ -66,7 +66,6 @@ graded listings. The model declined on 10 of 30. Platform split of the 30:
 
 ---
 ## Tuesday, Oct 6, 2026
-
 *Brand-absent rule amended*
 Changed the rule for listings that name no brand from `Insufficient
 information` to `Unbranded`. The original rule reused the condition-tier value
@@ -119,6 +118,136 @@ prompt is not edited; v2 output goes to separate files; one run, no further
 prompt changes after seeing results; original results remain the headline.
 
 Prediction (written before running):
-- Tagged agreement rises from 16–22% to at least 50%
+- Tagged agreement rises from 16–22% to 60%
     Why? = chosing 60% because where there already was agreement models match my labeling 58-70% of the time so guessing that by fixing the spec and using the bare claims from the raw descriptions would increase the matches towards the same range.
 - Largest gain: Opus, because it declined the most tagged rows (25 of 37) and appears to follow the prompt most literally. If it follows the updated instruction just as literally, it has the most room to improve.
+
+---
+## Thursday, Oct 8, 2026
+Scoring, the spec mismatch, and the v2 experiment
+
+*What got built*
+- `score.py`: loads labels and predictions, joins on listing_id, scores brand /
+  subcategory / tier after normalization, prints a 6×6 tier confusion matrix
+  with self-checks (diagonal = tier agreement; grid total = n), and splits
+  results by the `claim without evidence` tag. Reads v1 or v2 predictions.
+- `extract.py`: added SYSTEM_PROMPT_V2 and RESALE_LISTING_TOOL_V2 behind a
+  `prompt_version` parameter. Default is v1, verified unchanged with
+  `git diff` and a rubric-equality check.
+- `harness.py`: `--prompt-version` and `--tagged-only` flags. v2 writes to
+  separate `_v2.jsonl` files; v1 outputs untouched.
+- `results/week2_evaluation_results.xlsx`: every result in one workbook.
+
+*v1 results (original prompt, 150 listings)*
+- Brand ~91% for all three models. Subcategory 20–34% (unconstrained free-text
+  field, mostly vocabulary noise). Tier 49% / 59% / 51% (Sonnet / Haiku / Opus).
+- Biggest disagreement source: models declining where I graded — 29 / 30 / 38.
+- Generous skew held for Sonnet (27 vs 14) and Haiku (19 vs 7); Opus near-even.
+- Excellent → Pristine was the largest single cell (8 / 9 / 4): the packaging
+  rule didn't transfer, as pre-registered.
+
+*The spec mismatch*
+- The 37 `claim without evidence` rows were 25% of the set but about two-thirds
+  of every model's declines. Tagged agreement 16–22% vs 58–71% untagged.
+- Cause: my Week 2 labeling rules say bare claims are gradeable; the Week 1
+  prompt said decline them. The contradiction was in two places — the prompt
+  AND the tool's condition_tier description.
+- My hypothesis that Haiku led by echoing seller claims was wrong: Haiku and
+  Sonnet tied on tagged rows (8/37). Haiku's lead was on evidence-bearing rows.
+
+*v2 experiment (pre-registered before running)*
+- Prediction: tagged agreement ~60%; Opus gains most.
+- Result on the 37 tagged rows: 22→68%, 22→57%, 16→76%. Pooled 66.7%.
+  Opus gained most (6→28). Both predictions held.
+- Regression test on the other 113: improved for all three (58→71%, 71→78%,
+  62→75%). Overall tier: 49→70%, 59→73%, 51→75%. Two-plus-tier misses
+  dropped to 1 / 0 / 2.
+- Cost of the fix: models now grade more listings I declined (6→9, 6→8, 5→6;
+  Sonnet graded 8 of them Excellent). v1 erred toward declining; v2 errs
+  slightly toward overconfidence.
+
+*Caveats*
+- v2 was written after seeing v1 on the same 150. Guardrails held (rule taken
+  from my labeling instructions, one run, no tuning), but v2 numbers are
+  optimistic until tested on unseen listings in Week 3.
+- Prompt and tool description changed together; can't separate their effects.
+- One run per model; gaps of a few listings between models aren't meaningful.
+
+*Known issues*
+- `call_with_retry` retries permanent errors (400 credit balance) five times.
+  Should retry only transient ones (429, 5xx, connection errors).
+
+*What I learned / what confused me*
+- Learned how the models differ in terms of reading instructions/prompts -- suprisginly Haiku was really only a small bit different than Opus but saved a lot of costs
+- The models agreed with each other more than they individually agreed with my labels often grading slightly more generously than me, except for Opus
+
+Running the disagreements.py resulted in 24 rows where the models and my grade differed, w/ 17 of them being all three models agreed against my label.
+    - Pre-Review Prediction: I think I'll be right on 60% of them and the models will be wrong.
+
+---
+## Friday, Oct 9, 2026
+**Disagreement analysis and label amendments**
+
+*The analysis*
+- 24 listings where all three v2 models disagreed with my tier; in 17 the models
+  agreed with each other.
+- Final causes: 13 label error, 6 rubric gap, 5 spec mismatch, 0 genuine
+  ambiguity, 0 model error.
+- All label errors fell in rows where the three models agreed with each other.
+  Model consensus against me is a usable signal for which labels to re-check.
+- Limit: only rows where all three models missed were reviewed. Single-model
+  errors weren't, and real model errors live there.
+
+*Patterns*
+- Spec mismatch (again): my labeling instructions and the v2 prompt disagree on
+  packaging. The prompt says "original packaging included" counts as evidence.
+  Second time this week a rule lived in my instructions but not the prompt.
+- Rubric gaps: (1) two conflicting condition statements in one listing (L028,
+  L030, L140, L142); (2) Good and Fair both defined by structural damage, while
+  the Fair boundary says function (L039, L048); (3) severity vs mark count
+  (L105).
+- My own label errors: mostly conservatism — under-grading never-worn items and
+  "like new" claims — plus missed details (zipper note in L035, title claim in
+  L123).
+
+*Rubric decisions made today*
+- Box and dust bag alone are NOT condition evidence (any category): easily kept
+  for storage regardless of use. Packaging alone → Insufficient information.
+- Tags attached ARE evidence of unworn, in any category. Tier then follows the
+  rubric's Pristine packaging criteria: bags/shoes need tags + box + dust bag
+  for Pristine (otherwise Excellent); jewelry doesn't require tags; clothing
+  with tags attached is Pristine. Weakest for jewelry and bags, so low
+  confidence there.
+- Good/Fair: Fair now requires functional impairment, OR three or more
+  structural flaws even without impairment. One or two structural flaws with no
+  functional impact stay Good. "Structural" defined (tears, cracks, holes, seam
+  separation, frayed/broken stitching, peeling, deformation); everything else
+  is cosmetic.
+- Conflicting condition statements, no wear described → grade to the lower.
+  If wear is described, the wear governs.
+- Correction: L013 was wrongly moved to Pristine earlier today (listing says
+  "new without tags"); reverted to Excellent.
+- labels.csv now has 20 amended rows; L039 and L048 → fair; L140, L118, L150,
+  L029 → good. Pending: L092, L093, L111, L027 (Fair → Good under the new rule).
+  - Structural / cosmetic / functional impairment now defined in rubric.md.
+- Fair gains a third path: listing states the item needs or may need repair or
+  refurbishment, including platform boilerplate (exception to the
+  verdict-boilerplate rule, made deliberately). L092, L093, L111 stay Fair on
+  this basis.
+- L027 stays Fair: "some wear and scuffing" summarizes wear without describing
+  it (a verdict), so the platform's Fair claim governs under the bare-claims
+  rule.
+- v1/v2 prompts in extract.py are left unchanged as records; rubric.md and the
+  prompts now diverge on purpose until v3.
+
+*labels.csv amended (13 rows)*
+- Packaging rule → insufficient: L017, L067
+- Tags rule → pristine: L068, L070, L071, L013, L108, L109, L076, L101
+- Tags rule → excellent: L034, L065, L022
+- The amendments resolve several disagreement rows: under the tags rule the
+  models were right on L034 and L065 (now label errors), and L068/L070/L071 no
+  longer disagree with two of three models. The worksheet is left as recorded
+  at review time.
+
+** don’t edit the rubric text inside extract.py. The v1 and v2 prompts are fixed records of what the models were given. Leave them alone, even though they no longer match rubric.md
+  

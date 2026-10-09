@@ -155,15 +155,36 @@ likely to slip late in a session hence why there are session limits.
 
 **Procedure, in order.**
 1. Count the distinct cosmetic marks described
-2. Check for structural language (torn lining, broken hardware, compromised handles)
+2. Check for structural flaws and functional impairment, as defined in week-01/rubric.md.
 3. If structural, apply the override regardless of the mark count, otherwise apply the four-mark ceiling
+    3a. Visible staining (interior or exterior) places the item in Good regardless of mark count. *Added 2026-10-09.*
 4. Assign the tier.
 
-**Pristine requires packaging, by category.** Handbags/shoes/accessories: tags attached, box included, dust bag included. Jewelry: no wear, tags not required. Clothing: tags attached. *Packaging present, condition silent.* A listing that itemizes full packaging (box, dust bag, tags, accessories) but describes no wear and makes no condition claim does not reach Pristine. Packaging is a necessary condition for Pristine, not a sufficient one — the evidence rule still applies, and silence about the item's state is not evidence that the state is perfect. Grade it "excellent" with `label_confidence = low`, and note that packaging was present but uncorroborated.
+**Pristine requires packaging, by category.** Handbags/shoes/accessories: tags attached, box included, dust bag included. Jewelry: no wear, tags not required. Clothing: tags attached. Known failure point, pre-registered: this rule did not transfer to the model in
 
-Known failure point, pre-registered: this rule did not transfer to the model in
 Week 1, and I expect the models to miss it again. Disagreements traceable to
 packaging should be counted separately from disagreements about the item itself.
+
+**Packaging and tags.** Box and dust bag alone are not evidence of condition, in
+any category — they're easily kept for storage regardless of use. A listing with
+packaging but no condition claim and no wear language is `Insufficient
+information`.
+
+Tags attached are evidence the item is unworn, in any category. Count tags only
+when the listing says they're attached or on the item ("w/ Tags", "NWT", "tags
+intact"). Tags described as included or stored separately, price cards,
+authenticity cards and care cards are packaging, not tags.
+
+With tags as evidence, the tier follows the Pristine packaging rule above: bags
+and shoes need tags + box + dust bag for Pristine, otherwise Excellent; jewelry
+doesn't require tags; clothing with tags attached is Pristine.
+
+Confidence: tags are strong evidence for clothing (`medium`, or `high` if the
+listing also says never worn) and weak for shoes, bags and jewelry, where a tag
+can remain while the item is used (`low` when tags are the only evidence).
+
+*Amended 2026-10-09. Previously, packaging with no condition language graded
+Excellent at low confidence.*
 
 **Insufficient information.** Decline only when the title and description contain no condition language at all — no claim, no wear descriptors, nothing about the item's state. A sparse listing is not automatically a decline; a silent one is.
 
@@ -171,6 +192,8 @@ Do not use `Insufficient information` for contradictions — see the contradicti
 rule in section 1. Too much information pointing two ways is not too little.
 
 **Bare claims.** A condition claim with no supporting detail ("excellent condition," "great shape") is gradeable. Take the claim, cap it below Pristine, mark label_confidence = low, and write "claim without evidence" in label_notes. This is a deliberate choice: the claim is the seller's own words in the free text, which is what the model received. It is not a contradiction of the evidence rule — silence is still not evidence of good condition, but an explicit claim is not silence. Platform condition boilerplate is common and splits two ways. 
+
+Conflicting condition statements. When a listing contains two or more condition verdicts that map to different tiers (e.g. a platform field “Very good condition” and a seller line “Good condition”) and describes no wear, grade to the lower. If wear is described, grade the wear instead. Added 2026-10-09.
 
 Boilerplate asserting specific facts about the item's state ("brand new and has never been worn," "still has the original packaging") counts as evidence. Boilerplate asserting a verdict ("Pre-owned - Good," "gently used," "Very good condition") is a bare claim, however many words the platform wraps around it. Tagging: when this rule fires, `label_notes` begins with the literal phrase `claim without evidence`, followed by your reasoning. The phrase is what makes these rows findable at analysis time — free-text reasoning alone can't be
 grouped. Expect a meaningful share of the set to land here, and expect agreement
@@ -187,7 +210,11 @@ The gap is directional, not random — the disagreement runs one way, with other
 
 My position on why the stricter standard is the right ground truth: market grades are set by parties with a commercial interest in higher tiers, since a higher grade sells faster and at a better price while the cost of over-grading — returns, disputes, condition complaints — lands later and often on someone else. Convergence among commercially interested graders is evidence of shared incentive, not shared accuracy. The test that would settle it is buyer-side: if return rates and condition complaints track the market's tiers better than mine, my rubric is the outlier. I can't run that test with this data, and I'd change my position if someone could.
 
+### Amendments Log
 Amendments to week-01/rubric.md are dated and logged, never made mid-pass, and any listing labeled under a superseded definition is re-labeled.
+- 2026-10-09: packaging no longer evidence; tags attached are evidence (with
+  category-based confidence); staining = Good regardless of mark count.
+  13 labels re-labeled, 1 confidence adjusted. See NOTES.md.
 
 -----
 
