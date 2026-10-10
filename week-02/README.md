@@ -91,18 +91,69 @@ I also limited myself to **one attempt**. If I'd tweaked the prompt over and ove
 
 **The cost of the fix.** v2 now gives a grade in a few more cases where I said "Insufficient information" (Sonnet's count went from 6 to 9, and 8 of those 9 were graded Excellent). In resale, guessing too high is the more expensive mistake: a buyer gets something worse than promised and returns it. It's small, but it's real, and it's worth watching.
 
-## 7. Looking at what was still wrong
+## 7. The 24 listings every model got wrong, and why
 
-After v2, **24 listings were missed by all three models.** I went through each one by hand and asked *why*:
+After v2, **24 listings were missed by all three models** (scored against my original labels). I went back through each one by hand and gave it one cause:
 
 | Cause | Count | What it means |
 |---|---|---|
-| **My label was wrong** | 13 | On re-reading, the models were right and I wasn't |
-| **Rubric gap** | 6 | My rules didn't cover the case; both answers were defensible |
-| **Spec mismatch** | 5 | A rule existed in my instructions but not in the prompt |
-| Model error | **0** | Not one clean case of the model misreading a clear rule |
+| **My label was wrong** | 13 | On re-reading, my grade was the mistake |
+| **Rubric gap** | 6 | My rules didn't cover the case, so both answers were defensible |
+| **Spec mismatch** | 5 | My labeling instructions and the model's prompt said different things |
+| Model error | **0** | Not one clean case of a model misreading a clear rule |
 
-The most useful thing I learned all week came out of this: **when all three models agreed with each other and disagreed with me, I was wrong 13 out of 17 times. When the models disagreed among themselves, I was wrong 0 out of 7 times.** So model agreement is a cheap way to decide which of your own labels to double-check first. (It's a way to choose what to re-check, not a reason to accept whatever the models say.)
+**Does it mean anything when all three models agree with each other?** Only a little. Of the 17 listings where all three gave the *same* wrong-by-my-key answer, 10 were my mistakes (about 6 in 10). Of the 7 where they split, 3 were my mistakes (about 4 in 10). Agreement among the models is a mild hint about where to look first, and on 24 listings I can't claim more than that. Every disagreement still needs a human look. *(An earlier version of this README said 13 of 17 and 0 of 7. That was a counting error, now corrected.)*
+
+Here is every listing. "Models" is Sonnet / Haiku / Opus.
+
+### My label was wrong (13)
+
+| Listing | Item | My grade | Models | Why |
+|---|---|---|---|---|
+| L017 | Soeur leather flats | Excellent | Insufficient ×3 | It only says it comes with a box and dust bag. Packaging says nothing about wear. The models were right. |
+| L067 | Hermès Birkin 35 | Excellent | Pristine / Pristine / **Insufficient** | Same problem: a long list of what's in the box, not a word about condition. Only Opus got it right. |
+| L037 | Balenciaga City bag | Very Good | Excellent ×3 | Says "Like New" and nothing else. My own rule is to grade a bare claim (never above Excellent). I played it safe and broke my own rule. |
+| L127 | Anthropologie earrings | Very Good | Excellent ×3 | Same: a bare "Like New." |
+| L123 | DVF leather mules | Insufficient | Excellent ×3 | The title says "Excellent Condition." I read the description, not the title, and missed it. |
+| L096 | Tory Burch loafers | Very Good | Good ×3 | The seller said "good" and listed scratches and scuffs. I graded *higher* than the seller did. |
+| L061 | Van Cleef Alhambra earrings | Very Good | Excellent ×3 | The only flaw is faint scratches on the metal. Under my rubric, that's Excellent. |
+| L108 | Prada cashmere sweater | Excellent | Pristine ×3 | Never worn, tag attached. That's Pristine. I was being cautious. |
+| L109 | Toteme cashmere skirt | Excellent | Pristine ×3 | New with tags. Same as above. |
+| L083 | Ferragamo Hug bag | Very Good | Good ×3 | Five or more wear marks are listed. My rubric says that's Good. |
+| L082 | Hermès Bolide | Very Good | Good / Good / Fair | Five marks listed, which is Good under my rubric. I wanted to change the rule so my answer would count. I didn't (see below). |
+| L105 | Louis Vuitton Sistina | Very Good | Good ×3 | One ink stain inside a pocket. Visible staining is Good, however few marks there are. |
+| L035 | JW Pei bag | Very Good | Fair / Good / Fair | "Zipper is a little difficult, but works fine." I missed that line. My rubric's own example of Fair is a zipper that's hard to close. |
+
+### Rubric gap (6)
+
+| Listing | Item | My grade | Models | Why, and how it was settled |
+|---|---|---|---|---|
+| L039 | Louis Vuitton Speedy 25 | Good | Fair ×3 | About 18 listed flaws, including cracked and peeling leather, but nothing broken. My rubric contradicted itself on Good vs. Fair. New rule: 3+ structural flaws = Fair. |
+| L048 | Gucci Ophidia bag | Good | Fair ×3 | Seam tear, frayed stitching, corner and edge wear. Same Good-vs-Fair gap, settled by the same rule. |
+| L028 | Eugenia Kim flats | Very Good | Excellent ×3 | Says both "New Without Original Box" *and* "Very good condition." No rule for two conflicting statements. New rule: if no wear is described, grade to the lower one. My Very Good stands. |
+| L030 | Nike Air Force 1 | Good | Very Good ×3 | Says "Good" in one place and "Very good" in another. Grade to the lower: Good stands. |
+| L142 | Michael Kors satchel | Very Good | Excellent ×3 | Labeled "Very good," but the seller writes "only used a handful of times, like new." Under the new rule, Very Good stands. |
+| L140 | Leather jacket | Very Good | **Good** / Excellent / Excellent | Platform says "Good," seller says "great shape, no defects." Grade to the lower: changed to Good. Only Sonnet got it right. |
+
+### Spec mismatch (5)
+
+All five have **"w/ Tags" in the title** and nothing about condition in the description. My labeling instructions didn't count tags as evidence. The prompt did, so the models graded them. I decided the prompt had it right (tags still attached means the item hasn't been worn), changed my labels, and wrote the rule down.
+
+| Listing | Item | My grade | Models | Changed to |
+|---|---|---|---|---|
+| L034 | Strathberry shoulder bag w/ Tags | Insufficient | Excellent ×3 | Excellent |
+| L065 | Chloé clutch w/ Tags | Insufficient | Excellent / Pristine / Excellent | Excellent |
+| L068 | Fendi ski pants w/ Tags | Insufficient | Pristine ×3 | Pristine |
+| L070 | Saint Laurent blazer w/ Tags | Insufficient | Excellent / Pristine / Pristine | Pristine |
+| L071 | Brunello Cucinelli pants w/ Tags | Insufficient | Excellent / Pristine / Pristine | Pristine |
+
+### Three stories from the list
+
+**I wasn't reading titles.** In 6 of the 24 (the five "w/ Tags" listings plus L123's "Excellent Condition"), the fact that decided the grade was in the title, and I'd graded from the description. The models read everything they were given. A human skimming 150 listings doesn't. That's a real limit of hand-labeling, and it's why the answer key needs a second look.
+
+**Agreement isn't a vote.** On the Hermès Birkin (L067), two models said Pristine, I said Excellent, and only Opus said "Insufficient information," which was the right answer. The listing describes everything in the box and nothing about the bag. If I'd gone with the majority, I'd have been wrong too. Each model still has to be checked against the rule, not against the others.
+
+**I didn't move the goalposts.** On the Hermès Bolide (L082), my rubric says five marks means Good. I'd graded it Very Good, and my first instinct was to change the rule to "more than five" so my grade would count. That's changing the test after seeing the answer, the exact thing pre-registering is meant to stop. The rule stayed, and my label was marked wrong.
 
 ## 8. Rules I added or fixed
 
@@ -170,7 +221,7 @@ The three untested predictions need a breakdown by platform and listing detail. 
 ## 13. What I learned
 
 1. **Check your instructions before blaming the model.** The biggest improvement this week came from fixing a contradiction I wrote, not from a better model.
-2. **The answer key is a product too.** 13 of 24 hard cases were my own mistakes. A golden set needs review and version control like anything else.
+2. **The answer key is a product too.** 13 of 24 hard cases were my own mistakes, six of them because I under-read the title. A golden set needs review and version control like anything else.
 3. **Write predictions down first.** It's the only way to know whether a result surprised you.
 4. **Look at *how* it's wrong, not just *how often*.** The confusion matrix found the problem. The headline percentage never would have.
 5. **Cheaper can be close enough**, but only a bigger test can prove it.
